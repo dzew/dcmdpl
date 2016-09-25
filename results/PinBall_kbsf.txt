@@ -1,0 +1,79 @@
+trial 0
+Iteration 0: 500 -1193.60574372336
+nn<<OOOOOOOOOOOOnOOOOOOOO<OOOO<OOOOOOOOOOOOOOOOO<OOOOOOO>OOOOOOOOOOOv<<v<vv<v<OOOOOOOOOOOOvn<><nOOOOOOvvvOOOOOOOvvvn<<nOOO<OOOvOOOOvn<><OOOvOOOvO<OOOOvvn<n>OOO<vvvnv<nOOO<v<>OOOOOOOOOOvvnnnnv<<OO<<v<vv<nO<OOOOvvnn<<OOOOOOOvvvv<<<<<vvnOOOOOOOOOOOOO<<<<OOvOv<vOOOOOOOOvvnvnnn<OOOvv<<vOOOOO<vvnvnnn<OOOOvvvvv<vOOOOO>v<v<OOvv>v<<OOOO<OOOOO<<<<<<v<vOnO<<<<<<<<<<v<<OOOO<<<<<OOv<vvv<vvnn<OOOvv>v<<OOOO<OOOO<<<<<<v<vnv<vvv><><v<vOOOOOvnv<OOOO<OOOO<<<<<<Ovvvnnvn<<<OOO<vvvv<<OOOvvvn<<OOOOO<<<<<<<<vvv<O<OO<O<
+Iteration 1: 360 -1368.3063462030616
+nn>>>>><>>>>>n>>>>OO>>>>>nnnnn>vnn>>>>nnnnnn>>OOOOOOOO>nOO>><<<>>>>>>nn>nn>vn>>>>>>n>>OOvnvnvnvn>>>>nn>n>>>><>nnv>>>>>>nvnnnnnvnvnvnvnvn>n>>vnv>v>v>v>nnn>>nn>n>nvnvnnnnnvnvnv>n>>vvnvnv>>>vv>nnnnnn>>>Ovnvnnnnnvnvnvnvnvn>n>>vvv>>>v>vnnOO>vnn>nnn>n>>>><>>>nn>n>n>vn>n>>>>vnvnvnnnnnvnvnvnvn>n>vnvnvnvnv>>>OOOOOOOOOvvvnvnv>vvvvOOOOOOvvnnn>nn>>>>>>>>>>OOOOOOO>OOOOOO
+Iteration 2: 500 -1792.5612474692182
+nn>>OOOn>OO>n>n>nn>nn>OOOOOOOOOOOOOOOnnnnOOOnnnnnnnnnnnnnnnnnnnnnnOnnnnOnnnnOnnnnnnnnnnOnnnnnnnnnnOnnnnOnnnnnnnnnnOnnnnOnnnnOnnnnOnnnnOnnnnOnnnnnnOnnnnOnnnnOnnnnOnnnnnnOnnnnOnv>>>nnnnnnnOOnOnnnn<>OO>>>n>nnn>vnvnvnvvnvnvn>vnvn>n>>n>>>vnnn>>>nnn>nnnnO>>>v>>>>n>n>n>>nnnnn>n>>vv>>vn>>n>n>>nnnn>n>n>>>>v>>nnn>>nnnnn>>>n>>>>>v>>nn>>nnnnn>>n>>>>v>n>n>>>nnnnnn>>>v>>>n>vnn>>n>>nnnnn>n>>vv>>vn>n>>n>nn>nnnn>>>nvv>>vn>>n>n>nnn>>>nn>>>>nnnn>vnvnvnvnvnvnv>nvn>O>>n>>>nn>>>nn>>>nnn>v>nnnnn>n>>v>>>>n>vn>n>>nnnn>n
+-----
+
+trial 1
+Iteration 0: 300 -1175.1104978658102
+nnn>>v>>n>>>>>>>>n>>>OOOvvvvvv>>>>nnn>>>>nv<v><>>>nnnnn>>>><>vvnv>>nn>nnnnnn>>OOOOO>><>O>>>n>nnn>>>n>v>>>>>OOO>>vvvvn>>>>>>nnn>>OOOOO>><>OOOOvO>><><>vn>>>>nn>>>>>vvv<vnvn>>>>nn>n>>OOO>>vvv>>>>vv>vnO>>>>>n>nn>>OO>OO><vnvvv>>nn>nnnnnn>>OOO>><><>vv>>>nnnnn>>>n<>>>>>n>>>>vvv>vn>>>n>>n>>nOO>><<><vv>>>nn>
+Iteration 1: 230 -789.6053824817284
+nnn>>v>>>n>>>>v>>>>>>>>>>n>>>nOOOOnO>OO><n<vOOOOOOOOOOOOOOOOOnOOOn<<><<><vv>>>>nO>>n<<>>><<>>>vvvv>v><vOOOOOOOvOOOOOOOOOOOOOOvv<<<<nvvOOO>>>nnnnn>>>>>n<<><><><v>>vnvvvv>v<<v><>v>O>>>nnnnnnnn>>>>>>>v<v<vvvvOvOOOOOOOn>OOO>On>vv<>>>>
+Iteration 2: 279 -994.7170446845437
+nnn>>v>>OOO>>>>>>>>OOOO>vOO>OOOOO>O>>>v>>OO>O>><><>><>>v<<nn<<OOOOOOOOOOv>>>>nn>OOO>>nn>n>>>vv>>n>OOnv>n>n>>>>n>>>><n>Onv>n>n>>>>>>>>nnOnnn>>n>>nnOnnn><n<vvvv>nnvvnv<vv<<nn<nnvn>><vvvvO<OOv<<v<<n<n>nvOOOOOOOOOOO>>v>>>>nn<vnvn>vv>vnv>nn<OOOvvv>>nnnn>>>>OOOv>v<>vv>nnnOOOOOOnnn><>>
+-----
+
+trial 2
+Iteration 0: 500 -1180.6376534409324
+>OOOO>>vnvv>>OOOOOOOn<<<<nOOOOOOO<><nn<OOOOO<<<<nOOOOO<><<vOOOOO>nnnOOOO>><<<OOOOOO<<<<nOOOOO<><<nOOOO><nnOOOO<<nnnOOOO<<nnOOOO>>><<OOOOO<<<<<vvOOOOOOOOOO>>><><><<OOOOOOOOO><><<><><><OOOOOOOOOO<><><><><>OOOOOOOOOOO><><><><<n<nOOOOOO<><<<vOOOOOOn>nnnOOOnnnn<OOOO>><<<OOOOO<<<<nnOOOOO<<><OOOOO><nnOOOO<<nnOOOOO<<nnOOOO<nnnOOOOO<<nnOOOO<<nnOOOO>>><<OOOOOO<<nnnOOOOO><<nnOOOOO><nnOOOO<<<nnOOOO>n<nOOOO>><<<OOOOOO<<<<nOOOOO<><<nOOOO><nnOOOOO<<nnOOOO<<>nOOOOO<<nnOOOOO<<<nOOOOO><nnOOOO>><<<OOOOOO<<<<nOOOOO
+Iteration 1: 235 -826.7346565594027
+>nn>n>>n<>>>n>OOOOOOOO<OOOO><>O>nnnnnnn>>n>>>>>>>n>nn>>>><>>>>>>>>>>>O>>>vvvO>>nnnvnnn>nv>>>>v><>v>>>>>v>>>>OOv>>>>>>>>>>>>>>>v>>>Ov>>>>>v>>>OOO>>>>>>>>>>>>>>>>>>>>>>>>>>>>OOOOOOOOOOOOOOOOOOO>nv<v<><><><><>OOOOOOOOOOOOOOOOOnOOOOOOv<vvv
+-----
+
+trial 3
+Iteration 0: 500 -1565.1689012810093
+nn<<OOOOOOOOOnOOOOOOOOOOO<<OOOOOOOO<<OOOOOnOOOOOOOOOOOOOOOOOO<OOOOOOOOO<OOOOOO<Onnn<<<OO<<<<<<<<<<<<<<OO<<<<<<<<<<OO<<<<<<<<<<OO<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<OO<<<<<<OO<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<OO<<<<<<OO<<<<<<<<<<OO<<<<<<OO<<<<<<<<<<OO<<<<<<OO<<<<<<<<<<OO<<<<<<OO<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<OO<<<<<<<<<<<<
+Iteration 1: 245 -926.5956954499596
+>n>>><n<>>>>>nvnnnnvnvnvnv>nnn>n>>>>>>OOOvnn>OOOOOOOO>O>><><<>>>>>>>v>><><>>>n>nnvnnn>>>n>>>>>>>>>nnnvnv>>vvOO<><nnnn>n<>>><n>>>>>>vvv>v>vvv<OOOOO>>vv><>>>nn<><><>>nnn><>>>>>n>nv>n>nnnnnvnv>>nvnvnvnvnvnvnvnvnvnv>OOOOOOOOOOOOO>>OOOOOOOOOnOOvOOOnO
+-----
+
+trial 4
+Iteration 0: 157 -550.4885088140812
+nn>OOOOOOOOOOO>OOOOn>>>OOO>><><>vO>O>>>>>vvv>vvvvnvnvnvn<<<<><vOOOOOO>>>>vvvnvv<vnnnn>nvv<<<<><n><>>vOOOOOO>n>>OOOO>>>>n>>>>>>Ovvv<vvOvvOOOOO>v>OO>>nnn>>>O>>
+-----
+
+trial 5
+Iteration 0: 1000 -2540.1795441795266
+>>>>>>>>>>>>>>v>OOOOOOOnn>OOOOOOOOv><<<><><><><>nnOv>OOO>>>vnOOOOOOOOOOOO>>>>><<<OOOOOOn>vO<<n>n>n>OOOv>><>n>nnnn>>n><nOOOOOOOn<><><>nnn>nOOOOOOOOOOOOOOO><><><><><>>nnnOOOOnn><><><><><nnOOOn>nnnn>><><>>nOOn>><><><>>><>nnnnnn<><><><><><><><><><><><>>>>><nnnO>n>vv>>nnnnn>>>nvnvnnOn<OO<<nnnnOOOn><><><>nnOOOn>><n>nOn>nvnnn>nOn><><n<nnnn<nnn>><><><><>nOOOnnn>><><><>nnOOnn>><><><>nOOnOnn<<vvvv>>n>>nnnnnOOOOOOOOOOOOOOOO<><<vv>>n>nnnn>vnvnnOOOOOOOOOOOOOOOOOOOn>><><><><nnnOOOOOOOO<nnOOn><nn>>><nn>><><>><><><><><<>n>>><<><><><><><>nOOOOn>><><>nOOn>>><<><>nnOOnn<><><><n>><><><n>>nOOOOn><>>>n<nnn>><><>nOOnOnn<<vvv>>nnn>nOOOOOOOOOOOOnOOO<n><><>nOOOn>>><<><><>n>nOOOOn>nOn>>><>nnnnnn<><><><><><><><><><><><><>>>>><nnnO>>nnnnnnOOOOOOn><><><><><>nnOOOOOOn>><><><><><nnOOOOOOOOn><><><>>>nnOOnn><><>><><><>><><><><>nnOOnn><><><>><><><><><n>><><nnnOOnvnnnOOOOOn<<>n>>><<><><><><><><>nOOOOn>><><>nOOnnnnOOO>><><<n>nOOOOOn>><><>nnOnn>><><><><>>nOOOOOn><><nn>>><><><><<>n>>n<><><><><nOOOOOOn<n>><><n<><><>>><><>nnO
+Iteration 1: 1000 -2926.998615252977
+>n>vv>vOOOOOOOO>n><>O>><<<><><<><>>>>vnOOOOOOOn<OOOOOOOOOOOOvnv<n<<<<<<<<>OnOOOOOOOOOOOOO>>vvnvnvnvnvnvnvnvn>nvnvnvnvvv>nnvvvvnvnvnvnvnvnvOOOOOn>>>n>>>v>v>v>vv>v>vnvnvnvnvnvnvnvnvnvnvnnn>>v>>v>>nvnvvv>nvnvvvnvnvnvnvnnnnnv>>nv>vvvnvnv>nn>>>vnvn>>v>vvvnvnvnvnvnvnvnvnnn>>vnvnvnvn>v>>v>vvnvnvnn>nvnvnvvv>nvnvnvvvnvnvnnvnnnnv>>>nvvvnvvnv>>>>vnvnvvvnvnvnvvnvnvnvnvnvnvnvOn>>>>>>>nv>>OOOO>n>n>n>On>>v>vnv>>v>vv>vv<<><nnvnv>nv>>vv>>vvvn<<vnnOOnv>nv>>vv>>vvnv<<><nnnnn>>vnv>>>>vv>>vvnvnvnvnvnvnvnvnvnn>n>vnvnvnvnvnvvvvnvnvnvnvnvnvnvnvnvnvnvnvOOOOOOn>n>>>>>>>>>vvvv>v>>>v>vnv>>v>nvnvnvnvnvnvnnvnvnvn>n>vnvnvnvnvvvvnvvnvnvnnvnvnvnvOOOOOOOn>n>>>>><><>vvvv>>v>v>n>v>O>>>vvnvnvnvnvnvnvnnvnn>>vn>v>v>vvnvnvnn>>>>vvnvnvnvnvn>vvnvnvnvnnvnvnvn>nvnvnvvv>nvnvvvnvnvnvnnnnnv>>>nvvvnvvnvnv>vvvnvnvnnnvvnvnvnn>vnvnvnvnvnvvv>nvnvvnvnvnvnnn>>n>v>>nvv>>>>v>v>>vvnvnv>nvnvnn>vvvnvnvnvnvnvnvnvnvnvnnnn>>vnvvvnvnvnnvvvvnvnvnvnvnvOOOn>>>>>vnvn>nn>vnnn>>vnvnvnvn>vnvnvnvvvvvnvnvnnvnvnnnnvn>>v>n>vnv>>>v>v>>v>>>>>vv>>>>>>v>>vnvnvnv
+-----
+
+trial 6
+Iteration 0: 1000 -2030.1631972773882
+n<n<OOOOOOOOOO<OOOOOO<<<<<<<n<<<OOOOOOOO<<<vvOOOOnvnv<OOOOOOOOOOOOOOO<n<O><<OO><vO><>OOO<nOO><OO><<OO><vO><>OO<n>OO<><OO<nOOn>OO<><OO<<OO<<nO><OOn><vO<<OOn<OO>vOOO<<OOO<OO>nO>O><<vO><OOn><vO<<OO>v<OO><OO><>OO<><O>><OO><>OOO<>OOO<>OOO<><>O><OO><><OOnv<<O>><OO><OO><>OOO<>OOO<><>O><OO><OO><>OOO<>OOO<><O>n>OOO<nvO><OOO<nvO><OO<nvO<<OO>v<OO><OO><>OOO<>OOO<><>O><OO><OOO><OO><>OO<><O>><OOO><OO><OO>><OO><OO><>OO<><O>><OO><>OOO<>OOO<>OOO<><>O><OO><>OO<><O>><OO><>OO<><O>><OO><OOO><OO><>OO<><O>><OO><>OO<><O>><OO><>OO<><O>><OO><OOO><OO><OO>><OO><OO><>OOO<>OOO<><>O><OO><OOO><OO><>OO<><O>><OO><>OO<><OO><OO>><OO><OO><>OO<><O>><OO><>OO<><OO><OO>><OO><OO><>OOO<>OOO<>OOO<><O>><OOO><OO><OO>><OO><OO><>OO<><O>><OO><>OO<><OO><OO>><OO><OO><>OO<><O>><OO><>OO<><O>><OO><>OO<><O>><OO><OO><>OOO<>OOO<><>O><OO><OO><>OOO<>OOO<><>O><OO><>OO<><O>><OO><OOO><OO><>OO<><O>><OO><>OO<><O>><OO><OOO><OO><OO>><OO><OO><>OOO<>OOO<>OOO<><O>><OO><>OO<><OO><OO>><OO><OO><>OO<><O>><OO><>OO<><OO><OO>><OO><OO><>OOO<>OOO<>OOO<><O>><OOO>
+Iteration 1: 1000 -1327.505775758291
+nn<OOOOOOOO<OOOOOOOOOOOOOOOOO<nOOOOOOOOOOOvnnn<n<vOOOvOOOOOOOOOOOOOOOOOOOO<<OOOOnOOOOnvnvnOOOOOnvnvOOOOnv<OOOOOOOOOOOOOOOOOOOOOO<<<nn<n<vOOOOvOOOOOOOOOOOOO<nnOOn<vvnOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO<n<n<nOOOvv<><OOOOOOOOOOOOOOOOOOOOOOOOO<n<<nn<vvOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO<nn<vnv<OOOOOOOOOOOOOOOOOOOOOOOO<nnn<vvnOOOOvOOOOOOOOOOOOOO<n<<nn<<vOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO<n>OnnvnvOOOOnvnvOOOOO<OOOOOOOOOOOOOOOO<nnOOOn<vvOOOOOOOOOO<nnn<vvOOOOO<OOOOOOOOOOOOOOnOOnvnvOOOOOOOOOOOnvnvOOOOnv<OOOO<nOOnOOOOOOOO>OOOOOOn>>OOOO<nv>OOOOnOOOOOOvOOOO>OOOOnOOOOnO<OOvOO>OOO>OOOOO>nn>O>n>OOOOO>OOOOOOn<OOvOO>OOO>OOOOOn<OOOOvOOOOOOO>O>nOOOn<nOvOnO>n>OOOOOOOOOnO>O>n>OOOOO>>OOOOOnOOOOvOOOOOOOO<nn<OvOnOOOOOO>OOOOOOOn>>OOOOOOO>>>OOOOOOO>>>OOOOOOO>>>OOOOnOOOOOOO>OOOOOOOOOO>OOOOO<nOOOOO>OOOOOOOv>OOOOOnOOOOOvOOOOOOO>OnvvOnOOvOOO>O>n>OOn<<<nn<nnn<OOOOOOOOOOOOOnnn<<OOOOOOOOOOOOOOO>OOOOO>nOOO<OOOO<>>OOOOOOOnOOOOvOOOOOOO<><<OOOOOOOOOOO>OOOOOOO>OnvvOnOv>OOOO>nn>>nOvO>>OOOnOOOOOOO>O<nvOOOn>>OOO
+-----
+
+trial 7
+Iteration 0: 252 -996.4200603045848
+nn>>OO>>>>>>>>>>>>>n>>>>>>>OO>>n>>>n>>>OOn>>>n>OO>>O>>>>O>O>>>>OOOOOOO>OOOOOOOO>>>>nv>>vvvvvnvn>>>>v>>>>>>v>>vnvnvnvn><vnvnvnvnvnvn><vnvnvnvnvnvnvnvnn>>>>v>>vvvvvnvnvn>nnnvnvnvnvnvnvnvnvnvnv>n>>><>v>>vvvvnvnnvnvnvnvnvnvnv>nn>>>vnn>v>>>>>>>>>>>>>OOOOO>>
+Iteration 1: 176 -495.12641833483247
+nn>>OOnn>>>v>>>>nOOOOO>>>n>>>>>>>>>>>OOOOOOOOO>OOOOOOOOOOOOOO>>>>>>>v>OOOOO>>>><><<<<><>nnnnnvnvnnn>>OOv>>v>>vv<><OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO>n>v>n<v>OOOOO>OOOOO>OOn>O>
+-----
+
+trial 8
+Iteration 0: 1000 -2815.0235497594354
+nn>OOO>>><>>>>>>>>>nvnvnn>>nnnnnvnvnvnv>OOOOOOOOOOOOOOOOOOOOO>OOOOOOOOOOOOOOOOOOO>n>n>n<<<<OOOOOOOOOO>>>OOOOvvnvnvvv>>n>vn>>v>>n>vv>>vv>>nn>n>vvv>>>>vv>>n>vvnvnvn>><nnn>vvnvv>nnv>vv>>v>>>n>vv>nnnOOOOOO>vv>>v>>>>>v>>v>>n>vv>n>>>vv>>vnvnvn>>>nnOOOOOOO>v>v>>v>>>vv>n>>v>>v>>>n>nOO>vv>>>>>>vv>>>v>vnvnvnvnvnvn>nnn>>>vvvvvnvn>><>>nnOOOOO>vv>>>v>>>vv>n>>v>>n>vv>nnnvv>v>n>vv>>>nn>vvv>>nn>n>vvv>>v>>v>>nnv>v>>>n>vvv>n><nnn>vvv>>>>vv>>n>vvnvnvnnnn>vv>n>>>>vvvv>>n>>>vv>>n>>>vv>>>>>>v>>>>vv>nnnOOO>vv>>>v>>>vv>n>>>>>v>>>n>vvv>n>>>>nOv>v>>v>>>>>>v>v>>n>vv>n>>>>>vv>>>>>>vv>n>>>>nOOv>v>>v>>>>>>v>v>>n>v>>>>>>vv>>>>vvnvnvnvn>nnvvv>>>>>nnn>>vvnvnv>vvvnvnvnvnnnnvn>vv>>v>>>>>v>>v>>>v>>>>vvnvnvnvnvn>nnn>>>vvvvvnvnvn>><>>nnOOOOOv>>v>>n>OO>vvv>>>>v>>>v>>>>>>>>>vv>>n>>>O>>>vv>>vvn>>v>>n>>>vv>>v>>>>v>>>>>nnn>vvvv>nnnvnn>vvvvv>nvnvnv>>>nnnOOOOOOO>vv>>>vvn>>v>vvn>>n>>v>v>vnvnvnvnvn>nnnOOOOOOOO>vv>v>>v>v>>>>>>>v>>>>>>>>n>OO>vvv>v>n>vO>>v>>>n>vv>>n>v>n>vv>>>nn>vvv>>n<v>>>v>>>nnnOOOOOOO>vv>v>>v>v>>>>>>>>>>>>>vv>>>v>>>
+Iteration 1: 169 -477.28867210040227
+n>n>nOOO>>>>>>>nnnn>>>vnvnvn>n>>>O>>nnn>>>>>>nn>O>>OOOOOOOOOOOOOOOOO>OOOOOOOOOnOO>OOOOOOOOOOOOOOOOOOOOOOOOOOOOOOO><><<><>>>>n>>OOOOOOOOnOn<nnOO<OOOOO<<<<<<<<<v<v<>>Onn>>
+-----
+
+trial 9
+Iteration 0: 1000 -3111.6309538316787
+>OOOO>OOOOOOO>>>>>>>>O>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>O>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+Iteration 1: 1000 -2671.26990744648
+>OOOOO>OOOOOOO>>>O>>>>>>>>>>>>>>OO>>>>>>OO>>>>>>>>>>>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>>>>>>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>>>>>>>>>>>OO>>>>>>OO>>>>>>>>>>>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>O>>>>>>>v>v>>>>>>O>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>OO>>>>>>O>>>>>>>v>v>>>>>>O>>>>>v>>>v>vOOOOOOOOOOOOOnnOOOOOOOO>v>>>>OOOOOOOOOnOOO<vnv>>>>>>>>vv>>>n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>n>>>>>>>>>>>>v>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>n>nn>OOO>OOOOOOOOnOOnnnnnnnnnnnn>>nnnnnnnnnn>>nnnnnnnnnn>>nnnnnnnnnnn>>n>>>vvnvnnvn>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>v>n>>n>nn>>>>>>OOOOOOOOOOOnOnnnnnnnnnnnn>>nnnnnnnnnn>nnnn>nnnnnnnnnnnnnnnn>>vnn>nnnnnnnnn>>nnn>>nnnnnnn>v>nnnn>nnnnn>nnnnnnnnnnn>n>>>>vvnnvn>vn>>>>
+-----
+
+trial 10
+Iteration 0: 500 -1822.202328455353
+>Ov>OOOO>O>OOOOnOOOOOOOOOO>>>>>>>>>>>>>>nnOOn>>>>>>>>>OOOOOOOOO>vnnnnnnnnnnnn>nnn>OOnnnnn>nnnnnn>nnnnnnnnnnnn>OOnnnnnnnnnn>nnnnn>nnnnnnnnn>>nnnnnn>nnnn>>>>nnnnnn>nnnn>nnnnnnnnnnn>>nnnnnn>nnnnnnn>nnnnnnn>nnnnnnn>nnnn>nnn>nnnnnn>nnnnn>nnnn>nnnnnnn>nn>nnnnn>nnnnnnn>nnnn>nnn>nnnnnn>nnnnn>nnnn>nnnn>nnnnnnnnnnnnnnnn>nn>nnnnnOnnn>nnnnnnnnnnnnnnnnn>nnnnnnnnnn>>nnnnnnnn>n>nnOOnnnnn>nnnnnnnnnnnn>nnn>nnn>>nnnnnnnnn>nnnn>>>nnnnnnnn>nnnnn>nnnnnnnnnnn>nnnnnnnnnnnnn>nnn>nnnnnnnnnn>nnn>nnnnnnnnnnn>nnnnnnnnOnnn>
+Iteration 1: 500 -1846.5919289188444
+nnn>>>>OOO>>>>nnnnn>>vn>>>>>>OOOvv>OOO<>nnO>>>>>OOOOOOOOOnnOOOOnvnnnnnOOOOOO>>OOnnn>nnnnnnnnnnn>nnnnn>nn>Onnnnnnnnnnnnnnnnn>nnnn>n>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnn>nnnnnnnnnnn>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnn>nnnnnnnnnnnnnnnnnnnnnnnn>nnn>nnnnnnnnnnnn>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnnnnnnnnnnnnnnnnnnnnn>nnnnnnnnnnnn>nnnnnnnnnnn>nnnn>nnnn>nnnnnnnnnnnnnnnnnnnnnnn>nnnnnnnnnn>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnn>nnnnnnnnnnnnnnnnnn>nnnnnnn
+Iteration 2: 500 -1860.7879688991663
+nnn>>>>OOO>>>>O>OO>>>>>>>>>>>>>>>>>OO>vOO>>OOOnOvvv>v>O>>>>OOOOnOvnnnnn>>>>>OOOOOnnnnnnnnnnnnnnnnnnnn<nnnn>nnnnnnn>nnnnn>nn>nnnnn>nnnnnnnnnnn>Onnnnn>nn>nnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnnnnnnnnn>nnnnnn>nnnnnnnn>>>>>>>nnnOnnn>nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnnnn>nnnnnnnn>nnnnnn>nnnn>nnn>nn>>>nnnnnn>nnn>nnn>nnnnn>nnnnnn>nnnnnnnnnnnnnnnn>>>nn>nnnnn>>>nnn>nnnn>nnnnn>nnnnnnnnnnnnn>nnnnnnnnnnnnnnnnnnnnn>nnnn>nnnnnnnn>nnnn>Onnnnnnnnnnn>>nn>n>nnn>nnnnnnnnnnnnnnnnnnnnnnnnOnnnn>nnnnn>nnnnnn>>nnnnnnnn

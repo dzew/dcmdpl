@@ -1,0 +1,50 @@
+\chapter{Proofs}
+This section contains two proofs that were omitted from section 4.3.
+
+\begin{claim}Any dataset $D = \{(x_1, y_1), (x_2, y_2)\}$ with $x_1 \neq x_2$
+and $y_1 \neq y_2$ is a stable fixed point of FDK for any choice of kernel if
+the
+domain is taken to be the set $\{x_1, x_2\}$ (i.e. no
+interpolation between the two points).\end{claim}
+
+\begin{proof}The diameter of the domain is $\|x_1 - x_2\|$. Since
+\textit{DAWIT} is diameter preserving, the two points in the domain do not
+move relative to each other after the transformation.
+It follows that $\|\Phi(x_1) - \Phi(x_2)\| = \|x_1 - x_2\|$ and thus
+$\tilde f_1(x) = \tilde f_2(\Phi_1(x))$ for both $x_1$ and
+$x_2$, making $D$ a fixed point of FDK.
+Note that $D$ is not an attractive fixed point: if the
+$x_i$ are perturbed, the result is a new fixed point.\end{proof}
+
+\begin{claim}When done using a kernel, $k$, with compact support having
+bandwidth,
+$b < \frac{\mathrm{diam}(X)}{c}$ for some integer, $c$, FDK has a stable, attractive fixed point with
+$c + 1$ atoms.\end{claim}
+
+\begin{proof}(by construction)
+Consider the dataset $D = \{(x_i,y_i)\ |\ i = 0\ldots c\}$ with $x_i = y_i = ic$.
+We show that performing a round of FDK does not move the $x_i$ relative to
+eachother, making $D$ a fixed point.
+
+Solving for $\tilde f_0$ gives $$\tilde f_0(x) = \sum_i k(x,x_i)y_i = y_i.$$
+Note that the value predicted for each $x_i$ is independent of $x_j\ \forall
+j\neq i$. This is because a kernel centered on one point does not reach any
+of the others.
+Further note that $\tilde f_0$ is a line, making $D$ a fixed point 
+
+To show that $D$ is an attractive fixed point, purturb every $x_i$ in the
+domain by some $\epsilon_i$, setting $x_i' = x_i + \epsilon_i$.
+If each $|\epsilon_i| < \frac{\mathrm{diam}(X)}{c} - b$,
+it will still be the case that $\tilde f(x_i') = y_i$.
+To straigten out $\tilde f$, the WIT will push each $x_i'$ closer to $x_i$.
+This makes $D$ an attractive fixed point.
+\end{proof}
+
+The proof above shows that as the bandwidth shrinks, the number of atoms
+increases.
+This implies that the piecewise flat approximations generated with a
+smaller bandwidth will have more pieces.
+The proof can be extended to deal with kernels without compact support.
+
+\clearpage
+\newpage

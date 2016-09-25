@@ -1,0 +1,40 @@
+\chapter{Conclusions and Future Work}
+The way a problem is represented can have a substantial impact on how difficult
+it is to solve.
+The right representation can make short work of a seemingly complicated
+problem.
+A good representation is one that is highly correlated with value.
+Existing algorithms for representation discovery do not explicitly take value
+into consideration and thus cannot discover such a representation in most
+situations.
+This thesis introduced an iterative representation discovery algorithm that
+interleaves steps of value approximation and representation updates.
+This algorithm was effective across a range of problems, including three
+benchmark reinforcement learning problems.
+The work in this thesis opens several exciting avenues for future research.
+
+The first and most natural next step from this thesis is a thorough exploration
+of the properties of the FIIRA framework.
+It would be interesting to see how different combinations of regressors and
+transformers work together.
+It would be particularly interesting to see the results of performing FIIRA in
+a parametric reinforcement learning setting.
+Such an exploration could result in formal proofs about FIIRA's properties.
+
+Another possible next step would be an in-depth study of the applicability of
+sustained actions to KBRL.
+Sustained actions were instrumental in the experiments detailed in Chapter 5,
+especially in the PinBall domain.
+Without sustained actions, the number of sample transitions needed to cover
+the space would have exceeded the available computational resources.
+I firmly believe that there is some fundamental principle behind sustained
+actions that makes them worth studying.
+
+Yet another possible direction would be to seek out new applications for FIIRA.
+This thesis discusses only reinforcement learning, but FIIRA could be applied
+in other function approximation tasks.
+The particular FIIRA algorithm described in this thesis could also be used as
+a clustering algorithm.
+It collapses the domain into a finite set of atoms and has been demonstrated
+effective at identifying discontinuities.
+This suggests potential as an algorithm for clustering by value.

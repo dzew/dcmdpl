@@ -1,0 +1,8 @@
+*.class
+bin/*
+*.pyc
+icml/*
+nips/*
+writeup/lgrind.sty
+META-INF/*
+\.svn/*

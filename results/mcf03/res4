@@ -1,0 +1,3025 @@
+Buildfile: /home/dawit/workspace/thesis/build.xml
+
+clean:
+   [delete] Deleting directory /home/dawit/workspace/thesis/build
+
+compile:
+    [mkdir] Created dir: /home/dawit/workspace/thesis/build/classes
+    [javac] /home/dawit/workspace/thesis/build.xml:24: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 123 source files to /home/dawit/workspace/thesis/build/classes
+
+jar:
+    [mkdir] Created dir: /home/dawit/workspace/thesis/build/jar
+      [jar] Building jar: /home/dawit/workspace/thesis/build/jar/MdpSolver.jar
+
+run:
+     [java] Width: 0.07142857142857142
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.501, 0.001] in 80779
+     [java] Reached end MtCar[0.503, 0.004] in 61797
+     [java] Reached end MtCar[0.513, 0.019] in 2838
+     [java] Reached end MtCar[0.504, 0.007] in 23297
+     [java] Reached end MtCar[0.501, 0.012] in 99578
+     [java] Reached end MtCar[0.503, 0.014] in 20129
+     [java] Reached end MtCar[0.501, 0.025] in 16633
+     [java] Reached end MtCar[0.504, 0.009] in 99199
+     [java] Reached end MtCar[0.505, 0.006] in 10015
+     [java] Reached end MtCar[0.500, 0.015] in 8260
+     [java] Reached end MtCar[0.522, 0.024] in 103407
+     [java] Reached end MtCar[0.503, 0.011] in 13721
+     [java] Reached end MtCar[0.504, 0.008] in 9892
+     [java] Reached end MtCar[0.508, 0.015] in 24562
+     [java] Reached end MtCar[0.506, 0.019] in 38560
+     [java] Reached end MtCar[0.505, 0.012] in 52965
+     [java] Reached end MtCar[0.505, 0.013] in 11522
+     [java] Reached end MtCar[0.504, 0.010] in 8900
+     [java] Reached end MtCar[0.507, 0.013] in 202644
+     [java] Reached end MtCar[0.507, 0.008] in 43259
+     [java] Reached end MtCar[0.520, 0.022] in 4895
+     [java] Reached end MtCar[0.501, 0.009] in 93865
+     [java] Reached end MtCar[0.500, 0.004] in 81664
+     [java] Reached end MtCar[0.507, 0.013] in 4476
+     [java] Reached end MtCar[0.501, 0.015] in 108962
+     [java] Reached end MtCar[0.512, 0.024] in 33257
+     [java] Reached end MtCar[0.504, 0.024] in 3667
+     [java] Reached end MtCar[0.501, 0.008] in 123559
+     [java] Reached end MtCar[0.502, 0.005] in 80851
+     [java] Reached end MtCar[0.501, 0.018] in 5955
+     [java] Reached end MtCar[0.501, 0.013] in 7631
+     [java] Fraction of state space reached: 140 / 196
+     [java] want 200
+     [java] Through bin 3 sizes 1
+     [java] 140
+     [java] Begin computation
+     [java] #13.156493061706858 on iteration0
+     [java] #12.670797267735896 on iteration1
+     [java] #8.391411679659193 on iteration2
+     [java] #7.299368104612519 on iteration3
+     [java] #6.666988616731267 on iteration4
+     [java] #5.983318537452554 on iteration5
+     [java] #5.376967719339447 on iteration6
+     [java] #5.113593346235369 on iteration7
+     [java] #4.61560097861301 on iteration8
+     [java] #4.466708185926095 on iteration9
+     [java] #4.350832518500553 on iteration10
+     [java] #4.334614257498274 on iteration11
+     [java] #4.326560249739515 on iteration12
+     [java] #4.285008499430816 on iteration13
+     [java] #4.240613829468749 on iteration14
+     [java] #4.2189948833245765 on iteration15
+     [java] #4.183636681072059 on iteration16
+     [java] #4.125874399891181 on iteration17
+     [java] #4.093706670943959 on iteration18
+     [java] #4.065664156135085 on iteration19
+     [java] #3.9782016711716466 on iteration20
+     [java] #3.523401837248258 on iteration21
+     [java] #2.9967016496439953 on iteration22
+     [java] #2.806271656931628 on iteration23
+     [java] #2.7582189451524926 on iteration24
+     [java] #2.4319471474025107 on iteration25
+     [java] #2.066899783707811 on iteration26
+     [java] #1.6931520290270328 on iteration27
+     [java] #1.3520004939733923 on iteration28
+     [java] #1.0715492437203267 on iteration29
+     [java] #0.8719037563592025 on iteration30
+     [java] #0.6240840731408923 on iteration31
+     [java] #0.5267847287377379 on iteration32
+     [java] #0.441342174639729 on iteration33
+     [java] #0.35644386268542405 on iteration34
+     [java] #0.2512620800336265 on iteration35
+     [java] #0.19587765030121318 on iteration36
+     [java] #0.16908253317731692 on iteration37
+     [java] #0.13109743348736913 on iteration38
+     [java] #0.09394375550017742 on iteration39
+     [java] #0.061902443711787214 on iteration40
+     [java] #0.03879384556753962 on iteration41
+     [java] #0.02845490790258509 on iteration42
+     [java] #0.02328686700519711 on iteration43
+     [java] #0.01891237650195876 on iteration44
+     [java] #0.015276677733083943 on iteration45
+     [java] #0.01215478601993425 on iteration46
+     [java] #0.009154968118849638 on iteration47
+     [java] #0.007365788755294034 on iteration48
+     [java] #0.005683036741174874 on iteration49
+     [java] #0.004299730032016669 on iteration50
+     [java] #0.00357397045701191 on iteration51
+     [java] #0.0029818209313958732 on iteration52
+     [java] #0.002368293553601575 on iteration53
+     [java] #0.0017122087955385723 on iteration54
+     [java] #0.0013010221157401247 on iteration55
+     [java] #0.0011011971697030276 on iteration56
+     [java] #8.738121524345388E-4 on iteration57
+     [java] #6.439804243285607E-4 on iteration58
+     [java] #4.4237903895805175E-4 on iteration59
+     [java] #2.8752545755139636E-4 on iteration60
+     [java] #1.9153539587080104E-4 on iteration61
+     [java] #1.578402683293234E-4 on iteration62
+     [java] #1.2825086521672802E-4 on iteration63
+     [java] #1.0289921769413013E-4 on iteration64
+     [java] #8.063053726914404E-5 on iteration65
+     [java] 
+     [java] Results: [140]
+     [java] Begin computation
+     [java] #33.62558456722152 on iteration0
+     [java] #23.482096856958748 on iteration1
+     [java] #12.552431882459786 on iteration2
+     [java] #9.09991058301354 on iteration3
+     [java] #8.306836487833138 on iteration4
+     [java] #6.2253235123083215 on iteration5
+     [java] #5.772958761867997 on iteration6
+     [java] #5.663697907355335 on iteration7
+     [java] #5.382073436582843 on iteration8
+     [java] #5.36602904944354 on iteration9
+     [java] #5.31010948611312 on iteration10
+     [java] #5.292514690028717 on iteration11
+     [java] #4.86094548872007 on iteration12
+     [java] #4.568744553766265 on iteration13
+     [java] #4.17024228098056 on iteration14
+     [java] #3.897646202325376 on iteration15
+     [java] #3.0488828058120134 on iteration16
+     [java] #1.191485461508421 on iteration17
+     [java] #0.5111192202011381 on iteration18
+     [java] #0.3771939476127528 on iteration19
+     [java] #0.3326376443742447 on iteration20
+     [java] #0.31301762638160824 on iteration21
+     [java] #0.25639162243402325 on iteration22
+     [java] #0.24479884546462927 on iteration23
+     [java] #0.21545364483783658 on iteration24
+     [java] #0.17794631089317647 on iteration25
+     [java] #0.15225354018157589 on iteration26
+     [java] #0.10305738489235239 on iteration27
+     [java] #0.061352275706283876 on iteration28
+     [java] #0.0322775800557622 on iteration29
+     [java] #0.01474346863707865 on iteration30
+     [java] #0.005965812569087348 on iteration31
+     [java] #0.004249239963968421 on iteration32
+     [java] #0.0038171395095503158 on iteration33
+     [java] #0.0032909654439947644 on iteration34
+     [java] #0.0024014617656575865 on iteration35
+     [java] #0.0015743516964334958 on iteration36
+     [java] #9.326853831481685E-4 on iteration37
+     [java] #8.414111138961289E-4 on iteration38
+     [java] #7.016699590849385E-4 on iteration39
+     [java] #5.1883751797277E-4 on iteration40
+     [java] #3.2484145046396407E-4 on iteration41
+     [java] #1.7668060843334388E-4 on iteration42
+     [java] #8.872157340533704E-5 on iteration43
+     [java] 
+     [java] Results: [140, 152]
+     [java] Begin computation
+     [java] #18.963453767556203 on iteration0
+     [java] #13.900397801375064 on iteration1
+     [java] #8.78635687491851 on iteration2
+     [java] #6.826406373731842 on iteration3
+     [java] #4.065468002105121 on iteration4
+     [java] #3.84586966749616 on iteration5
+     [java] #3.2585866284175324 on iteration6
+     [java] #2.5580197463334002 on iteration7
+     [java] #1.6521258425119214 on iteration8
+     [java] #1.5080562346840551 on iteration9
+     [java] #1.1764802337919704 on iteration10
+     [java] #1.1734482869838416 on iteration11
+     [java] #0.8303635999052972 on iteration12
+     [java] #0.8103615655890479 on iteration13
+     [java] #0.6490178448018185 on iteration14
+     [java] #0.6300327141316444 on iteration15
+     [java] #0.5095398854048341 on iteration16
+     [java] #0.5056654005496739 on iteration17
+     [java] #0.3940195690694708 on iteration18
+     [java] #0.3846202078988199 on iteration19
+     [java] #0.30289124535622136 on iteration20
+     [java] #0.29689070565085274 on iteration21
+     [java] #0.2454666642986041 on iteration22
+     [java] #0.2390323998644277 on iteration23
+     [java] #0.1917101076576273 on iteration24
+     [java] #0.16319220030584347 on iteration25
+     [java] #0.10770567446631674 on iteration26
+     [java] #0.08952778765748803 on iteration27
+     [java] #0.06133116647815484 on iteration28
+     [java] #0.06082391997222203 on iteration29
+     [java] #0.04547772323734023 on iteration30
+     [java] #0.04533356312748538 on iteration31
+     [java] #0.033895665360205385 on iteration32
+     [java] #0.033788219286904564 on iteration33
+     [java] #0.025263272839282536 on iteration34
+     [java] #0.025183190639822328 on iteration35
+     [java] #0.01882933843586443 on iteration36
+     [java] #0.01876965120419527 on iteration37
+     [java] #0.014033968924010765 on iteration38
+     [java] #0.013989482563147249 on iteration39
+     [java] #0.01045986211563843 on iteration40
+     [java] #0.010426705337408748 on iteration41
+     [java] #0.007795992429137755 on iteration42
+     [java] #0.007771279867327507 on iteration43
+     [java] #0.005810544850916699 on iteration44
+     [java] #0.005792125971169071 on iteration45
+     [java] #0.004330741951420691 on iteration46
+     [java] #0.004317013907623846 on iteration47
+     [java] #0.0032278084640466886 on iteration48
+     [java] #0.0032175766155546626 on iteration49
+     [java] 
+     [java] Results: [140, 152, 164]
+     [java] Begin computation
+     [java] #7.90046121553398 on iteration0
+     [java] #7.883070125398234 on iteration1
+     [java] #7.860111212976875 on iteration2
+     [java] #6.292502615889887 on iteration3
+     [java] #5.66034089455988 on iteration4
+     [java] #4.670708067980172 on iteration5
+     [java] #0.8383179759133128 on iteration6
+     [java] #0.4983185654893134 on iteration7
+     [java] #0.3150905762304035 on iteration8
+     [java] #0.23118577243843674 on iteration9
+     [java] #0.1918308845482386 on iteration10
+     [java] #0.15080836262502828 on iteration11
+     [java] #0.10179812396339116 on iteration12
+     [java] #0.09661345268989407 on iteration13
+     [java] #0.08229346080732114 on iteration14
+     [java] #0.07645684551719967 on iteration15
+     [java] #0.05874860394430925 on iteration16
+     [java] #0.04193582325774514 on iteration17
+     [java] #0.023519230452009765 on iteration18
+     [java] #0.01924825864999491 on iteration19
+     [java] #0.01265008925111033 on iteration20
+     [java] #0.010452224887359307 on iteration21
+     [java] #0.006989490187550018 on iteration22
+     [java] #0.0035817716298254254 on iteration23
+     [java] #0.002777337608407038 on iteration24
+     [java] #0.002638648014027467 on iteration25
+     [java] #0.002621001533682943 on iteration26
+     [java] #0.002474943853783884 on iteration27
+     [java] #0.0020689942673470796 on iteration28
+     [java] #0.0017184798978746585 on iteration29
+     [java] #0.0011752224025656233 on iteration30
+     [java] #6.590685496803417E-4 on iteration31
+     [java] #3.0567474820486495E-4 on iteration32
+     [java] #1.1905234063647185E-4 on iteration33
+     [java] #3.9608319042372386E-5 on iteration34
+     [java] 
+     [java] Results: [140, 152, 164, 165]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 200
+     [java] 200 [140, 152, 164, 165]
+     [java] Width: 0.06666666666666667
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.509, 0.013] in 24681
+     [java] Reached end MtCar[0.504, 0.005] in 66614
+     [java] Reached end MtCar[0.505, 0.008] in 109106
+     [java] Reached end MtCar[0.506, 0.011] in 26838
+     [java] Reached end MtCar[0.503, 0.017] in 16957
+     [java] Reached end MtCar[0.513, 0.015] in 17435
+     [java] Reached end MtCar[0.501, 0.010] in 12779
+     [java] Reached end MtCar[0.503, 0.011] in 3953
+     [java] Reached end MtCar[0.500, 0.005] in 1944
+     [java] Reached end MtCar[0.502, 0.012] in 2171
+     [java] Reached end MtCar[0.507, 0.007] in 128112
+     [java] Reached end MtCar[0.506, 0.010] in 12091
+     [java] Reached end MtCar[0.512, 0.016] in 17306
+     [java] Reached end MtCar[0.505, 0.010] in 96838
+     [java] Reached end MtCar[0.508, 0.017] in 98269
+     [java] Reached end MtCar[0.507, 0.012] in 16957
+     [java] Reached end MtCar[0.500, 0.004] in 13504
+     [java] Reached end MtCar[0.500, 0.016] in 43846
+     [java] Reached end MtCar[0.504, 0.010] in 34130
+     [java] Reached end MtCar[0.506, 0.009] in 83629
+     [java] Reached end MtCar[0.508, 0.011] in 13981
+     [java] Reached end MtCar[0.500, 0.011] in 200851
+     [java] Reached end MtCar[0.507, 0.009] in 6429
+     [java] Reached end MtCar[0.505, 0.014] in 7407
+     [java] Reached end MtCar[0.501, 0.012] in 49890
+     [java] Reached end MtCar[0.501, 0.004] in 72951
+     [java] Reached end MtCar[0.503, 0.003] in 35442
+     [java] Reached end MtCar[0.504, 0.006] in 58716
+     [java] Reached end MtCar[0.505, 0.011] in 43951
+     [java] Reached end MtCar[0.500, 0.008] in 17689
+     [java] Reached end MtCar[0.507, 0.008] in 138028
+     [java] Reached end MtCar[0.503, 0.005] in 7713
+     [java] Fraction of state space reached: 160 / 225
+     [java] want 250
+     [java] Through bin 3 sizes 1
+     [java] 160
+     [java] Begin computation
+     [java] #14.820195041926723 on iteration0
+     [java] #10.695451371979074 on iteration1
+     [java] #8.380684463788828 on iteration2
+     [java] #7.114667548666709 on iteration3
+     [java] #6.233117953178464 on iteration4
+     [java] #5.611162415462729 on iteration5
+     [java] #5.332341517413688 on iteration6
+     [java] #5.069868549522376 on iteration7
+     [java] #4.822908160527376 on iteration8
+     [java] #4.717390546737185 on iteration9
+     [java] #4.691318411781474 on iteration10
+     [java] #4.650655777555301 on iteration11
+     [java] #4.645280181571863 on iteration12
+     [java] #4.629282861870479 on iteration13
+     [java] #4.6149246762621985 on iteration14
+     [java] #4.589559121691224 on iteration15
+     [java] #4.573110801334195 on iteration16
+     [java] #4.560097766571282 on iteration17
+     [java] #4.544280488655346 on iteration18
+     [java] #4.5308841136153575 on iteration19
+     [java] #4.519774857765029 on iteration20
+     [java] #3.942100702016347 on iteration21
+     [java] #3.525751694401009 on iteration22
+     [java] #3.381232165308134 on iteration23
+     [java] #2.8979517804787918 on iteration24
+     [java] #2.5735239387376936 on iteration25
+     [java] #2.265834447430123 on iteration26
+     [java] #2.0045611461606256 on iteration27
+     [java] #1.568776162716233 on iteration28
+     [java] #1.2556665000743266 on iteration29
+     [java] #1.0256809181307318 on iteration30
+     [java] #0.7771745152199543 on iteration31
+     [java] #0.5554761263227732 on iteration32
+     [java] #0.4605608635976637 on iteration33
+     [java] #0.35141059940407615 on iteration34
+     [java] #0.23136320601970795 on iteration35
+     [java] #0.15589716097949236 on iteration36
+     [java] #0.1384400281280307 on iteration37
+     [java] #0.11682217865853772 on iteration38
+     [java] #0.09814967853745316 on iteration39
+     [java] #0.07805694695967702 on iteration40
+     [java] #0.0560514532352272 on iteration41
+     [java] #0.035488721365567244 on iteration42
+     [java] #0.025598456271964665 on iteration43
+     [java] #0.021149843944940017 on iteration44
+     [java] #0.016613461908491445 on iteration45
+     [java] #0.01376861573285737 on iteration46
+     [java] #0.010746203652132635 on iteration47
+     [java] #0.008479236717860772 on iteration48
+     [java] #0.006352731586375171 on iteration49
+     [java] #0.004421408782150138 on iteration50
+     [java] #0.0031116967281406005 on iteration51
+     [java] #0.0024828106561045615 on iteration52
+     [java] #0.0018565858103443134 on iteration53
+     [java] #0.0012839054417668194 on iteration54
+     [java] #8.419038792197853E-4 on iteration55
+     [java] #7.586522952180985E-4 on iteration56
+     [java] #6.642888346704012E-4 on iteration57
+     [java] #5.551205609037879E-4 on iteration58
+     [java] #4.3356683238471305E-4 on iteration59
+     [java] #3.10451596249095E-4 on iteration60
+     [java] #2.0144993635540231E-4 on iteration61
+     [java] #1.4619310022112586E-4 on iteration62
+     [java] #1.1816762241778633E-4 on iteration63
+     [java] #9.461527777432366E-5 on iteration64
+     [java] 
+     [java] Results: [115]
+     [java] Begin computation
+     [java] #39.979583192385924 on iteration0
+     [java] #19.41741768667822 on iteration1
+     [java] #14.014447792249193 on iteration2
+     [java] #11.718330294108128 on iteration3
+     [java] #10.809495257474069 on iteration4
+     [java] #7.968151368720633 on iteration5
+     [java] #7.4698766845658895 on iteration6
+     [java] #6.791496431307465 on iteration7
+     [java] #5.416136159887927 on iteration8
+     [java] #3.3757212332275657 on iteration9
+     [java] #3.015974922845814 on iteration10
+     [java] #2.0085859642090895 on iteration11
+     [java] #1.6033498828791721 on iteration12
+     [java] #1.53835124164371 on iteration13
+     [java] #1.2247604961495853 on iteration14
+     [java] #0.85705386665947 on iteration15
+     [java] #0.7610553424461841 on iteration16
+     [java] #0.5605528749106412 on iteration17
+     [java] #0.3863068276098858 on iteration18
+     [java] #0.28517421788205866 on iteration19
+     [java] #0.26195696227708254 on iteration20
+     [java] #0.2519358512021199 on iteration21
+     [java] #0.24768933926775105 on iteration22
+     [java] #0.24744076625880496 on iteration23
+     [java] #0.21057423429989797 on iteration24
+     [java] #0.14962387142414002 on iteration25
+     [java] #0.08931231285477281 on iteration26
+     [java] #0.044762398247385704 on iteration27
+     [java] #0.020866110476319477 on iteration28
+     [java] #0.014968362015750358 on iteration29
+     [java] #0.010963762608099614 on iteration30
+     [java] #0.0068106529639351265 on iteration31
+     [java] #0.0037971638792839713 on iteration32
+     [java] #0.0022743379873730873 on iteration33
+     [java] #0.0012334560234990022 on iteration34
+     [java] #5.767808762442428E-4 on iteration35
+     [java] #2.4997615261668216E-4 on iteration36
+     [java] #9.465001141961693E-5 on iteration37
+     [java] 
+     [java] Results: [115, 166]
+     [java] Begin computation
+     [java] #11.669805214921965 on iteration0
+     [java] #10.998869475318806 on iteration1
+     [java] #10.80205933278831 on iteration2
+     [java] #4.430969008392097 on iteration3
+     [java] #4.142061132901077 on iteration4
+     [java] #3.680824148062598 on iteration5
+     [java] #3.520027040305905 on iteration6
+     [java] #3.388529459711343 on iteration7
+     [java] #3.2315640790197406 on iteration8
+     [java] #3.0683131976845317 on iteration9
+     [java] #2.9220120015335382 on iteration10
+     [java] #2.786424970752684 on iteration11
+     [java] #2.646660782266814 on iteration12
+     [java] #2.5037654637737674 on iteration13
+     [java] #2.3083535627599545 on iteration14
+     [java] #2.1931720702902595 on iteration15
+     [java] #2.084245989251599 on iteration16
+     [java] #1.7157295523612532 on iteration17
+     [java] #1.5913947538133755 on iteration18
+     [java] #1.4719435930182385 on iteration19
+     [java] #1.3739763379148542 on iteration20
+     [java] #0.9692952631766047 on iteration21
+     [java] #0.5881915481607791 on iteration22
+     [java] #0.2655055748431181 on iteration23
+     [java] #0.03457120178333639 on iteration24
+     [java] #0.02517901412865342 on iteration25
+     [java] #0.01661553076806399 on iteration26
+     [java] #0.012249896230770219 on iteration27
+     [java] #0.008399666367964187 on iteration28
+     [java] #0.0056358021241891265 on iteration29
+     [java] #0.0034756787280514345 on iteration30
+     [java] #0.0016398454531838524 on iteration31
+     [java] #7.572115143972269E-4 on iteration32
+     [java] #3.1808235603136836E-4 on iteration33
+     [java] #1.1010754494122921E-4 on iteration34
+     [java] #4.543638161180752E-5 on iteration35
+     [java] 
+     [java] Results: [115, 166, 107]
+     [java] Begin computation
+     [java] #25.39138664134782 on iteration0
+     [java] #11.720884930516362 on iteration1
+     [java] #7.576699794501593 on iteration2
+     [java] #5.820847728885113 on iteration3
+     [java] #0.7273456230661424 on iteration4
+     [java] #0.4102039571671625 on iteration5
+     [java] #0.283922926298942 on iteration6
+     [java] #0.16759410945144282 on iteration7
+     [java] #0.12963597433110863 on iteration8
+     [java] #0.09972535714840092 on iteration9
+     [java] #0.07502953488179287 on iteration10
+     [java] #0.06016312942496427 on iteration11
+     [java] #0.05800072660797895 on iteration12
+     [java] #0.05597129834413295 on iteration13
+     [java] #0.05229464642968651 on iteration14
+     [java] #0.05099797548365359 on iteration15
+     [java] #0.04827564592133626 on iteration16
+     [java] #0.04304276763747339 on iteration17
+     [java] #0.0413758367837147 on iteration18
+     [java] #0.04080179614747692 on iteration19
+     [java] #0.04026037568957008 on iteration20
+     [java] #0.036970963947212 on iteration21
+     [java] #0.030334398980954802 on iteration22
+     [java] #0.020474571194668556 on iteration23
+     [java] #0.011161954756730097 on iteration24
+     [java] #0.005746061439865002 on iteration25
+     [java] #0.005660110873776603 on iteration26
+     [java] #0.004905389301640639 on iteration27
+     [java] #0.003646259725101686 on iteration28
+     [java] #0.0021289135728750352 on iteration29
+     [java] #0.001018497753165093 on iteration30
+     [java] #4.081523915715479E-4 on iteration31
+     [java] #1.3916659901269668E-4 on iteration32
+     [java] #4.092005649170005E-5 on iteration33
+     [java] 
+     [java] Results: [115, 166, 107, 162]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 250
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] Width: 0.058823529411764705
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.505, 0.009] in 6945
+     [java] Reached end MtCar[0.504, 0.011] in 45767
+     [java] Reached end MtCar[0.502, 0.006] in 68636
+     [java] Reached end MtCar[0.503, 0.010] in 70917
+     [java] Reached end MtCar[0.506, 0.014] in 62058
+     [java] Reached end MtCar[0.507, 0.017] in 10877
+     [java] Reached end MtCar[0.515, 0.026] in 15409
+     [java] Reached end MtCar[0.512, 0.020] in 9505
+     [java] Reached end MtCar[0.505, 0.007] in 22793
+     [java] Reached end MtCar[0.504, 0.005] in 40059
+     [java] Reached end MtCar[0.502, 0.003] in 35549
+     [java] Reached end MtCar[0.516, 0.021] in 3474
+     [java] Reached end MtCar[0.501, 0.014] in 14399
+     [java] Reached end MtCar[0.501, 0.014] in 6616
+     [java] Reached end MtCar[0.500, 0.008] in 30785
+     [java] Reached end MtCar[0.504, 0.012] in 8151
+     [java] Reached end MtCar[0.509, 0.012] in 22102
+     [java] Reached end MtCar[0.508, 0.011] in 41471
+     [java] Reached end MtCar[0.503, 0.008] in 19594
+     [java] Reached end MtCar[0.517, 0.017] in 13927
+     [java] Reached end MtCar[0.508, 0.016] in 18101
+     [java] Reached end MtCar[0.519, 0.021] in 8045
+     [java] Reached end MtCar[0.501, 0.002] in 120252
+     [java] Reached end MtCar[0.502, 0.023] in 16767
+     [java] Reached end MtCar[0.503, 0.010] in 10883
+     [java] Reached end MtCar[0.503, 0.005] in 7208
+     [java] Reached end MtCar[0.502, 0.007] in 20245
+     [java] Reached end MtCar[0.506, 0.006] in 24115
+     [java] Reached end MtCar[0.500, 0.011] in 28975
+     [java] Reached end MtCar[0.504, 0.005] in 1973
+     [java] Reached end MtCar[0.512, 0.014] in 126033
+     [java] Reached end MtCar[0.505, 0.012] in 58216
+     [java] Reached end MtCar[0.502, 0.002] in 18324
+     [java] Reached end MtCar[0.500, 0.001] in 10345
+     [java] Reached end MtCar[0.518, 0.027] in 162250
+     [java] Reached end MtCar[0.512, 0.014] in 20795
+     [java] Reached end MtCar[0.502, 0.005] in 42449
+     [java] Reached end MtCar[0.505, 0.007] in 33430
+     [java] Reached end MtCar[0.503, 0.016] in 55991
+     [java] Reached end MtCar[0.506, 0.009] in 34150
+     [java] Reached end MtCar[0.520, 0.023] in 108132
+     [java] Fraction of state space reached: 205 / 289
+     [java] want 300
+     [java] Through bin 6 sizes 1
+     [java] 205
+     [java] Begin computation
+     [java] #14.081362009478516 on iteration0
+     [java] #10.522411271151975 on iteration1
+     [java] #8.42653776528033 on iteration2
+     [java] #8.20735546158583 on iteration3
+     [java] #6.160488292155456 on iteration4
+     [java] #5.754651479571855 on iteration5
+     [java] #5.576634776976135 on iteration6
+     [java] #5.108215093903112 on iteration7
+     [java] #4.66903289244059 on iteration8
+     [java] #4.529496523014906 on iteration9
+     [java] #4.524843333611791 on iteration10
+     [java] #4.4861193757462345 on iteration11
+     [java] #4.397027399566497 on iteration12
+     [java] #4.3286306959447245 on iteration13
+     [java] #4.301289999842197 on iteration14
+     [java] #4.256173595356373 on iteration15
+     [java] #4.2077433156920705 on iteration16
+     [java] #4.185303143564845 on iteration17
+     [java] #4.148824883375703 on iteration18
+     [java] #4.08188438310944 on iteration19
+     [java] #3.905785751662151 on iteration20
+     [java] #3.7081181393776745 on iteration21
+     [java] #3.203485178702522 on iteration22
+     [java] #2.954026201575658 on iteration23
+     [java] #2.565256752570349 on iteration24
+     [java] #1.9288615416978416 on iteration25
+     [java] #1.4519116399797554 on iteration26
+     [java] #1.1810184050796977 on iteration27
+     [java] #0.7763394823631131 on iteration28
+     [java] #0.45412850094683677 on iteration29
+     [java] #0.3379135418447845 on iteration30
+     [java] #0.291002564139589 on iteration31
+     [java] #0.23992690841987496 on iteration32
+     [java] #0.18785128491643377 on iteration33
+     [java] #0.1376146007993242 on iteration34
+     [java] #0.11140161491461242 on iteration35
+     [java] #0.08679810696304457 on iteration36
+     [java] #0.06360683905732856 on iteration37
+     [java] #0.04192734158989708 on iteration38
+     [java] #0.030641615008292433 on iteration39
+     [java] #0.02230509745253073 on iteration40
+     [java] #0.01666369376968646 on iteration41
+     [java] #0.011680206996359743 on iteration42
+     [java] #0.008693564777118468 on iteration43
+     [java] #0.0063747096046142815 on iteration44
+     [java] #0.0045543430287295905 on iteration45
+     [java] #0.0031629900655190113 on iteration46
+     [java] #0.002128926900908823 on iteration47
+     [java] #0.0013954583811539578 on iteration48
+     [java] #0.0011677854295015777 on iteration49
+     [java] #9.676711170385488E-4 on iteration50
+     [java] #7.810959022691577E-4 on iteration51
+     [java] #5.99415646334478E-4 on iteration52
+     [java] #4.6814178318754784E-4 on iteration53
+     [java] #3.6901124165922283E-4 on iteration54
+     [java] #2.8335156366665615E-4 on iteration55
+     [java] #2.040134452698794E-4 on iteration56
+     [java] #1.3811779516004208E-4 on iteration57
+     [java] #1.0296857647063007E-4 on iteration58
+     [java] #7.44019520340089E-5 on iteration59
+     [java] 
+     [java] Results: [105]
+     [java] Begin computation
+     [java] #27.47477553774868 on iteration0
+     [java] #13.313319490289189 on iteration1
+     [java] #10.597626494098513 on iteration2
+     [java] #10.133610231309675 on iteration3
+     [java] #7.972874663413563 on iteration4
+     [java] #7.434889977414571 on iteration5
+     [java] #6.863458057755324 on iteration6
+     [java] #6.772226835967572 on iteration7
+     [java] #6.355141279150288 on iteration8
+     [java] #6.14035393350575 on iteration9
+     [java] #5.840466830477396 on iteration10
+     [java] #5.457237885508647 on iteration11
+     [java] #3.9576810157774958 on iteration12
+     [java] #2.1764057630370814 on iteration13
+     [java] #1.45289065032091 on iteration14
+     [java] #0.7287483520519658 on iteration15
+     [java] #0.4680992724909885 on iteration16
+     [java] #0.39194548076092417 on iteration17
+     [java] #0.35376833571231714 on iteration18
+     [java] #0.2840388532465141 on iteration19
+     [java] #0.19028255751618417 on iteration20
+     [java] #0.15104332876728677 on iteration21
+     [java] #0.13575153882358393 on iteration22
+     [java] #0.12075189085530269 on iteration23
+     [java] #0.11072177606708067 on iteration24
+     [java] #0.08839751659343165 on iteration25
+     [java] #0.06733924797480029 on iteration26
+     [java] #0.03734876591555292 on iteration27
+     [java] #0.01676679562385175 on iteration28
+     [java] #0.015981385839793916 on iteration29
+     [java] #0.013373648463783638 on iteration30
+     [java] #0.009460233219627412 on iteration31
+     [java] #0.006309393899613269 on iteration32
+     [java] #0.0049465249630458175 on iteration33
+     [java] #0.004134435591936381 on iteration34
+     [java] #0.0029211839155180996 on iteration35
+     [java] #0.0018341639231351792 on iteration36
+     [java] #0.0014564722113306061 on iteration37
+     [java] #0.001130164483456042 on iteration38
+     [java] #8.489916308604961E-4 on iteration39
+     [java] #6.065832499615453E-4 on iteration40
+     [java] #3.9768373495974174E-4 on iteration41
+     [java] #2.449961784378729E-4 on iteration42
+     [java] #1.4703946902727694E-4 on iteration43
+     [java] #8.069089886930669E-5 on iteration44
+     [java] 
+     [java] Results: [105, 171]
+     [java] Begin computation
+     [java] #15.607546434669388 on iteration0
+     [java] #9.347094458689782 on iteration1
+     [java] #8.924188230414188 on iteration2
+     [java] #7.925763842958446 on iteration3
+     [java] #7.8894253195089235 on iteration4
+     [java] #6.601909216410533 on iteration5
+     [java] #5.880773090826111 on iteration6
+     [java] #5.575643261634681 on iteration7
+     [java] #5.570040937523103 on iteration8
+     [java] #5.5589002864597035 on iteration9
+     [java] #4.175356217465094 on iteration10
+     [java] #1.6067208312013435 on iteration11
+     [java] #1.4951029632037418 on iteration12
+     [java] #0.9954073055072712 on iteration13
+     [java] #0.7923551337961783 on iteration14
+     [java] #0.6493743080014696 on iteration15
+     [java] #0.6074540226580467 on iteration16
+     [java] #0.47940312571343213 on iteration17
+     [java] #0.22317470720425092 on iteration18
+     [java] #0.12459970952656363 on iteration19
+     [java] #0.09301110163012538 on iteration20
+     [java] #0.07678450402521264 on iteration21
+     [java] #0.05959895160647477 on iteration22
+     [java] #0.03617500180899924 on iteration23
+     [java] #0.01663106547707116 on iteration24
+     [java] #0.014506030086025135 on iteration25
+     [java] #0.010553913502704404 on iteration26
+     [java] #0.0074622401557036255 on iteration27
+     [java] #0.003960093085055405 on iteration28
+     [java] #0.002655607077073796 on iteration29
+     [java] #0.0024198425892336672 on iteration30
+     [java] #0.0019148157649340192 on iteration31
+     [java] #0.0011183655694111394 on iteration32
+     [java] #6.182516356432188E-4 on iteration33
+     [java] #2.973514460364868E-4 on iteration34
+     [java] #1.475799329568872E-4 on iteration35
+     [java] #9.921418050851116E-5 on iteration36
+     [java] 
+     [java] Results: [105, 171, 153]
+     [java] Begin computation
+     [java] #21.7399674224922 on iteration0
+     [java] #8.951508141856579 on iteration1
+     [java] #7.9544314257753825 on iteration2
+     [java] #6.085580849949238 on iteration3
+     [java] #5.92917998047227 on iteration4
+     [java] #5.914070189676934 on iteration5
+     [java] #4.388261992890904 on iteration6
+     [java] #4.0739126777916965 on iteration7
+     [java] #4.025799318147676 on iteration8
+     [java] #3.9784900713604543 on iteration9
+     [java] #3.9601390816078634 on iteration10
+     [java] #2.4505641563446545 on iteration11
+     [java] #1.3963033477163833 on iteration12
+     [java] #0.8253080909634889 on iteration13
+     [java] #0.8212414945597644 on iteration14
+     [java] #0.5184733677878626 on iteration15
+     [java] #0.13379370414638458 on iteration16
+     [java] #0.052639595474801126 on iteration17
+     [java] #0.03749021346358461 on iteration18
+     [java] #0.02953048163698213 on iteration19
+     [java] #0.024867481980166417 on iteration20
+     [java] #0.019266179852039045 on iteration21
+     [java] #0.01566723672769399 on iteration22
+     [java] #0.014707953246201555 on iteration23
+     [java] #0.01424057321850114 on iteration24
+     [java] #0.012054247799895279 on iteration25
+     [java] #0.009674123271111057 on iteration26
+     [java] #0.006280811881438808 on iteration27
+     [java] #0.0031855143939623076 on iteration28
+     [java] #0.0024364642909660006 on iteration29
+     [java] #0.0017796642749061675 on iteration30
+     [java] #9.793444766046377E-4 on iteration31
+     [java] #4.220495557660797E-4 on iteration32
+     [java] #1.4712125459936942E-4 on iteration33
+     [java] #5.122756245157234E-5 on iteration34
+     [java] 
+     [java] Results: [105, 171, 153, 158]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 300
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] Width: 0.05555555555555555
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.501, 0.004] in 26659
+     [java] Reached end MtCar[0.507, 0.013] in 20925
+     [java] Reached end MtCar[0.501, 0.002] in 6897
+     [java] Reached end MtCar[0.504, 0.017] in 74504
+     [java] Reached end MtCar[0.502, 0.009] in 3109
+     [java] Reached end MtCar[0.516, 0.019] in 31656
+     [java] Reached end MtCar[0.514, 0.014] in 3929
+     [java] Reached end MtCar[0.503, 0.008] in 98248
+     [java] Reached end MtCar[0.502, 0.014] in 29877
+     [java] Reached end MtCar[0.509, 0.016] in 22286
+     [java] Reached end MtCar[0.502, 0.008] in 37745
+     [java] Reached end MtCar[0.505, 0.010] in 41500
+     [java] Reached end MtCar[0.506, 0.013] in 22098
+     [java] Reached end MtCar[0.503, 0.006] in 15938
+     [java] Reached end MtCar[0.509, 0.009] in 5580
+     [java] Reached end MtCar[0.515, 0.017] in 4453
+     [java] Reached end MtCar[0.505, 0.013] in 6688
+     [java] Reached end MtCar[0.507, 0.007] in 40817
+     [java] Reached end MtCar[0.503, 0.005] in 116217
+     [java] Reached end MtCar[0.508, 0.012] in 81618
+     [java] Reached end MtCar[0.501, 0.004] in 82102
+     [java] Reached end MtCar[0.507, 0.015] in 19953
+     [java] Reached end MtCar[0.501, 0.003] in 27469
+     [java] Reached end MtCar[0.508, 0.012] in 74519
+     [java] Reached end MtCar[0.512, 0.014] in 31902
+     [java] Reached end MtCar[0.501, 0.002] in 24231
+     [java] Reached end MtCar[0.501, 0.002] in 52579
+     [java] Reached end MtCar[0.510, 0.010] in 26745
+     [java] Reached end MtCar[0.501, 0.005] in 67816
+     [java] Reached end MtCar[0.501, 0.004] in 17135
+     [java] Reached end MtCar[0.501, 0.002] in 100608
+     [java] Reached end MtCar[0.515, 0.018] in 4330
+     [java] Reached end MtCar[0.506, 0.010] in 27594
+     [java] Reached end MtCar[0.508, 0.011] in 8881
+     [java] Reached end MtCar[0.508, 0.016] in 31685
+     [java] Reached end MtCar[0.505, 0.008] in 40888
+     [java] Reached end MtCar[0.500, 0.015] in 5099
+     [java] Reached end MtCar[0.504, 0.007] in 8074
+     [java] Reached end MtCar[0.502, 0.010] in 33215
+     [java] Reached end MtCar[0.501, 0.007] in 14745
+     [java] Reached end MtCar[0.504, 0.008] in 22279
+     [java] Reached end MtCar[0.500, 0.010] in 20666
+     [java] Reached end MtCar[0.506, 0.025] in 21571
+     [java] Fraction of state space reached: 226 / 324
+     [java] want 350
+     [java] Through bin 3 sizes 1
+     [java] 226
+     [java] Begin computation
+     [java] #14.569304551062885 on iteration0
+     [java] #10.727729164515855 on iteration1
+     [java] #7.609264451796367 on iteration2
+     [java] #6.823854365800667 on iteration3
+     [java] #6.260616488651465 on iteration4
+     [java] #5.9843835076214305 on iteration5
+     [java] #5.463902003533583 on iteration6
+     [java] #5.0739899225957075 on iteration7
+     [java] #4.785468065862112 on iteration8
+     [java] #4.6826835695903455 on iteration9
+     [java] #4.536273787068829 on iteration10
+     [java] #4.484746635974261 on iteration11
+     [java] #4.444839466372386 on iteration12
+     [java] #4.373330888298945 on iteration13
+     [java] #4.34289892433447 on iteration14
+     [java] #4.319840623602133 on iteration15
+     [java] #4.293766332231613 on iteration16
+     [java] #4.271214746057879 on iteration17
+     [java] #4.237354271794281 on iteration18
+     [java] #4.199843201801826 on iteration19
+     [java] #3.9273189404779316 on iteration20
+     [java] #3.477633178836328 on iteration21
+     [java] #3.056982850042189 on iteration22
+     [java] #2.7120678763954515 on iteration23
+     [java] #2.3466255091314565 on iteration24
+     [java] #1.9663334616232788 on iteration25
+     [java] #1.7922899511325738 on iteration26
+     [java] #1.6198913650959526 on iteration27
+     [java] #1.388725583235086 on iteration28
+     [java] #1.0223315888403022 on iteration29
+     [java] #0.7710737818710669 on iteration30
+     [java] #0.4691685070849303 on iteration31
+     [java] #0.2913487004450417 on iteration32
+     [java] #0.2233896338259882 on iteration33
+     [java] #0.15350607807866368 on iteration34
+     [java] #0.10434257988265472 on iteration35
+     [java] #0.08068895201027715 on iteration36
+     [java] #0.06085578836415095 on iteration37
+     [java] #0.04455252216075678 on iteration38
+     [java] #0.030607760752630497 on iteration39
+     [java] #0.01957540374158384 on iteration40
+     [java] #0.0126694156972178 on iteration41
+     [java] #0.009269483377650545 on iteration42
+     [java] #0.006997875703746104 on iteration43
+     [java] #0.0059737490033171525 on iteration44
+     [java] #0.005174304230479265 on iteration45
+     [java] #0.004406143979366561 on iteration46
+     [java] #0.0036778228160301296 on iteration47
+     [java] #0.00282934251505651 on iteration48
+     [java] #0.0022129879599646074 on iteration49
+     [java] #0.0015162746591670384 on iteration50
+     [java] #9.276797287043337E-4 on iteration51
+     [java] #6.457984503072112E-4 on iteration52
+     [java] #4.761123869485573E-4 on iteration53
+     [java] #3.2091568840542095E-4 on iteration54
+     [java] #2.372300792075066E-4 on iteration55
+     [java] #1.7968914670518643E-4 on iteration56
+     [java] #1.3625451494192475E-4 on iteration57
+     [java] #9.754786647420133E-5 on iteration58
+     [java] 
+     [java] Results: [103]
+     [java] Begin computation
+     [java] #32.9194699231806 on iteration0
+     [java] #21.796063888579795 on iteration1
+     [java] #21.127470542684044 on iteration2
+     [java] #20.418298578478755 on iteration3
+     [java] #20.00004690257115 on iteration4
+     [java] #18.34815319743379 on iteration5
+     [java] #15.745773100205277 on iteration6
+     [java] #14.70449551138158 on iteration7
+     [java] #11.786958769164528 on iteration8
+     [java] #7.117572404210307 on iteration9
+     [java] #5.799262641886159 on iteration10
+     [java] #5.20720645363474 on iteration11
+     [java] #3.8192237795208683 on iteration12
+     [java] #1.0172026249736206 on iteration13
+     [java] #0.6185818528162201 on iteration14
+     [java] #0.43520065939722485 on iteration15
+     [java] #0.3163131630344509 on iteration16
+     [java] #0.22620472525764512 on iteration17
+     [java] #0.19433023134561722 on iteration18
+     [java] #0.1535654346081543 on iteration19
+     [java] #0.15065136848400584 on iteration20
+     [java] #0.14861117287046 on iteration21
+     [java] #0.1152486850774892 on iteration22
+     [java] #0.06855565740733027 on iteration23
+     [java] #0.03904319538469281 on iteration24
+     [java] #0.021005009977073996 on iteration25
+     [java] #0.010211377801908839 on iteration26
+     [java] #0.004435593719236408 on iteration27
+     [java] #0.0017597988923938601 on iteration28
+     [java] #6.033763183665997E-4 on iteration29
+     [java] #1.6372696101996098E-4 on iteration30
+     [java] #3.287722999800735E-5 on iteration31
+     [java] 
+     [java] Results: [103, 103]
+     [java] Begin computation
+     [java] #18.911777597691895 on iteration0
+     [java] #10.906413009425464 on iteration1
+     [java] #9.063585261687265 on iteration2
+     [java] #5.46738700382673 on iteration3
+     [java] #2.9701117265123287 on iteration4
+     [java] #2.493465679755417 on iteration5
+     [java] #1.3841417306480963 on iteration6
+     [java] #1.1495943145815701 on iteration7
+     [java] #1.0379415259312452 on iteration8
+     [java] #1.0230912401481191 on iteration9
+     [java] #0.8970740037539571 on iteration10
+     [java] #0.7975867055035906 on iteration11
+     [java] #0.44533697605362477 on iteration12
+     [java] #0.1240975109936926 on iteration13
+     [java] #0.08037378533070694 on iteration14
+     [java] #0.06051801718124494 on iteration15
+     [java] #0.05738487119246827 on iteration16
+     [java] #0.05403972091548326 on iteration17
+     [java] #0.044464366988847814 on iteration18
+     [java] #0.036443214473194985 on iteration19
+     [java] #0.031182581186840252 on iteration20
+     [java] #0.026116554951855164 on iteration21
+     [java] #0.01726261195500456 on iteration22
+     [java] #0.01677052035500992 on iteration23
+     [java] #0.01654993686929629 on iteration24
+     [java] #0.012325513596678661 on iteration25
+     [java] #0.00792379376278518 on iteration26
+     [java] #0.0038859563173048173 on iteration27
+     [java] #0.0015294947479418397 on iteration28
+     [java] #4.895734362548865E-4 on iteration29
+     [java] #1.2706345536628305E-4 on iteration30
+     [java] #2.671175923296687E-5 on iteration31
+     [java] 
+     [java] Results: [103, 103, 103]
+     [java] Begin computation
+     [java] #6.602164650627408 on iteration0
+     [java] #4.121161964977603 on iteration1
+     [java] #3.5313250858163556 on iteration2
+     [java] #3.5115847738531443 on iteration3
+     [java] #2.680243031306915 on iteration4
+     [java] #2.4083889306134836 on iteration5
+     [java] #2.1426306264237525 on iteration6
+     [java] #2.0701817693178697 on iteration7
+     [java] #1.790596300697203 on iteration8
+     [java] #1.2952070550916375 on iteration9
+     [java] #0.29528090763443515 on iteration10
+     [java] #0.08902963211156134 on iteration11
+     [java] #0.06752534640355634 on iteration12
+     [java] #0.041113080195827933 on iteration13
+     [java] #0.03665787489853045 on iteration14
+     [java] #0.03445612242039431 on iteration15
+     [java] #0.03256150685052717 on iteration16
+     [java] #0.027894860212569483 on iteration17
+     [java] #0.02466766852764124 on iteration18
+     [java] #0.02381800921639865 on iteration19
+     [java] #0.020551142865997463 on iteration20
+     [java] #0.015995995998252965 on iteration21
+     [java] #0.013827674942774593 on iteration22
+     [java] #0.013501791411243858 on iteration23
+     [java] #0.013084681006006349 on iteration24
+     [java] #0.0097230233629233 on iteration25
+     [java] #0.00575189612693805 on iteration26
+     [java] #0.00279518033967463 on iteration27
+     [java] #0.001250789152464904 on iteration28
+     [java] #4.71075604878024E-4 on iteration29
+     [java] #1.501271330681675E-4 on iteration30
+     [java] #4.0816415165068065E-5 on iteration31
+     [java] 
+     [java] Results: [103, 103, 103, 103]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 350
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] Width: 0.05263157894736842
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.502, 0.006] in 26202
+     [java] Reached end MtCar[0.505, 0.013] in 92898
+     [java] Reached end MtCar[0.508, 0.009] in 40594
+     [java] Reached end MtCar[0.507, 0.018] in 27335
+     [java] Reached end MtCar[0.502, 0.009] in 106432
+     [java] Reached end MtCar[0.501, 0.005] in 30179
+     [java] Reached end MtCar[0.501, 0.009] in 11572
+     [java] Reached end MtCar[0.505, 0.011] in 60738
+     [java] Reached end MtCar[0.500, 0.021] in 53632
+     [java] Reached end MtCar[0.501, 0.012] in 9120
+     [java] Reached end MtCar[0.504, 0.004] in 104521
+     [java] Reached end MtCar[0.503, 0.012] in 18577
+     [java] Reached end MtCar[0.505, 0.005] in 29046
+     [java] Reached end MtCar[0.505, 0.014] in 59548
+     [java] Reached end MtCar[0.514, 0.018] in 13694
+     [java] Reached end MtCar[0.503, 0.020] in 54802
+     [java] Reached end MtCar[0.501, 0.006] in 85121
+     [java] Reached end MtCar[0.502, 0.007] in 69829
+     [java] Reached end MtCar[0.502, 0.003] in 60397
+     [java] Reached end MtCar[0.509, 0.010] in 4359
+     [java] Reached end MtCar[0.508, 0.008] in 37040
+     [java] Reached end MtCar[0.517, 0.023] in 31870
+     [java] Reached end MtCar[0.506, 0.021] in 41359
+     [java] Reached end MtCar[0.501, 0.008] in 69194
+     [java] Reached end MtCar[0.505, 0.010] in 5632
+     [java] Reached end MtCar[0.504, 0.009] in 2166
+     [java] Reached end MtCar[0.504, 0.008] in 57700
+     [java] Reached end MtCar[0.509, 0.013] in 39622
+     [java] Reached end MtCar[0.508, 0.014] in 88024
+     [java] Reached end MtCar[0.502, 0.006] in 40037
+     [java] Reached end MtCar[0.507, 0.009] in 11250
+     [java] Reached end MtCar[0.508, 0.011] in 22565
+     [java] Reached end MtCar[0.504, 0.006] in 18016
+     [java] Reached end MtCar[0.501, 0.004] in 18881
+     [java] Reached end MtCar[0.504, 0.007] in 44338
+     [java] Fraction of state space reached: 250 / 361
+     [java] want 400
+     [java] Through bin 9 sizes 1
+     [java] 250
+     [java] Begin computation
+     [java] #14.881580024542355 on iteration0
+     [java] #10.495905565686526 on iteration1
+     [java] #8.175888464105746 on iteration2
+     [java] #7.1938215331736295 on iteration3
+     [java] #6.224684040673765 on iteration4
+     [java] #5.662758392788582 on iteration5
+     [java] #5.4037688004193285 on iteration6
+     [java] #5.1316676653188935 on iteration7
+     [java] #4.772510591012029 on iteration8
+     [java] #4.658939523042619 on iteration9
+     [java] #4.632293240187728 on iteration10
+     [java] #4.590474032744318 on iteration11
+     [java] #4.560873989547545 on iteration12
+     [java] #4.535062014827112 on iteration13
+     [java] #4.520529392140062 on iteration14
+     [java] #4.493287971522051 on iteration15
+     [java] #4.450848209174083 on iteration16
+     [java] #4.43501668819912 on iteration17
+     [java] #4.406438268457514 on iteration18
+     [java] #4.38338909392327 on iteration19
+     [java] #4.357088555665399 on iteration20
+     [java] #3.9057404619021554 on iteration21
+     [java] #3.3788191775186363 on iteration22
+     [java] #3.016139156832054 on iteration23
+     [java] #2.831608548578302 on iteration24
+     [java] #2.6507959072545617 on iteration25
+     [java] #2.09007079919742 on iteration26
+     [java] #1.6132505706063824 on iteration27
+     [java] #1.4407881513233889 on iteration28
+     [java] #1.2263317521842652 on iteration29
+     [java] #0.9443573031815617 on iteration30
+     [java] #0.6900323513930857 on iteration31
+     [java] #0.5183133314608597 on iteration32
+     [java] #0.42081328110647576 on iteration33
+     [java] #0.31292029705029734 on iteration34
+     [java] #0.20923790683210086 on iteration35
+     [java] #0.15774041047139065 on iteration36
+     [java] #0.11742494280512972 on iteration37
+     [java] #0.08419914164319664 on iteration38
+     [java] #0.05990994841560848 on iteration39
+     [java] #0.04691259176728124 on iteration40
+     [java] #0.03520869578328245 on iteration41
+     [java] #0.02531366642513433 on iteration42
+     [java] #0.017374977675771675 on iteration43
+     [java] #0.013860505743906515 on iteration44
+     [java] #0.011174561424482476 on iteration45
+     [java] #0.008748570349482065 on iteration46
+     [java] #0.007137851699056341 on iteration47
+     [java] #0.005956297965369117 on iteration48
+     [java] #0.004758859328873655 on iteration49
+     [java] #0.0035652508012304907 on iteration50
+     [java] #0.002484279045958715 on iteration51
+     [java] #0.00187038015633334 on iteration52
+     [java] #0.0014796605359350679 on iteration53
+     [java] #0.0011232939112488793 on iteration54
+     [java] #7.917751738943934E-4 on iteration55
+     [java] #5.857251464362889E-4 on iteration56
+     [java] #4.5140195621229395E-4 on iteration57
+     [java] #3.330514365131876E-4 on iteration58
+     [java] #2.3616928203296084E-4 on iteration59
+     [java] #1.8669435249307753E-4 on iteration60
+     [java] #1.4118798677031918E-4 on iteration61
+     [java] #1.0207104590165272E-4 on iteration62
+     [java] #7.060704629680004E-5 on iteration63
+     [java] 
+     [java] Results: [137]
+     [java] Begin computation
+     [java] #52.27527602915774 on iteration0
+     [java] #27.285369401479933 on iteration1
+     [java] #24.333468739734506 on iteration2
+     [java] #15.517123831859998 on iteration3
+     [java] #12.461065420828817 on iteration4
+     [java] #11.201017795657805 on iteration5
+     [java] #6.568991203638625 on iteration6
+     [java] #4.799439999560036 on iteration7
+     [java] #4.777855416479184 on iteration8
+     [java] #4.541372428066808 on iteration9
+     [java] #3.834030756814098 on iteration10
+     [java] #2.686181698346445 on iteration11
+     [java] #1.6769335888568975 on iteration12
+     [java] #1.0417989743089393 on iteration13
+     [java] #0.830833874680792 on iteration14
+     [java] #0.749529488576826 on iteration15
+     [java] #0.6877073568608694 on iteration16
+     [java] #0.6127002540003446 on iteration17
+     [java] #0.5170292883460945 on iteration18
+     [java] #0.382493573796026 on iteration19
+     [java] #0.2680451982225094 on iteration20
+     [java] #0.1798374764704107 on iteration21
+     [java] #0.11991048656084047 on iteration22
+     [java] #0.07128680031405565 on iteration23
+     [java] #0.036043761136269836 on iteration24
+     [java] #0.015551210850389907 on iteration25
+     [java] #0.007990263685741184 on iteration26
+     [java] #0.005884317338953338 on iteration27
+     [java] #0.004824136528867484 on iteration28
+     [java] #0.0038172837698482454 on iteration29
+     [java] #0.0028171168604131935 on iteration30
+     [java] #0.0019085084098975358 on iteration31
+     [java] #0.0012015069326452021 on iteration32
+     [java] #7.259731489170917E-4 on iteration33
+     [java] #4.2865533043823234E-4 on iteration34
+     [java] #2.502360774343515E-4 on iteration35
+     [java] #1.456844128853163E-4 on iteration36
+     [java] #8.496871335239575E-5 on iteration37
+     [java] 
+     [java] Results: [137, 141]
+     [java] Begin computation
+     [java] #17.192733318116538 on iteration0
+     [java] #1.483382861377752 on iteration1
+     [java] #1.1209408174773756 on iteration2
+     [java] #0.9722369564838687 on iteration3
+     [java] #0.6549376062783949 on iteration4
+     [java] #0.514352316256435 on iteration5
+     [java] #0.4830841853192709 on iteration6
+     [java] #0.45569366955919577 on iteration7
+     [java] #0.3916214247434624 on iteration8
+     [java] #0.23783454005250348 on iteration9
+     [java] #0.14186666555674776 on iteration10
+     [java] #0.08939512289826723 on iteration11
+     [java] #0.06108442494848987 on iteration12
+     [java] #0.04356936979409909 on iteration13
+     [java] #0.03171242190533974 on iteration14
+     [java] #0.02356263603364539 on iteration15
+     [java] #0.02253632078233636 on iteration16
+     [java] #0.0200847534629105 on iteration17
+     [java] #0.016161426553580327 on iteration18
+     [java] #0.013318066506855075 on iteration19
+     [java] #0.010059348296728388 on iteration20
+     [java] #0.007596231193289782 on iteration21
+     [java] #0.005989560068734079 on iteration22
+     [java] #0.004395375422738823 on iteration23
+     [java] #0.0028680732535022457 on iteration24
+     [java] #0.0016619556847956574 on iteration25
+     [java] #7.742835160939876E-4 on iteration26
+     [java] #2.9009248547140487E-4 on iteration27
+     [java] #8.755702408791421E-5 on iteration28
+     [java] 
+     [java] Results: [137, 141, 141]
+     [java] Begin computation
+     [java] #2.342279374227072 on iteration0
+     [java] #0.4743372526615772 on iteration1
+     [java] #0.3522887591536623 on iteration2
+     [java] #0.1903113766257789 on iteration3
+     [java] #0.17207459388918522 on iteration4
+     [java] #0.16318055284192212 on iteration5
+     [java] #0.15246383081621673 on iteration6
+     [java] #0.14861764340872696 on iteration7
+     [java] #0.11593239017420842 on iteration8
+     [java] #0.07833621909804833 on iteration9
+     [java] #0.0639362038609903 on iteration10
+     [java] #0.04619510882010047 on iteration11
+     [java] #0.03501279475477759 on iteration12
+     [java] #0.03298163991743053 on iteration13
+     [java] #0.030822642398298683 on iteration14
+     [java] #0.02743430664466473 on iteration15
+     [java] #0.025525126774624596 on iteration16
+     [java] #0.02470183028709272 on iteration17
+     [java] #0.0242991406282016 on iteration18
+     [java] #0.02234015004001577 on iteration19
+     [java] #0.016971696506473677 on iteration20
+     [java] #0.015534397865820893 on iteration21
+     [java] #0.010877546297720642 on iteration22
+     [java] #0.007506802121952205 on iteration23
+     [java] #0.004336685980803168 on iteration24
+     [java] #0.0019897763755238884 on iteration25
+     [java] #7.117941475058842E-4 on iteration26
+     [java] #1.9184836764907232E-4 on iteration27
+     [java] #3.740274769370444E-5 on iteration28
+     [java] 
+     [java] Results: [137, 141, 141, 143]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 400
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] Width: 0.047619047619047616
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.502, 0.012] in 17605
+     [java] Reached end MtCar[0.502, 0.016] in 61742
+     [java] Reached end MtCar[0.502, 0.005] in 8504
+     [java] Reached end MtCar[0.506, 0.009] in 4376
+     [java] Reached end MtCar[0.501, 0.009] in 211960
+     [java] Reached end MtCar[0.500, 0.004] in 11522
+     [java] Reached end MtCar[0.513, 0.015] in 74833
+     [java] Reached end MtCar[0.509, 0.011] in 47365
+     [java] Reached end MtCar[0.522, 0.023] in 108094
+     [java] Reached end MtCar[0.501, 0.005] in 6062
+     [java] Reached end MtCar[0.502, 0.016] in 46134
+     [java] Reached end MtCar[0.513, 0.016] in 34425
+     [java] Reached end MtCar[0.502, 0.016] in 99996
+     [java] Reached end MtCar[0.506, 0.007] in 77377
+     [java] Reached end MtCar[0.511, 0.012] in 9207
+     [java] Reached end MtCar[0.512, 0.016] in 8926
+     [java] Reached end MtCar[0.506, 0.015] in 5678
+     [java] Reached end MtCar[0.509, 0.014] in 9466
+     [java] Reached end MtCar[0.503, 0.004] in 12101
+     [java] Reached end MtCar[0.502, 0.006] in 18770
+     [java] Reached end MtCar[0.506, 0.009] in 47101
+     [java] Reached end MtCar[0.503, 0.020] in 8232
+     [java] Reached end MtCar[0.514, 0.015] in 4937
+     [java] Reached end MtCar[0.517, 0.017] in 20833
+     [java] Reached end MtCar[0.509, 0.016] in 6066
+     [java] Reached end MtCar[0.502, 0.007] in 6198
+     [java] Reached end MtCar[0.506, 0.020] in 129686
+     [java] Reached end MtCar[0.502, 0.018] in 36981
+     [java] Reached end MtCar[0.501, 0.005] in 11833
+     [java] Reached end MtCar[0.508, 0.011] in 60209
+     [java] Reached end MtCar[0.501, 0.009] in 25397
+     [java] Reached end MtCar[0.506, 0.015] in 8110
+     [java] Reached end MtCar[0.507, 0.013] in 37560
+     [java] Reached end MtCar[0.510, 0.014] in 16037
+     [java] Reached end MtCar[0.513, 0.018] in 10656
+     [java] Reached end MtCar[0.504, 0.004] in 45364
+     [java] Reached end MtCar[0.501, 0.009] in 22102
+     [java] Reached end MtCar[0.505, 0.005] in 11731
+     [java] Reached end MtCar[0.518, 0.020] in 55438
+     [java] Fraction of state space reached: 295 / 441
+     [java] want 450
+     [java] Through bin 4 sizes 1
+     [java] 295
+     [java] Begin computation
+     [java] #14.467713459697933 on iteration0
+     [java] #10.331371546388432 on iteration1
+     [java] #8.340982844334636 on iteration2
+     [java] #7.157228571471887 on iteration3
+     [java] #6.0294457442605065 on iteration4
+     [java] #5.5745837086300725 on iteration5
+     [java] #5.2256560721944965 on iteration6
+     [java] #4.894094186218702 on iteration7
+     [java] #4.664349090923061 on iteration8
+     [java] #4.521311496955178 on iteration9
+     [java] #4.49682528981247 on iteration10
+     [java] #4.460907911726949 on iteration11
+     [java] #4.420793760858977 on iteration12
+     [java] #4.378126971704155 on iteration13
+     [java] #4.347575215578033 on iteration14
+     [java] #4.33175098950484 on iteration15
+     [java] #4.312307608307023 on iteration16
+     [java] #4.2896025478761 on iteration17
+     [java] #4.260483453435157 on iteration18
+     [java] #4.241280183907961 on iteration19
+     [java] #4.21777858382076 on iteration20
+     [java] #3.853212511167925 on iteration21
+     [java] #3.482484561289013 on iteration22
+     [java] #3.1453194731037115 on iteration23
+     [java] #2.893940428486431 on iteration24
+     [java] #2.5531717141885935 on iteration25
+     [java] #1.9498930440009303 on iteration26
+     [java] #1.4690774265614976 on iteration27
+     [java] #1.2330289836836954 on iteration28
+     [java] #1.0677627104459617 on iteration29
+     [java] #0.8584831470577825 on iteration30
+     [java] #0.7148414770345681 on iteration31
+     [java] #0.5480112735584441 on iteration32
+     [java] #0.4315592705466855 on iteration33
+     [java] #0.3197784980060021 on iteration34
+     [java] #0.22446689369365913 on iteration35
+     [java] #0.1827744483740048 on iteration36
+     [java] #0.14762522957590818 on iteration37
+     [java] #0.10424381903530389 on iteration38
+     [java] #0.08299826627387574 on iteration39
+     [java] #0.06652326170521405 on iteration40
+     [java] #0.048030682460137086 on iteration41
+     [java] #0.033289900185948795 on iteration42
+     [java] #0.026501941493251024 on iteration43
+     [java] #0.020258339928730607 on iteration44
+     [java] #0.014434535642777746 on iteration45
+     [java] #0.009633171022329634 on iteration46
+     [java] #0.007026043981596786 on iteration47
+     [java] #0.005364626891562807 on iteration48
+     [java] #0.004070256460238397 on iteration49
+     [java] #0.0032256020747070124 on iteration50
+     [java] #0.0025408847046435312 on iteration51
+     [java] #0.0020183030641760524 on iteration52
+     [java] #0.0016079783929825453 on iteration53
+     [java] #0.0012220390060093678 on iteration54
+     [java] #8.551023729665985E-4 on iteration55
+     [java] #6.092244298230298E-4 on iteration56
+     [java] #4.6597676436022084E-4 on iteration57
+     [java] #3.5211867231055294E-4 on iteration58
+     [java] #2.682558619540032E-4 on iteration59
+     [java] #2.212601476543341E-4 on iteration60
+     [java] #1.7265898662799373E-4 on iteration61
+     [java] #1.2890127628395476E-4 on iteration62
+     [java] #9.596936861555605E-5 on iteration63
+     [java] 
+     [java] Results: [102]
+     [java] Begin computation
+     [java] #35.448443140950125 on iteration0
+     [java] #30.659719587345563 on iteration1
+     [java] #16.884021910258063 on iteration2
+     [java] #15.30910421429163 on iteration3
+     [java] #13.537030221105852 on iteration4
+     [java] #12.137866477466005 on iteration5
+     [java] #9.643188080602208 on iteration6
+     [java] #7.73195766397032 on iteration7
+     [java] #7.608310886307635 on iteration8
+     [java] #7.387288329939437 on iteration9
+     [java] #5.859546050070037 on iteration10
+     [java] #4.9294002009638405 on iteration11
+     [java] #3.0919120245587237 on iteration12
+     [java] #2.2935367638062587 on iteration13
+     [java] #2.157437239381565 on iteration14
+     [java] #1.909440158529165 on iteration15
+     [java] #1.4389219162343068 on iteration16
+     [java] #0.7471047904848547 on iteration17
+     [java] #0.44946739333279595 on iteration18
+     [java] #0.35100966144859314 on iteration19
+     [java] #0.28608294470930673 on iteration20
+     [java] #0.26292561752164545 on iteration21
+     [java] #0.23180906191242912 on iteration22
+     [java] #0.19503836702479305 on iteration23
+     [java] #0.15660839511087943 on iteration24
+     [java] #0.11514269155094325 on iteration25
+     [java] #0.07809780825239443 on iteration26
+     [java] #0.06069509695936404 on iteration27
+     [java] #0.05423475863936744 on iteration28
+     [java] #0.044039246551747624 on iteration29
+     [java] #0.032003376827574925 on iteration30
+     [java] #0.020803127136645116 on iteration31
+     [java] #0.011529357256961248 on iteration32
+     [java] #0.005021957435744184 on iteration33
+     [java] #0.002112943207677631 on iteration34
+     [java] #9.52289156742836E-4 on iteration35
+     [java] #7.316391063767469E-4 on iteration36
+     [java] #5.703407735069277E-4 on iteration37
+     [java] #4.0886325746214425E-4 on iteration38
+     [java] #2.8230668800688363E-4 on iteration39
+     [java] #1.9188523506841193E-4 on iteration40
+     [java] #1.184819406034876E-4 on iteration41
+     [java] #6.64858160064341E-5 on iteration42
+     [java] 
+     [java] Results: [102, 103]
+     [java] Begin computation
+     [java] #21.469988010727896 on iteration0
+     [java] #11.810807412106747 on iteration1
+     [java] #11.268606187142211 on iteration2
+     [java] #11.200520150372256 on iteration3
+     [java] #10.35009718730663 on iteration4
+     [java] #8.960665551171743 on iteration5
+     [java] #8.178497115638791 on iteration6
+     [java] #4.483001427579026 on iteration7
+     [java] #4.295395845279224 on iteration8
+     [java] #3.0146976266369307 on iteration9
+     [java] #0.689271860677124 on iteration10
+     [java] #0.628822035815972 on iteration11
+     [java] #0.5988904509048041 on iteration12
+     [java] #0.5814775168702937 on iteration13
+     [java] #0.40764368177427457 on iteration14
+     [java] #0.1593987887363113 on iteration15
+     [java] #0.0926718074150159 on iteration16
+     [java] #0.08440413406644609 on iteration17
+     [java] #0.060049178068254605 on iteration18
+     [java] #0.03250056668210277 on iteration19
+     [java] #0.02583594479922624 on iteration20
+     [java] #0.02487914091437915 on iteration21
+     [java] #0.024323421643302368 on iteration22
+     [java] #0.021436458516873813 on iteration23
+     [java] #0.016843479891136326 on iteration24
+     [java] #0.012501853197520063 on iteration25
+     [java] #0.007485067980425697 on iteration26
+     [java] #0.0035299689613310647 on iteration27
+     [java] #0.0021632351978837505 on iteration28
+     [java] #0.001899104778402716 on iteration29
+     [java] #0.0014590522253854488 on iteration30
+     [java] #8.884681060550292E-4 on iteration31
+     [java] #4.0863396544921216E-4 on iteration32
+     [java] #1.3727322840395573E-4 on iteration33
+     [java] #3.359134491631721E-5 on iteration34
+     [java] 
+     [java] Results: [102, 103, 161]
+     [java] Begin computation
+     [java] #25.29118071687845 on iteration0
+     [java] #5.503978244922109 on iteration1
+     [java] #4.413290500506157 on iteration2
+     [java] #4.129805274705042 on iteration3
+     [java] #3.8303429450196873 on iteration4
+     [java] #3.414271702779331 on iteration5
+     [java] #2.9066593100218228 on iteration6
+     [java] #2.7321195651042274 on iteration7
+     [java] #2.3117296089173465 on iteration8
+     [java] #1.679941049855934 on iteration9
+     [java] #1.1294571275402063 on iteration10
+     [java] #0.46212859038715237 on iteration11
+     [java] #0.1927539272112142 on iteration12
+     [java] #0.10117524624691043 on iteration13
+     [java] #0.06398367644823111 on iteration14
+     [java] #0.04739710251394058 on iteration15
+     [java] #0.038646651553790434 on iteration16
+     [java] #0.03523656633747407 on iteration17
+     [java] #0.03008713382881467 on iteration18
+     [java] #0.02766047998974841 on iteration19
+     [java] #0.02633176419544725 on iteration20
+     [java] #0.02363190520722469 on iteration21
+     [java] #0.02201209139451521 on iteration22
+     [java] #0.020402461309771525 on iteration23
+     [java] #0.018750808734878888 on iteration24
+     [java] #0.015417817957867896 on iteration25
+     [java] #0.011199125508696284 on iteration26
+     [java] #0.006711518305863251 on iteration27
+     [java] #0.0033486601443541986 on iteration28
+     [java] #0.0014039060708199713 on iteration29
+     [java] #4.991527274711416E-4 on iteration30
+     [java] #1.5193603213958795E-4 on iteration31
+     [java] #3.997857265858329E-5 on iteration32
+     [java] 
+     [java] Results: [102, 103, 161, 180]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 450
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] Width: 0.045454545454545456
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.507, 0.018] in 29987
+     [java] Reached end MtCar[0.508, 0.013] in 188280
+     [java] Reached end MtCar[0.507, 0.009] in 31871
+     [java] Reached end MtCar[0.511, 0.015] in 74780
+     [java] Reached end MtCar[0.506, 0.010] in 184140
+     [java] Reached end MtCar[0.502, 0.009] in 38421
+     [java] Reached end MtCar[0.502, 0.006] in 4415
+     [java] Reached end MtCar[0.506, 0.008] in 16709
+     [java] Reached end MtCar[0.501, 0.015] in 54792
+     [java] Reached end MtCar[0.505, 0.008] in 7122
+     [java] Reached end MtCar[0.501, 0.012] in 7256
+     [java] Reached end MtCar[0.501, 0.010] in 71276
+     [java] Reached end MtCar[0.506, 0.007] in 10749
+     [java] Reached end MtCar[0.501, 0.005] in 25316
+     [java] Reached end MtCar[0.503, 0.015] in 52205
+     [java] Reached end MtCar[0.504, 0.010] in 1996
+     [java] Reached end MtCar[0.507, 0.011] in 26250
+     [java] Reached end MtCar[0.510, 0.011] in 43107
+     [java] Reached end MtCar[0.501, 0.001] in 8001
+     [java] Reached end MtCar[0.504, 0.006] in 22273
+     [java] Reached end MtCar[0.505, 0.009] in 194173
+     [java] Reached end MtCar[0.508, 0.017] in 3906
+     [java] Reached end MtCar[0.509, 0.009] in 39343
+     [java] Reached end MtCar[0.507, 0.012] in 15480
+     [java] Reached end MtCar[0.511, 0.015] in 2417
+     [java] Reached end MtCar[0.506, 0.022] in 7357
+     [java] Reached end MtCar[0.502, 0.023] in 9293
+     [java] Reached end MtCar[0.513, 0.015] in 90399
+     [java] Reached end MtCar[0.505, 0.026] in 24551
+     [java] Reached end MtCar[0.500, 0.001] in 15009
+     [java] Reached end MtCar[0.501, 0.008] in 92750
+     [java] Reached end MtCar[0.500, 0.006] in 18069
+     [java] Reached end MtCar[0.503, 0.012] in 20893
+     [java] Reached end MtCar[0.503, 0.014] in 22843
+     [java] Fraction of state space reached: 327 / 484
+     [java] want 500
+     [java] Through bin 5 sizes 1
+     [java] 327
+     [java] Begin computation
+     [java] #14.041750572897797 on iteration0
+     [java] #10.302841151243607 on iteration1
+     [java] #8.812614764690935 on iteration2
+     [java] #7.2531341519439 on iteration3
+     [java] #6.18826309879536 on iteration4
+     [java] #5.688049951216421 on iteration5
+     [java] #5.3952600000936215 on iteration6
+     [java] #5.070172651899334 on iteration7
+     [java] #4.816596216359024 on iteration8
+     [java] #4.610886493624818 on iteration9
+     [java] #4.49595822802911 on iteration10
+     [java] #4.446548105163316 on iteration11
+     [java] #4.356306942612342 on iteration12
+     [java] #4.279856870587828 on iteration13
+     [java] #4.219687891759307 on iteration14
+     [java] #4.198888998335832 on iteration15
+     [java] #4.176865448102809 on iteration16
+     [java] #4.14769332822312 on iteration17
+     [java] #4.137470953075415 on iteration18
+     [java] #4.108213474089155 on iteration19
+     [java] #3.8189388513863634 on iteration20
+     [java] #3.421304575687927 on iteration21
+     [java] #3.0870431922602393 on iteration22
+     [java] #2.8243831963752513 on iteration23
+     [java] #2.4821625959204283 on iteration24
+     [java] #2.2042447575372677 on iteration25
+     [java] #1.7302402237832837 on iteration26
+     [java] #1.4270261770740262 on iteration27
+     [java] #1.185158946308249 on iteration28
+     [java] #0.9066070390397556 on iteration29
+     [java] #0.665323658276364 on iteration30
+     [java] #0.5056422041832889 on iteration31
+     [java] #0.4075173334536686 on iteration32
+     [java] #0.30039521366934707 on iteration33
+     [java] #0.20255081207486114 on iteration34
+     [java] #0.14365190094390812 on iteration35
+     [java] #0.10687391993583617 on iteration36
+     [java] #0.0782174444236432 on iteration37
+     [java] #0.05418275671603112 on iteration38
+     [java] #0.03932970664034485 on iteration39
+     [java] #0.02852529096321632 on iteration40
+     [java] #0.019876897869536947 on iteration41
+     [java] #0.01400328549176777 on iteration42
+     [java] #0.010276077395303673 on iteration43
+     [java] #0.007301859231191088 on iteration44
+     [java] #0.005410479779158095 on iteration45
+     [java] #0.004211733249078975 on iteration46
+     [java] #0.003291850446260014 on iteration47
+     [java] #0.002496428656797889 on iteration48
+     [java] #0.0017836774447346215 on iteration49
+     [java] #0.0013606705380482254 on iteration50
+     [java] #0.001097208356739543 on iteration51
+     [java] #8.52893353155082E-4 on iteration52
+     [java] #6.173285870119116E-4 on iteration53
+     [java] #4.156704829796354E-4 on iteration54
+     [java] #3.1178005960441624E-4 on iteration55
+     [java] #2.327801350787695E-4 on iteration56
+     [java] #1.660029203094382E-4 on iteration57
+     [java] #1.1777078474040081E-4 on iteration58
+     [java] #8.378166015177158E-5 on iteration59
+     [java] 
+     [java] Results: [103]
+     [java] Begin computation
+     [java] #58.99459775246966 on iteration0
+     [java] #21.454603799319884 on iteration1
+     [java] #16.934560090885128 on iteration2
+     [java] #14.789455679885052 on iteration3
+     [java] #12.122694409448798 on iteration4
+     [java] #8.848438064958017 on iteration5
+     [java] #7.200337558537086 on iteration6
+     [java] #6.512818832539978 on iteration7
+     [java] #6.066112752014135 on iteration8
+     [java] #4.484548289524426 on iteration9
+     [java] #2.868097550428274 on iteration10
+     [java] #2.0064634038012485 on iteration11
+     [java] #1.3517416579208117 on iteration12
+     [java] #0.9525944569877822 on iteration13
+     [java] #0.6567608702854528 on iteration14
+     [java] #0.5306814310546315 on iteration15
+     [java] #0.477141146762051 on iteration16
+     [java] #0.3972459808665292 on iteration17
+     [java] #0.2886930753005572 on iteration18
+     [java] #0.2279201048688293 on iteration19
+     [java] #0.18056851313514244 on iteration20
+     [java] #0.14502331796968804 on iteration21
+     [java] #0.1105371702312965 on iteration22
+     [java] #0.07481110310276051 on iteration23
+     [java] #0.04187483124019309 on iteration24
+     [java] #0.02407844769844303 on iteration25
+     [java] #0.012076750823624138 on iteration26
+     [java] #0.005169299670583882 on iteration27
+     [java] #0.0019609026842033472 on iteration28
+     [java] #6.821973587278762E-4 on iteration29
+     [java] #2.1873715911624458E-4 on iteration30
+     [java] #6.306956426271881E-5 on iteration31
+     [java] 
+     [java] Results: [103, 175]
+     [java] Begin computation
+     [java] #23.46535042239664 on iteration0
+     [java] #13.536996468687718 on iteration1
+     [java] #5.7812073286453085 on iteration2
+     [java] #5.288651719582603 on iteration3
+     [java] #4.835842506220551 on iteration4
+     [java] #4.486395784934317 on iteration5
+     [java] #3.2242511903716604 on iteration6
+     [java] #2.290414576036369 on iteration7
+     [java] #1.6642831978270607 on iteration8
+     [java] #1.4994354380723962 on iteration9
+     [java] #1.3523207522995193 on iteration10
+     [java] #1.2314850753690365 on iteration11
+     [java] #1.0579685621578676 on iteration12
+     [java] #0.917734371075241 on iteration13
+     [java] #0.7981504126182841 on iteration14
+     [java] #0.7125845315019603 on iteration15
+     [java] #0.6354872663089708 on iteration16
+     [java] #0.566799940391121 on iteration17
+     [java] #0.5122072753441032 on iteration18
+     [java] #0.4640180741700277 on iteration19
+     [java] #0.4203704341521046 on iteration20
+     [java] #0.38083425304797913 on iteration21
+     [java] #0.3450237667805851 on iteration22
+     [java] #0.312572496912523 on iteration23
+     [java] #0.2831402479000076 on iteration24
+     [java] #0.25649635239464885 on iteration25
+     [java] #0.2323745682431877 on iteration26
+     [java] #0.21051682063010446 on iteration27
+     [java] #0.1907201415543227 on iteration28
+     [java] #0.17278496851685077 on iteration29
+     [java] #0.1565351350471218 on iteration30
+     [java] #0.14181407053467865 on iteration31
+     [java] #0.12847834738872166 on iteration32
+     [java] #0.11639711835923094 on iteration33
+     [java] #0.10545199871062039 on iteration34
+     [java] #0.09553607674160958 on iteration35
+     [java] #0.08655257435384556 on iteration36
+     [java] #0.0784138137423156 on iteration37
+     [java] #0.07104036167056904 on iteration38
+     [java] #0.06436025421312763 on iteration39
+     [java] #0.05830829439747731 on iteration40
+     [java] #0.052825415889074634 on iteration41
+     [java] #0.04785810651280542 on iteration42
+     [java] #0.04335788598051238 on iteration43
+     [java] #0.039280832729929216 on iteration44
+     [java] #0.035587155255853986 on iteration45
+     [java] #0.03224080375059657 on iteration46
+     [java] #0.02920911826225847 on iteration47
+     [java] #0.026462509937914547 on iteration48
+     [java] #0.02397417224058529 on iteration49
+     [java] 
+     [java] Results: [103, 175, 177]
+     [java] Begin computation
+     [java] #7.125107661785577 on iteration0
+     [java] #3.065263951829664 on iteration1
+     [java] #1.6907097056788132 on iteration2
+     [java] #0.3865189819019541 on iteration3
+     [java] #0.28580635659203324 on iteration4
+     [java] #0.259149058019176 on iteration5
+     [java] #0.25480043050977486 on iteration6
+     [java] #0.2373921407641717 on iteration7
+     [java] #0.22010469884799733 on iteration8
+     [java] #0.20406487465268697 on iteration9
+     [java] #0.18345840436012395 on iteration10
+     [java] #0.17382789492494766 on iteration11
+     [java] #0.1169947726552536 on iteration12
+     [java] #0.07286616153184866 on iteration13
+     [java] #0.04876284255406915 on iteration14
+     [java] #0.04370393841037412 on iteration15
+     [java] #0.0357950036083281 on iteration16
+     [java] #0.02833149026021431 on iteration17
+     [java] #0.021774967522105726 on iteration18
+     [java] #0.02026798309697142 on iteration19
+     [java] #0.018742365418177087 on iteration20
+     [java] #0.01734571517506822 on iteration21
+     [java] #0.014886369122805831 on iteration22
+     [java] #0.011224040201597063 on iteration23
+     [java] #0.007455419604397662 on iteration24
+     [java] #0.004396424998518 on iteration25
+     [java] #0.0022012201397529907 on iteration26
+     [java] #9.332691160892637E-4 on iteration27
+     [java] #3.375215400041043E-4 on iteration28
+     [java] #1.0532249849859454E-4 on iteration29
+     [java] #2.868458807370189E-5 on iteration30
+     [java] 
+     [java] Results: [103, 175, 177, 178]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 500
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] Width: 0.043478260869565216
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.506, 0.011] in 30699
+     [java] Reached end MtCar[0.502, 0.006] in 20666
+     [java] Reached end MtCar[0.504, 0.005] in 22069
+     [java] Reached end MtCar[0.505, 0.010] in 24761
+     [java] Reached end MtCar[0.501, 0.006] in 20145
+     [java] Reached end MtCar[0.507, 0.026] in 50831
+     [java] Reached end MtCar[0.501, 0.004] in 65154
+     [java] Reached end MtCar[0.500, 0.026] in 10494
+     [java] Reached end MtCar[0.507, 0.009] in 6833
+     [java] Reached end MtCar[0.505, 0.011] in 185341
+     [java] Reached end MtCar[0.500, 0.003] in 63900
+     [java] Reached end MtCar[0.504, 0.009] in 105865
+     [java] Reached end MtCar[0.517, 0.018] in 126205
+     [java] Reached end MtCar[0.503, 0.007] in 12236
+     [java] Reached end MtCar[0.516, 0.024] in 74583
+     [java] Reached end MtCar[0.513, 0.014] in 32682
+     [java] Reached end MtCar[0.500, 0.003] in 26282
+     [java] Reached end MtCar[0.502, 0.005] in 5014
+     [java] Reached end MtCar[0.511, 0.015] in 10437
+     [java] Reached end MtCar[0.504, 0.006] in 8750
+     [java] Reached end MtCar[0.508, 0.014] in 21253
+     [java] Reached end MtCar[0.506, 0.006] in 26547
+     [java] Reached end MtCar[0.510, 0.013] in 4808
+     [java] Reached end MtCar[0.501, 0.003] in 16635
+     [java] Reached end MtCar[0.507, 0.012] in 11214
+     [java] Reached end MtCar[0.500, 0.002] in 88587
+     [java] Reached end MtCar[0.502, 0.003] in 19431
+     [java] Reached end MtCar[0.503, 0.013] in 13842
+     [java] Reached end MtCar[0.501, 0.006] in 44378
+     [java] Reached end MtCar[0.503, 0.010] in 2988
+     [java] Reached end MtCar[0.504, 0.017] in 89468
+     [java] Reached end MtCar[0.506, 0.011] in 63868
+     [java] Reached end MtCar[0.503, 0.006] in 55113
+     [java] Reached end MtCar[0.509, 0.015] in 16971
+     [java] Reached end MtCar[0.504, 0.014] in 34215
+     [java] Reached end MtCar[0.501, 0.009] in 2999
+     [java] Reached end MtCar[0.510, 0.018] in 22188
+     [java] Fraction of state space reached: 361 / 529
+     [java] want 550
+     [java] Through bin 12 sizes 1
+     [java] 361
+     [java] Begin computation
+     [java] #15.312501521664739 on iteration0
+     [java] #10.987728115736067 on iteration1
+     [java] #8.204527867918035 on iteration2
+     [java] #7.222636162692133 on iteration3
+     [java] #6.372185537486153 on iteration4
+     [java] #5.711735693947901 on iteration5
+     [java] #5.3000825075973665 on iteration6
+     [java] #5.0155848004496235 on iteration7
+     [java] #4.743742987740504 on iteration8
+     [java] #4.576027625582334 on iteration9
+     [java] #4.536128182449637 on iteration10
+     [java] #4.474531345631554 on iteration11
+     [java] #4.37740196542795 on iteration12
+     [java] #4.345955929592705 on iteration13
+     [java] #4.294976075914519 on iteration14
+     [java] #4.270496146540033 on iteration15
+     [java] #4.2457638113240606 on iteration16
+     [java] #4.209123819978643 on iteration17
+     [java] #4.1838999361038915 on iteration18
+     [java] #4.156455076125823 on iteration19
+     [java] #4.070199768428239 on iteration20
+     [java] #3.579912940708553 on iteration21
+     [java] #3.2628666530948607 on iteration22
+     [java] #2.9702626778752403 on iteration23
+     [java] #2.645106474265148 on iteration24
+     [java] #2.3805806076725275 on iteration25
+     [java] #2.0616589431263037 on iteration26
+     [java] #1.6179692520125002 on iteration27
+     [java] #1.2995021949988086 on iteration28
+     [java] #1.0147736585178677 on iteration29
+     [java] #0.7484402682471796 on iteration30
+     [java] #0.5480199241080328 on iteration31
+     [java] #0.37044528536715404 on iteration32
+     [java] #0.2747102379097157 on iteration33
+     [java] #0.21453500354313348 on iteration34
+     [java] #0.16772357719388253 on iteration35
+     [java] #0.1272046924173651 on iteration36
+     [java] #0.09585407607404761 on iteration37
+     [java] #0.07007281917249486 on iteration38
+     [java] #0.049600170283895295 on iteration39
+     [java] #0.0337733639214548 on iteration40
+     [java] #0.025473741902629854 on iteration41
+     [java] #0.01871349369483255 on iteration42
+     [java] #0.014386752182048212 on iteration43
+     [java] #0.011615206912068743 on iteration44
+     [java] #0.009307872015355656 on iteration45
+     [java] #0.007271526529933681 on iteration46
+     [java] #0.00586221673199816 on iteration47
+     [java] #0.0046472582340868485 on iteration48
+     [java] #0.003574275289281559 on iteration49
+     [java] #0.002663039717234028 on iteration50
+     [java] #0.001964539937020504 on iteration51
+     [java] #0.001374145045986097 on iteration52
+     [java] #9.760194805039646E-4 on iteration53
+     [java] #7.618964357192226E-4 on iteration54
+     [java] #5.959542651226002E-4 on iteration55
+     [java] #4.563178710554894E-4 on iteration56
+     [java] #3.406776493051211E-4 on iteration57
+     [java] #2.505043079850111E-4 on iteration58
+     [java] #1.7675976327780063E-4 on iteration59
+     [java] #1.2272688134373766E-4 on iteration60
+     [java] #8.849715760561594E-5 on iteration61
+     [java] 
+     [java] Results: [103]
+     [java] Begin computation
+     [java] #46.074364963026866 on iteration0
+     [java] #24.022360840040236 on iteration1
+     [java] #23.91703062792012 on iteration2
+     [java] #23.23883465729844 on iteration3
+     [java] #19.240610686148713 on iteration4
+     [java] #15.018355413279423 on iteration5
+     [java] #11.585856257167066 on iteration6
+     [java] #7.3338915190675635 on iteration7
+     [java] #4.994892204477665 on iteration8
+     [java] #4.381098415131305 on iteration9
+     [java] #4.083726744693024 on iteration10
+     [java] #3.6255050495065433 on iteration11
+     [java] #2.352367629507796 on iteration12
+     [java] #1.5662382041618343 on iteration13
+     [java] #1.1426658489644268 on iteration14
+     [java] #1.0041673240364446 on iteration15
+     [java] #0.6825933210361796 on iteration16
+     [java] #0.613529102094958 on iteration17
+     [java] #0.5780211101366319 on iteration18
+     [java] #0.47662248352810366 on iteration19
+     [java] #0.29052231406176077 on iteration20
+     [java] #0.22062977575242826 on iteration21
+     [java] #0.13654669472155945 on iteration22
+     [java] #0.07536591355261635 on iteration23
+     [java] #0.04034966222963021 on iteration24
+     [java] #0.019104070257085937 on iteration25
+     [java] #0.00791091807535338 on iteration26
+     [java] #0.002978229648817887 on iteration27
+     [java] #0.001284982343989327 on iteration28
+     [java] #7.3200812634866E-4 on iteration29
+     [java] #4.837120973633091E-4 on iteration30
+     [java] #3.226804448246412E-4 on iteration31
+     [java] #2.201570582229806E-4 on iteration32
+     [java] #1.5522908540788194E-4 on iteration33
+     [java] #1.0717862316766968E-4 on iteration34
+     [java] #7.316320554195954E-5 on iteration35
+     [java] 
+     [java] Results: [103, 500]
+     [java] Begin computation
+     [java] #15.840460383237598 on iteration0
+     [java] #9.323371136244504 on iteration1
+     [java] #7.9295499738516355 on iteration2
+     [java] #6.5601522590431784 on iteration3
+     [java] #2.343541503105868 on iteration4
+     [java] #2.124074895269814 on iteration5
+     [java] #1.8187177220888344 on iteration6
+     [java] #1.431379346409031 on iteration7
+     [java] #1.0427986132816187 on iteration8
+     [java] #0.38275951441959677 on iteration9
+     [java] #0.3360416331417895 on iteration10
+     [java] #0.302504811906779 on iteration11
+     [java] #0.14354640557856158 on iteration12
+     [java] #0.09212407297581393 on iteration13
+     [java] #0.07340344483655059 on iteration14
+     [java] #0.06857633707964794 on iteration15
+     [java] #0.06674491022840812 on iteration16
+     [java] #0.06319795176278831 on iteration17
+     [java] #0.05549301106640314 on iteration18
+     [java] #0.033501194766586195 on iteration19
+     [java] #0.026664749581669867 on iteration20
+     [java] #0.02479489273785873 on iteration21
+     [java] #0.024297580530628693 on iteration22
+     [java] #0.020227474220064323 on iteration23
+     [java] #0.012924673922498187 on iteration24
+     [java] #0.006207514031274286 on iteration25
+     [java] #0.002193806629378514 on iteration26
+     [java] #5.34709136161382E-4 on iteration27
+     [java] #7.338423979774689E-5 on iteration28
+     [java] 
+     [java] Results: [103, 500, 500]
+     [java] Begin computation
+     [java] #11.548411581604583 on iteration0
+     [java] #6.256148793059921 on iteration1
+     [java] #5.615978708305008 on iteration2
+     [java] #0.48531266336813417 on iteration3
+     [java] #0.22913524994537227 on iteration4
+     [java] #0.22654720743636858 on iteration5
+     [java] #0.2261709715991458 on iteration6
+     [java] #0.22097193811715954 on iteration7
+     [java] #0.19052280470560135 on iteration8
+     [java] #0.1190232465587826 on iteration9
+     [java] #0.07815685310942655 on iteration10
+     [java] #0.07199812885772161 on iteration11
+     [java] #0.06050708346845113 on iteration12
+     [java] #0.05579663543774416 on iteration13
+     [java] #0.05351824193579091 on iteration14
+     [java] #0.04822609054356519 on iteration15
+     [java] #0.0451039238431008 on iteration16
+     [java] #0.03613623136583044 on iteration17
+     [java] #0.026957725463702786 on iteration18
+     [java] #0.024873311403077025 on iteration19
+     [java] #0.023096495045720644 on iteration20
+     [java] #0.021632672458267166 on iteration21
+     [java] #0.017707707216132462 on iteration22
+     [java] #0.011883991731409083 on iteration23
+     [java] #0.006583213438602797 on iteration24
+     [java] #0.0030199314267918 on iteration25
+     [java] #0.0011528532228481936 on iteration26
+     [java] #3.6902682718675806E-4 on iteration27
+     [java] #1.001179133908181E-4 on iteration28
+     [java] #2.349664555367781E-5 on iteration29
+     [java] 
+     [java] Results: [103, 500, 500, 500]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 550
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] 550 [103, 500, 500, 500]
+     [java] Width: 0.041666666666666664
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.503, 0.012] in 12305
+     [java] Reached end MtCar[0.501, 0.003] in 32555
+     [java] Reached end MtCar[0.500, 0.008] in 161517
+     [java] Reached end MtCar[0.507, 0.012] in 5823
+     [java] Reached end MtCar[0.506, 0.011] in 18699
+     [java] Reached end MtCar[0.505, 0.007] in 14607
+     [java] Reached end MtCar[0.504, 0.005] in 6900
+     [java] Reached end MtCar[0.502, 0.006] in 4019
+     [java] Reached end MtCar[0.501, 0.001] in 53522
+     [java] Reached end MtCar[0.500, 0.007] in 125268
+     [java] Reached end MtCar[0.503, 0.006] in 53317
+     [java] Reached end MtCar[0.517, 0.018] in 21094
+     [java] Reached end MtCar[0.514, 0.014] in 1916
+     [java] Reached end MtCar[0.500, 0.003] in 16884
+     [java] Reached end MtCar[0.501, 0.006] in 80873
+     [java] Reached end MtCar[0.506, 0.012] in 21769
+     [java] Reached end MtCar[0.505, 0.007] in 15808
+     [java] Reached end MtCar[0.502, 0.009] in 86165
+     [java] Reached end MtCar[0.511, 0.014] in 6771
+     [java] Reached end MtCar[0.512, 0.013] in 6509
+     [java] Reached end MtCar[0.503, 0.004] in 189454
+     [java] Reached end MtCar[0.505, 0.008] in 43070
+     [java] Reached end MtCar[0.503, 0.011] in 15578
+     [java] Reached end MtCar[0.500, 0.010] in 142563
+     [java] Reached end MtCar[0.506, 0.013] in 51271
+     [java] Reached end MtCar[0.505, 0.022] in 63638
+     [java] Reached end MtCar[0.500, 0.002] in 40965
+     [java] Reached end MtCar[0.508, 0.017] in 86780
+     [java] Reached end MtCar[0.503, 0.015] in 2174
+     [java] Reached end MtCar[0.501, 0.006] in 21834
+     [java] Fraction of state space reached: 382 / 576
+     [java] want 600
+     [java] Through bin 8 sizes 1
+     [java] 382
+     [java] Begin computation
+     [java] #14.815049840845042 on iteration0
+     [java] #10.25273761728411 on iteration1
+     [java] #8.365590854466799 on iteration2
+     [java] #6.932463250661041 on iteration3
+     [java] #6.271863110512683 on iteration4
+     [java] #5.6932493979958 on iteration5
+     [java] #5.239266472430266 on iteration6
+     [java] #4.851115438355009 on iteration7
+     [java] #4.762979305027926 on iteration8
+     [java] #4.70459437411337 on iteration9
+     [java] #4.67306490430645 on iteration10
+     [java] #4.607094092483457 on iteration11
+     [java] #4.562725014671635 on iteration12
+     [java] #4.525048874624325 on iteration13
+     [java] #4.499438789028645 on iteration14
+     [java] #4.468280875947947 on iteration15
+     [java] #4.45170048473323 on iteration16
+     [java] #4.434984794498206 on iteration17
+     [java] #4.411903597729925 on iteration18
+     [java] #4.395448188433448 on iteration19
+     [java] #4.378782750177052 on iteration20
+     [java] #3.8545655915378916 on iteration21
+     [java] #3.533316721907539 on iteration22
+     [java] #3.222208942769271 on iteration23
+     [java] #2.87546758478112 on iteration24
+     [java] #2.5838292113965196 on iteration25
+     [java] #2.2037605073072797 on iteration26
+     [java] #1.8011237449711643 on iteration27
+     [java] #1.4779188551045905 on iteration28
+     [java] #1.165224654391693 on iteration29
+     [java] #0.8168998244967582 on iteration30
+     [java] #0.610687431119274 on iteration31
+     [java] #0.4440238846311786 on iteration32
+     [java] #0.3253223468190072 on iteration33
+     [java] #0.24618101735096332 on iteration34
+     [java] #0.18879277338531608 on iteration35
+     [java] #0.14235228063539296 on iteration36
+     [java] #0.11587527397252018 on iteration37
+     [java] #0.09640085526241648 on iteration38
+     [java] #0.07919021878817034 on iteration39
+     [java] #0.06469025146280671 on iteration40
+     [java] #0.04900009267464611 on iteration41
+     [java] #0.03559540904902292 on iteration42
+     [java] #0.025737579168449543 on iteration43
+     [java] #0.020730592962408423 on iteration44
+     [java] #0.01583485258464634 on iteration45
+     [java] #0.011551033197250149 on iteration46
+     [java] #0.008791807677440033 on iteration47
+     [java] #0.006614451186820247 on iteration48
+     [java] #0.0048013682399954405 on iteration49
+     [java] #0.00338457603589859 on iteration50
+     [java] #0.0023762350344611605 on iteration51
+     [java] #0.0017999539524282682 on iteration52
+     [java] #0.0013523513043907087 on iteration53
+     [java] #0.0010051263008818978 on iteration54
+     [java] #7.743793239569641E-4 on iteration55
+     [java] #5.761487816613453E-4 on iteration56
+     [java] #4.601191684088235E-4 on iteration57
+     [java] #3.800035201919627E-4 on iteration58
+     [java] #3.074883594536004E-4 on iteration59
+     [java] #2.5034228622189403E-4 on iteration60
+     [java] #1.9328347163138915E-4 on iteration61
+     [java] #1.4329310357652503E-4 on iteration62
+     [java] #1.0260516992843804E-4 on iteration63
+     [java] #8.255557779079936E-5 on iteration64
+     [java] 
+     [java] Results: [102]
+     [java] Begin computation
+     [java] #49.603911923516165 on iteration0
+     [java] #22.963838326784597 on iteration1
+     [java] #18.91133953846802 on iteration2
+     [java] #16.664554809363153 on iteration3
+     [java] #12.513695906598684 on iteration4
+     [java] #10.771411770071722 on iteration5
+     [java] #7.579154904033032 on iteration6
+     [java] #6.341640135246095 on iteration7
+     [java] #4.85947204286785 on iteration8
+     [java] #4.29336543462864 on iteration9
+     [java] #3.787682192812113 on iteration10
+     [java] #2.165102103160649 on iteration11
+     [java] #1.887589900319412 on iteration12
+     [java] #1.1868506893680433 on iteration13
+     [java] #1.0236207398480843 on iteration14
+     [java] #0.944218900900367 on iteration15
+     [java] #0.8022052505784529 on iteration16
+     [java] #0.7353646152316315 on iteration17
+     [java] #0.6888062289790327 on iteration18
+     [java] #0.5320014905221768 on iteration19
+     [java] #0.36079551560740697 on iteration20
+     [java] #0.2502267817822741 on iteration21
+     [java] #0.19689902172687823 on iteration22
+     [java] #0.12795898365639857 on iteration23
+     [java] #0.11746034357726387 on iteration24
+     [java] #0.10567021250015785 on iteration25
+     [java] #0.09861366842289954 on iteration26
+     [java] #0.08660013484106344 on iteration27
+     [java] #0.06734963949091366 on iteration28
+     [java] #0.04584814458307562 on iteration29
+     [java] #0.02421443627304143 on iteration30
+     [java] #0.009738593397202067 on iteration31
+     [java] #0.0029318188609721574 on iteration32
+     [java] #6.59952177684886E-4 on iteration33
+     [java] #1.1531068670933564E-4 on iteration34
+     [java] #5.270992798500629E-5 on iteration35
+     [java] 
+     [java] Results: [102, 156]
+     [java] Begin computation
+     [java] #17.58484388975247 on iteration0
+     [java] #13.944468862654539 on iteration1
+     [java] #13.739517025216138 on iteration2
+     [java] #12.084511230961724 on iteration3
+     [java] #11.621695323597265 on iteration4
+     [java] #11.49157575333129 on iteration5
+     [java] #10.19116914175973 on iteration6
+     [java] #6.350354923894699 on iteration7
+     [java] #4.706006118024959 on iteration8
+     [java] #0.5847596382917573 on iteration9
+     [java] #0.5616374934238308 on iteration10
+     [java] #0.4649782727386622 on iteration11
+     [java] #0.32390938808723035 on iteration12
+     [java] #0.21013866336875253 on iteration13
+     [java] #0.14171976184820778 on iteration14
+     [java] #0.09686054361374374 on iteration15
+     [java] #0.06624093561971733 on iteration16
+     [java] #0.059595343874747186 on iteration17
+     [java] #0.054791647815932265 on iteration18
+     [java] #0.03914799044488859 on iteration19
+     [java] #0.03563125366363806 on iteration20
+     [java] #0.029611949581280328 on iteration21
+     [java] #0.019472572660902188 on iteration22
+     [java] #0.009964652663214224 on iteration23
+     [java] #0.00863659901474989 on iteration24
+     [java] #0.006856435357619262 on iteration25
+     [java] #0.0049505918015313455 on iteration26
+     [java] #0.0024306907822619905 on iteration27
+     [java] #6.806369472798224E-4 on iteration28
+     [java] #2.99058051631107E-4 on iteration29
+     [java] #2.273914168426927E-4 on iteration30
+     [java] #1.2932313291713626E-4 on iteration31
+     [java] #5.568104500497384E-5 on iteration32
+     [java] 
+     [java] Results: [102, 156, 156]
+     [java] Begin computation
+     [java] #9.446122040797157 on iteration0
+     [java] #5.205991956271276 on iteration1
+     [java] #4.459555457931458 on iteration2
+     [java] #3.661631904951008 on iteration3
+     [java] #3.279206003490316 on iteration4
+     [java] #2.7904032772187577 on iteration5
+     [java] #2.427639017403685 on iteration6
+     [java] #2.084837908534041 on iteration7
+     [java] #1.8042578755104657 on iteration8
+     [java] #1.5805809183776276 on iteration9
+     [java] #1.3978209181988177 on iteration10
+     [java] #1.2571790497066928 on iteration11
+     [java] #1.1298687949891146 on iteration12
+     [java] #1.015351611345963 on iteration13
+     [java] #0.9121688631089242 on iteration14
+     [java] #0.799870868465554 on iteration15
+     [java] #0.6952198024368244 on iteration16
+     [java] #0.5703053418083783 on iteration17
+     [java] #0.5073509807599947 on iteration18
+     [java] #0.37566784396346975 on iteration19
+     [java] #0.2012499444351903 on iteration20
+     [java] #0.05599573799831603 on iteration21
+     [java] #0.022297906571139947 on iteration22
+     [java] #0.01510333467116709 on iteration23
+     [java] #0.011064052306039684 on iteration24
+     [java] #0.008068639467509797 on iteration25
+     [java] #0.005775079362919655 on iteration26
+     [java] #0.005072989477099554 on iteration27
+     [java] #0.0035640319945429155 on iteration28
+     [java] #0.0020093892125885304 on iteration29
+     [java] #9.199418902881007E-4 on iteration30
+     [java] #3.429323769807979E-4 on iteration31
+     [java] #1.0735492858771067E-4 on iteration32
+     [java] #2.891475826061196E-5 on iteration33
+     [java] 
+     [java] Results: [102, 156, 156, 500]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 600
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] 550 [103, 500, 500, 500]
+     [java] 600 [102, 156, 156, 500]
+     [java] Width: 0.04
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.500, 0.002] in 47477
+     [java] Reached end MtCar[0.504, 0.004] in 21661
+     [java] Reached end MtCar[0.505, 0.010] in 8683
+     [java] Reached end MtCar[0.509, 0.010] in 43224
+     [java] Reached end MtCar[0.506, 0.009] in 8973
+     [java] Reached end MtCar[0.506, 0.007] in 87580
+     [java] Reached end MtCar[0.504, 0.014] in 60162
+     [java] Reached end MtCar[0.501, 0.004] in 6553
+     [java] Reached end MtCar[0.510, 0.015] in 17493
+     [java] Reached end MtCar[0.506, 0.007] in 17231
+     [java] Reached end MtCar[0.507, 0.008] in 107455
+     [java] Reached end MtCar[0.504, 0.007] in 9856
+     [java] Reached end MtCar[0.502, 0.010] in 26761
+     [java] Reached end MtCar[0.504, 0.011] in 33679
+     [java] Reached end MtCar[0.501, 0.005] in 35269
+     [java] Reached end MtCar[0.504, 0.005] in 8331
+     [java] Reached end MtCar[0.500, 0.015] in 173783
+     [java] Reached end MtCar[0.502, 0.007] in 23533
+     [java] Reached end MtCar[0.504, 0.018] in 67436
+     [java] Reached end MtCar[0.501, 0.008] in 116012
+     [java] Reached end MtCar[0.500, 0.016] in 53640
+     [java] Reached end MtCar[0.501, 0.013] in 11187
+     [java] Reached end MtCar[0.509, 0.010] in 22127
+     [java] Reached end MtCar[0.501, 0.012] in 1324
+     [java] Reached end MtCar[0.506, 0.015] in 6755
+     [java] Reached end MtCar[0.510, 0.014] in 15850
+     [java] Reached end MtCar[0.504, 0.018] in 18308
+     [java] Reached end MtCar[0.512, 0.019] in 55313
+     [java] Reached end MtCar[0.501, 0.010] in 130257
+     [java] Reached end MtCar[0.501, 0.027] in 66188
+     [java] Reached end MtCar[0.501, 0.002] in 31854
+     [java] Reached end MtCar[0.504, 0.010] in 64415
+     [java] Reached end MtCar[0.504, 0.006] in 53920
+     [java] Fraction of state space reached: 414 / 625
+     [java] want 650
+     [java] Through bin 6 sizes 1
+     [java] 414
+     [java] Begin computation
+     [java] #15.173316449879058 on iteration0
+     [java] #10.69751331579278 on iteration1
+     [java] #8.201397783191286 on iteration2
+     [java] #7.083328888967543 on iteration3
+     [java] #6.22506378659881 on iteration4
+     [java] #5.743201912871335 on iteration5
+     [java] #5.356087635456639 on iteration6
+     [java] #5.057150926815275 on iteration7
+     [java] #4.847385517176143 on iteration8
+     [java] #4.6277728296121765 on iteration9
+     [java] #4.587369647468456 on iteration10
+     [java] #4.514177930915494 on iteration11
+     [java] #4.4425463268572045 on iteration12
+     [java] #4.407960238532503 on iteration13
+     [java] #4.381671645606545 on iteration14
+     [java] #4.366566414398221 on iteration15
+     [java] #4.343978188732471 on iteration16
+     [java] #4.329683622797802 on iteration17
+     [java] #4.286915708597839 on iteration18
+     [java] #4.259321453833877 on iteration19
+     [java] #4.059017353699915 on iteration20
+     [java] #3.6598525392326167 on iteration21
+     [java] #3.248054693481677 on iteration22
+     [java] #2.9642509969027344 on iteration23
+     [java] #2.648581939663856 on iteration24
+     [java] #2.4202276247675343 on iteration25
+     [java] #2.024881429340681 on iteration26
+     [java] #1.677466842662767 on iteration27
+     [java] #1.3656770507124776 on iteration28
+     [java] #1.0353822291230017 on iteration29
+     [java] #0.7408688601547198 on iteration30
+     [java] #0.545843910996183 on iteration31
+     [java] #0.3950664708837053 on iteration32
+     [java] #0.286738481659512 on iteration33
+     [java] #0.22615457762655922 on iteration34
+     [java] #0.16737055341785378 on iteration35
+     [java] #0.1363012243140389 on iteration36
+     [java] #0.11140438918586426 on iteration37
+     [java] #0.08715041077554986 on iteration38
+     [java] #0.06939842647106786 on iteration39
+     [java] #0.050797149616485626 on iteration40
+     [java] #0.03562089358410958 on iteration41
+     [java] #0.024141950877861973 on iteration42
+     [java] #0.01817933759487289 on iteration43
+     [java] #0.014189563295246899 on iteration44
+     [java] #0.01069266355234788 on iteration45
+     [java] #0.008299384441400548 on iteration46
+     [java] #0.006309937417910305 on iteration47
+     [java] #0.004749625742206831 on iteration48
+     [java] #0.0034903197170166322 on iteration49
+     [java] #0.002554602123595373 on iteration50
+     [java] #0.0018378871079534065 on iteration51
+     [java] #0.0013435618316748332 on iteration52
+     [java] #9.480628230704724E-4 on iteration53
+     [java] #7.469169011642407E-4 on iteration54
+     [java] #6.108249249905384E-4 on iteration55
+     [java] #4.971870478698293E-4 on iteration56
+     [java] #4.0083625047770965E-4 on iteration57
+     [java] #3.1336331387876726E-4 on iteration58
+     [java] #2.3787253003604292E-4 on iteration59
+     [java] #1.7338220992257902E-4 on iteration60
+     [java] #1.22300733977454E-4 on iteration61
+     [java] #8.454409464775381E-5 on iteration62
+     [java] 
+     [java] Results: [103]
+     [java] Begin computation
+     [java] #41.64330269925657 on iteration0
+     [java] #30.300146513520907 on iteration1
+     [java] #26.88536852423828 on iteration2
+     [java] #24.20936940205611 on iteration3
+     [java] #19.026530032838473 on iteration4
+     [java] #13.564102739464282 on iteration5
+     [java] #12.859936120689063 on iteration6
+     [java] #9.735109761952529 on iteration7
+     [java] #7.391118666986358 on iteration8
+     [java] #7.200773811665712 on iteration9
+     [java] #5.035916194770934 on iteration10
+     [java] #4.4138549319931855 on iteration11
+     [java] #2.973847012155943 on iteration12
+     [java] #2.122620450099447 on iteration13
+     [java] #1.1777617097485589 on iteration14
+     [java] #0.8888617533218124 on iteration15
+     [java] #0.7340007301403375 on iteration16
+     [java] #0.685948239605267 on iteration17
+     [java] #0.5641265349025701 on iteration18
+     [java] #0.4078162454899257 on iteration19
+     [java] #0.2739474223774323 on iteration20
+     [java] #0.17516437613150515 on iteration21
+     [java] #0.11451166239071142 on iteration22
+     [java] #0.07517315267998015 on iteration23
+     [java] #0.06317361567789703 on iteration24
+     [java] #0.044756069111329566 on iteration25
+     [java] #0.026864825992205965 on iteration26
+     [java] #0.013823857355617974 on iteration27
+     [java] #0.005834814782559761 on iteration28
+     [java] #0.0018813844778549083 on iteration29
+     [java] #7.901456075671831E-4 on iteration30
+     [java] #3.2438257554190386E-4 on iteration31
+     [java] #1.0561711560796994E-4 on iteration32
+     [java] #2.574883602335376E-5 on iteration33
+     [java] 
+     [java] Results: [103, 113]
+     [java] Begin computation
+     [java] #25.19716014578858 on iteration0
+     [java] #9.448275088218594 on iteration1
+     [java] #8.545424135475784 on iteration2
+     [java] #8.185343518997627 on iteration3
+     [java] #6.112296203027483 on iteration4
+     [java] #5.59503464780812 on iteration5
+     [java] #4.874758768755548 on iteration6
+     [java] #4.723409383963769 on iteration7
+     [java] #4.63584149596776 on iteration8
+     [java] #2.993986767046877 on iteration9
+     [java] #0.4858637393980132 on iteration10
+     [java] #0.14217286251381722 on iteration11
+     [java] #0.11036986260504023 on iteration12
+     [java] #0.10256540726285124 on iteration13
+     [java] #0.09118672345802281 on iteration14
+     [java] #0.08140930148323378 on iteration15
+     [java] #0.07312980735382268 on iteration16
+     [java] #0.07252683890028777 on iteration17
+     [java] #0.06773089339234417 on iteration18
+     [java] #0.05618054074768963 on iteration19
+     [java] #0.05324309692613838 on iteration20
+     [java] #0.04985261213542458 on iteration21
+     [java] #0.03870991103663357 on iteration22
+     [java] #0.024078976436413768 on iteration23
+     [java] #0.011580283943189329 on iteration24
+     [java] #0.004252288266030746 on iteration25
+     [java] #0.0012951785073198607 on iteration26
+     [java] #4.181427541283256E-4 on iteration27
+     [java] #1.1541946531679059E-4 on iteration28
+     [java] #2.005361056944821E-5 on iteration29
+     [java] 
+     [java] Results: [103, 113, 104]
+     [java] Begin computation
+     [java] #10.511874036825539 on iteration0
+     [java] #8.708051771238758 on iteration1
+     [java] #5.883154519345723 on iteration2
+     [java] #4.671808798831449 on iteration3
+     [java] #4.4335944216661005 on iteration4
+     [java] #4.162778103560278 on iteration5
+     [java] #1.5714552495481158 on iteration6
+     [java] #0.33965532000434706 on iteration7
+     [java] #0.2175583187955894 on iteration8
+     [java] #0.15918377948731433 on iteration9
+     [java] #0.15503818478915576 on iteration10
+     [java] #0.09881705785180372 on iteration11
+     [java] #0.06142246291211961 on iteration12
+     [java] #0.05648767125481413 on iteration13
+     [java] #0.054613092217479675 on iteration14
+     [java] #0.04841304834134519 on iteration15
+     [java] #0.04142443593728018 on iteration16
+     [java] #0.03825063914565874 on iteration17
+     [java] #0.03461064503103728 on iteration18
+     [java] #0.03263751854922248 on iteration19
+     [java] #0.031712718437987064 on iteration20
+     [java] #0.02722410149995369 on iteration21
+     [java] #0.019319288056692585 on iteration22
+     [java] #0.011037589301068351 on iteration23
+     [java] #0.004684488644869589 on iteration24
+     [java] #0.0012391306633503518 on iteration25
+     [java] #6.785453273892017E-4 on iteration26
+     [java] #5.8068163905034E-4 on iteration27
+     [java] #3.0882158318945585E-4 on iteration28
+     [java] #1.2030998473733234E-4 on iteration29
+     [java] #3.7095191686375983E-5 on iteration30
+     [java] 
+     [java] Results: [103, 113, 104, 105]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 650
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] 550 [103, 500, 500, 500]
+     [java] 600 [102, 156, 156, 500]
+     [java] 650 [103, 113, 104, 105]
+     [java] Width: 0.038461538461538464
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.500, 0.011] in 93291
+     [java] Reached end MtCar[0.502, 0.005] in 40783
+     [java] Reached end MtCar[0.503, 0.010] in 51560
+     [java] Reached end MtCar[0.501, 0.009] in 53802
+     [java] Reached end MtCar[0.507, 0.008] in 11047
+     [java] Reached end MtCar[0.501, 0.008] in 10417
+     [java] Reached end MtCar[0.502, 0.009] in 20709
+     [java] Reached end MtCar[0.507, 0.007] in 35700
+     [java] Reached end MtCar[0.502, 0.004] in 103355
+     [java] Reached end MtCar[0.507, 0.009] in 54605
+     [java] Reached end MtCar[0.504, 0.014] in 7848
+     [java] Reached end MtCar[0.506, 0.020] in 5346
+     [java] Reached end MtCar[0.503, 0.009] in 66250
+     [java] Reached end MtCar[0.505, 0.013] in 53859
+     [java] Reached end MtCar[0.501, 0.006] in 16360
+     [java] Reached end MtCar[0.504, 0.011] in 136275
+     [java] Reached end MtCar[0.507, 0.017] in 68360
+     [java] Reached end MtCar[0.511, 0.014] in 64989
+     [java] Reached end MtCar[0.506, 0.009] in 21622
+     [java] Reached end MtCar[0.503, 0.009] in 22921
+     [java] Reached end MtCar[0.512, 0.014] in 27236
+     [java] Reached end MtCar[0.505, 0.007] in 60554
+     [java] Reached end MtCar[0.501, 0.009] in 38144
+     [java] Reached end MtCar[0.507, 0.007] in 24695
+     [java] Reached end MtCar[0.506, 0.008] in 40499
+     [java] Reached end MtCar[0.502, 0.012] in 5487
+     [java] Reached end MtCar[0.507, 0.017] in 23777
+     [java] Reached end MtCar[0.505, 0.014] in 15036
+     [java] Reached end MtCar[0.518, 0.020] in 9385
+     [java] Reached end MtCar[0.508, 0.009] in 40524
+     [java] Reached end MtCar[0.509, 0.011] in 19379
+     [java] Reached end MtCar[0.505, 0.006] in 28515
+     [java] Reached end MtCar[0.507, 0.012] in 4164
+     [java] Reached end MtCar[0.502, 0.010] in 44675
+     [java] Reached end MtCar[0.501, 0.011] in 87360
+     [java] Reached end MtCar[0.523, 0.025] in 54730
+     [java] Reached end MtCar[0.512, 0.015] in 10325
+     [java] Reached end MtCar[0.510, 0.014] in 2538
+     [java] Fraction of state space reached: 453 / 676
+     [java] want 700
+     [java] Through bin 9 sizes 1
+     [java] 453
+     [java] Begin computation
+     [java] #13.970299092199634 on iteration0
+     [java] #11.169814610492258 on iteration1
+     [java] #8.107822457464 on iteration2
+     [java] #7.1103821985907985 on iteration3
+     [java] #6.173565732311829 on iteration4
+     [java] #5.623671766711034 on iteration5
+     [java] #5.237640473772736 on iteration6
+     [java] #4.981649832660118 on iteration7
+     [java] #4.762566662070945 on iteration8
+     [java] #4.697149404174986 on iteration9
+     [java] #4.663470924235568 on iteration10
+     [java] #4.534161247138336 on iteration11
+     [java] #4.462566125833234 on iteration12
+     [java] #4.446137926643864 on iteration13
+     [java] #4.41997864723151 on iteration14
+     [java] #4.369980338982167 on iteration15
+     [java] #4.331504145394668 on iteration16
+     [java] #4.31720259747906 on iteration17
+     [java] #4.289601235914667 on iteration18
+     [java] #4.268833796896587 on iteration19
+     [java] #4.169155797007576 on iteration20
+     [java] #3.55204186907487 on iteration21
+     [java] #3.240428381967078 on iteration22
+     [java] #2.9101746155104564 on iteration23
+     [java] #2.6348063167881293 on iteration24
+     [java] #2.401376158047242 on iteration25
+     [java] #2.038147142320639 on iteration26
+     [java] #1.6809533453808143 on iteration27
+     [java] #1.369185341030601 on iteration28
+     [java] #1.1121537331029572 on iteration29
+     [java] #0.8538013842968297 on iteration30
+     [java] #0.6208036395955219 on iteration31
+     [java] #0.4576846622137083 on iteration32
+     [java] #0.3155047301575138 on iteration33
+     [java] #0.2269922045455246 on iteration34
+     [java] #0.1672078511406454 on iteration35
+     [java] #0.12291081740237075 on iteration36
+     [java] #0.09525783114273167 on iteration37
+     [java] #0.07607512133789385 on iteration38
+     [java] #0.06075058768807651 on iteration39
+     [java] #0.04842577580403429 on iteration40
+     [java] #0.03682920773290732 on iteration41
+     [java] #0.02704753903977064 on iteration42
+     [java] #0.02020389254057875 on iteration43
+     [java] #0.015607876115780073 on iteration44
+     [java] #0.012257598313098583 on iteration45
+     [java] #0.009766303216537153 on iteration46
+     [java] #0.007671632505648063 on iteration47
+     [java] #0.00601593274241452 on iteration48
+     [java] #0.004707761640190711 on iteration49
+     [java] #0.0035649010957428118 on iteration50
+     [java] #0.0025930652094103834 on iteration51
+     [java] #0.001956871337682742 on iteration52
+     [java] #0.0014089983989720167 on iteration53
+     [java] #9.88381066164834E-4 on iteration54
+     [java] #7.231856703953099E-4 on iteration55
+     [java] #5.262857174415103E-4 on iteration56
+     [java] #4.020251263341379E-4 on iteration57
+     [java] #3.065830219526333E-4 on iteration58
+     [java] #2.5120575462267425E-4 on iteration59
+     [java] #2.0158991948449057E-4 on iteration60
+     [java] #1.5849824744407215E-4 on iteration61
+     [java] #1.197547190372461E-4 on iteration62
+     [java] #9.003907848637027E-5 on iteration63
+     [java] 
+     [java] Results: [102]
+     [java] Begin computation
+     [java] #44.620406142478096 on iteration0
+     [java] #29.7550697883854 on iteration1
+     [java] #21.189206892142188 on iteration2
+     [java] #19.79411745753456 on iteration3
+     [java] #14.618635832037242 on iteration4
+     [java] #12.856103749062818 on iteration5
+     [java] #10.577662630144154 on iteration6
+     [java] #9.87084221232405 on iteration7
+     [java] #8.277768759778027 on iteration8
+     [java] #6.125555661006032 on iteration9
+     [java] #5.475255458458619 on iteration10
+     [java] #4.6704196444200505 on iteration11
+     [java] #2.48794921496183 on iteration12
+     [java] #1.5566053521217071 on iteration13
+     [java] #1.1592011435952116 on iteration14
+     [java] #0.7318196520798708 on iteration15
+     [java] #0.5937227786452013 on iteration16
+     [java] #0.49374782012021967 on iteration17
+     [java] #0.39995837767458653 on iteration18
+     [java] #0.3598415747321084 on iteration19
+     [java] #0.3013911972871455 on iteration20
+     [java] #0.24445089861087865 on iteration21
+     [java] #0.18598801770269802 on iteration22
+     [java] #0.13451507681661212 on iteration23
+     [java] #0.09156041879620602 on iteration24
+     [java] #0.0581595636015777 on iteration25
+     [java] #0.033280395952473896 on iteration26
+     [java] #0.01894927629051324 on iteration27
+     [java] #0.008511720995500127 on iteration28
+     [java] #0.0035410602435774763 on iteration29
+     [java] #0.0018787148708128143 on iteration30
+     [java] #0.0011159429509319807 on iteration31
+     [java] #6.604678660124819E-4 on iteration32
+     [java] #3.296307621099004E-4 on iteration33
+     [java] #1.8610512009331615E-4 on iteration34
+     [java] #9.780504005618695E-5 on iteration35
+     [java] 
+     [java] Results: [102, 106]
+     [java] Begin computation
+     [java] #27.52065274016713 on iteration0
+     [java] #11.348281022750434 on iteration1
+     [java] #6.875147126215225 on iteration2
+     [java] #5.452199941599659 on iteration3
+     [java] #4.416133196494684 on iteration4
+     [java] #3.4142450173217327 on iteration5
+     [java] #2.112317987149879 on iteration6
+     [java] #1.623419420671695 on iteration7
+     [java] #1.2098633998215718 on iteration8
+     [java] #0.783939690776009 on iteration9
+     [java] #0.4915854078380306 on iteration10
+     [java] #0.2499268187098096 on iteration11
+     [java] #0.2258064123748511 on iteration12
+     [java] #0.16711103401372895 on iteration13
+     [java] #0.10842565148150385 on iteration14
+     [java] #0.06684578703973898 on iteration15
+     [java] #0.052693621725737216 on iteration16
+     [java] #0.04749672033963748 on iteration17
+     [java] #0.0463463111109661 on iteration18
+     [java] #0.04112194187865725 on iteration19
+     [java] #0.03380836781236951 on iteration20
+     [java] #0.03221205258553539 on iteration21
+     [java] #0.028128745079044393 on iteration22
+     [java] #0.020738282904574135 on iteration23
+     [java] #0.01137906045441639 on iteration24
+     [java] #0.00444355810425634 on iteration25
+     [java] #0.0016317583109213274 on iteration26
+     [java] #7.926614504469853E-4 on iteration27
+     [java] #4.003291091549954E-4 on iteration28
+     [java] #1.9001707730126327E-4 on iteration29
+     [java] #6.395775864120878E-5 on iteration30
+     [java] 
+     [java] Results: [102, 106, 106]
+     [java] Begin computation
+     [java] #6.297739741688332 on iteration0
+     [java] #3.035815498339808 on iteration1
+     [java] #2.797722533220025 on iteration2
+     [java] #2.0984775342836315 on iteration3
+     [java] #1.7968792763761812 on iteration4
+     [java] #1.5118455999244134 on iteration5
+     [java] #1.3720067025795544 on iteration6
+     [java] #1.3012136594037997 on iteration7
+     [java] #1.0201196022747467 on iteration8
+     [java] #0.8809104293050325 on iteration9
+     [java] #0.5537073031623763 on iteration10
+     [java] #0.45353928805102584 on iteration11
+     [java] #0.2837306636043664 on iteration12
+     [java] #0.14494704435318084 on iteration13
+     [java] #0.07533979951209346 on iteration14
+     [java] #0.042369902596561815 on iteration15
+     [java] #0.03178972642944444 on iteration16
+     [java] #0.031076485569030865 on iteration17
+     [java] #0.029985102067897174 on iteration18
+     [java] #0.024580246335489164 on iteration19
+     [java] #0.02302214929939339 on iteration20
+     [java] #0.02199488929373672 on iteration21
+     [java] #0.019906804431968794 on iteration22
+     [java] #0.015574454060896414 on iteration23
+     [java] #0.009571173555940504 on iteration24
+     [java] #0.004455348704738071 on iteration25
+     [java] #0.00144294793861377 on iteration26
+     [java] #4.468292696486742E-4 on iteration27
+     [java] #2.6705143517347096E-4 on iteration28
+     [java] #1.7023278734029645E-4 on iteration29
+     [java] #7.194640760133098E-5 on iteration30
+     [java] 
+     [java] Results: [102, 106, 106, 106]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 700
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] 550 [103, 500, 500, 500]
+     [java] 600 [102, 156, 156, 500]
+     [java] 650 [103, 113, 104, 105]
+     [java] 700 [102, 106, 106, 106]
+     [java] Width: 0.037037037037037035
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.505, 0.005] in 40570
+     [java] Reached end MtCar[0.505, 0.010] in 54316
+     [java] Reached end MtCar[0.500, 0.001] in 39156
+     [java] Reached end MtCar[0.509, 0.010] in 8373
+     [java] Reached end MtCar[0.510, 0.018] in 7700
+     [java] Reached end MtCar[0.501, 0.006] in 22840
+     [java] Reached end MtCar[0.505, 0.009] in 17650
+     [java] Reached end MtCar[0.501, 0.009] in 32010
+     [java] Reached end MtCar[0.503, 0.016] in 82135
+     [java] Reached end MtCar[0.504, 0.007] in 22537
+     [java] Reached end MtCar[0.501, 0.009] in 14433
+     [java] Reached end MtCar[0.505, 0.012] in 24169
+     [java] Reached end MtCar[0.513, 0.017] in 25135
+     [java] Reached end MtCar[0.515, 0.021] in 2855
+     [java] Reached end MtCar[0.501, 0.002] in 60748
+     [java] Reached end MtCar[0.513, 0.016] in 47264
+     [java] Reached end MtCar[0.511, 0.012] in 4025
+     [java] Reached end MtCar[0.501, 0.014] in 5554
+     [java] Reached end MtCar[0.504, 0.008] in 29349
+     [java] Reached end MtCar[0.507, 0.009] in 104408
+     [java] Reached end MtCar[0.510, 0.016] in 19107
+     [java] Reached end MtCar[0.507, 0.018] in 139811
+     [java] Reached end MtCar[0.501, 0.002] in 44017
+     [java] Reached end MtCar[0.501, 0.015] in 15628
+     [java] Reached end MtCar[0.515, 0.020] in 15841
+     [java] Reached end MtCar[0.501, 0.012] in 37812
+     [java] Reached end MtCar[0.509, 0.011] in 2099
+     [java] Reached end MtCar[0.506, 0.015] in 34053
+     [java] Reached end MtCar[0.500, 0.009] in 25017
+     [java] Reached end MtCar[0.504, 0.012] in 45196
+     [java] Reached end MtCar[0.513, 0.015] in 30009
+     [java] Reached end MtCar[0.507, 0.020] in 23127
+     [java] Reached end MtCar[0.506, 0.013] in 6660
+     [java] Reached end MtCar[0.513, 0.022] in 20560
+     [java] Reached end MtCar[0.514, 0.014] in 70642
+     [java] Reached end MtCar[0.508, 0.015] in 33487
+     [java] Reached end MtCar[0.503, 0.006] in 65434
+     [java] Reached end MtCar[0.505, 0.009] in 9893
+     [java] Reached end MtCar[0.513, 0.015] in 23912
+     [java] Reached end MtCar[0.512, 0.013] in 7891
+     [java] Reached end MtCar[0.503, 0.016] in 13207
+     [java] Reached end MtCar[0.506, 0.006] in 11498
+     [java] Reached end MtCar[0.502, 0.005] in 24970
+     [java] Reached end MtCar[0.510, 0.012] in 90390
+     [java] Reached end MtCar[0.506, 0.006] in 2939
+     [java] Reached end MtCar[0.500, 0.005] in 6320
+     [java] Reached end MtCar[0.510, 0.014] in 13002
+     [java] Fraction of state space reached: 484 / 729
+     [java] want 750
+     [java] Through bin 9 sizes 1
+     [java] 484
+     [java] Begin computation
+     [java] #15.463231005406216 on iteration0
+     [java] #10.580768195590162 on iteration1
+     [java] #8.265514763115178 on iteration2
+     [java] #7.272572278799402 on iteration3
+     [java] #6.380867148770768 on iteration4
+     [java] #5.799599205203073 on iteration5
+     [java] #5.389337452833914 on iteration6
+     [java] #5.027786225911463 on iteration7
+     [java] #4.80085199998237 on iteration8
+     [java] #4.722156228040696 on iteration9
+     [java] #4.682456965247582 on iteration10
+     [java] #4.639144646541894 on iteration11
+     [java] #4.576668288188031 on iteration12
+     [java] #4.548698193220808 on iteration13
+     [java] #4.519256594703727 on iteration14
+     [java] #4.481969994759567 on iteration15
+     [java] #4.453482791048188 on iteration16
+     [java] #4.427880539148838 on iteration17
+     [java] #4.408520837244872 on iteration18
+     [java] #4.392558192033476 on iteration19
+     [java] #4.313300587509303 on iteration20
+     [java] #3.7885957318272148 on iteration21
+     [java] #3.483543553142596 on iteration22
+     [java] #3.1760203837387024 on iteration23
+     [java] #2.929309932598713 on iteration24
+     [java] #2.670807518372726 on iteration25
+     [java] #2.3330758238192146 on iteration26
+     [java] #1.8502753002094892 on iteration27
+     [java] #1.5223428157156462 on iteration28
+     [java] #1.2598774657785299 on iteration29
+     [java] #1.000695398740774 on iteration30
+     [java] #0.7740734266303804 on iteration31
+     [java] #0.5586952587119782 on iteration32
+     [java] #0.432620826352462 on iteration33
+     [java] #0.335698067663202 on iteration34
+     [java] #0.23712841406212704 on iteration35
+     [java] #0.16096358347402884 on iteration36
+     [java] #0.12925084437098633 on iteration37
+     [java] #0.10022495928686226 on iteration38
+     [java] #0.07603048420459402 on iteration39
+     [java] #0.0557364121162891 on iteration40
+     [java] #0.038598970537321975 on iteration41
+     [java] #0.02622356451584551 on iteration42
+     [java] #0.01852380012049082 on iteration43
+     [java] #0.014870676060994015 on iteration44
+     [java] #0.012107510614939088 on iteration45
+     [java] #0.009717440372696728 on iteration46
+     [java] #0.0077752120956660065 on iteration47
+     [java] #0.006382134704367104 on iteration48
+     [java] #0.005152326107491945 on iteration49
+     [java] #0.0040266774385315784 on iteration50
+     [java] #0.0031234127678771983 on iteration51
+     [java] #0.002248395662064695 on iteration52
+     [java] #0.001734634873130858 on iteration53
+     [java] #0.0013280767853700581 on iteration54
+     [java] #9.440818138273244E-4 on iteration55
+     [java] #6.414329696298182E-4 on iteration56
+     [java] #5.073639944441766E-4 on iteration57
+     [java] #3.927289436518322E-4 on iteration58
+     [java] #2.998352383656311E-4 on iteration59
+     [java] #2.2175580190264554E-4 on iteration60
+     [java] #1.5740626940896618E-4 on iteration61
+     [java] #1.0851668324107777E-4 on iteration62
+     [java] #7.687595939387393E-5 on iteration63
+     [java] 
+     [java] Results: [103]
+     [java] Begin computation
+     [java] #42.79300547357041 on iteration0
+     [java] #22.490427390718366 on iteration1
+     [java] #22.37108268342841 on iteration2
+     [java] #21.239908227941072 on iteration3
+     [java] #17.80481639740441 on iteration4
+     [java] #13.570985737079333 on iteration5
+     [java] #11.871789492706675 on iteration6
+     [java] #9.843841574238532 on iteration7
+     [java] #8.322639591443732 on iteration8
+     [java] #5.499344177245547 on iteration9
+     [java] #4.663839802759014 on iteration10
+     [java] #4.344335898475762 on iteration11
+     [java] #2.3396411273864715 on iteration12
+     [java] #1.6341657881965403 on iteration13
+     [java] #1.2285233684205963 on iteration14
+     [java] #1.1068888598235844 on iteration15
+     [java] #0.9312030806596212 on iteration16
+     [java] #0.8058723456751409 on iteration17
+     [java] #0.7426391663858709 on iteration18
+     [java] #0.6353533778685687 on iteration19
+     [java] #0.48228223812147064 on iteration20
+     [java] #0.3733802386568357 on iteration21
+     [java] #0.28003794471719345 on iteration22
+     [java] #0.1822333744684954 on iteration23
+     [java] #0.10834367161949388 on iteration24
+     [java] #0.06258456606531126 on iteration25
+     [java] #0.03239787155024487 on iteration26
+     [java] #0.01399272751346814 on iteration27
+     [java] #0.005038386601199818 on iteration28
+     [java] #0.001590022753319431 on iteration29
+     [java] #4.791815376137265E-4 on iteration30
+     [java] #1.2406979364243398E-4 on iteration31
+     [java] #3.045099623477654E-5 on iteration32
+     [java] 
+     [java] Results: [103, 104]
+     [java] Begin computation
+     [java] #24.603854428134525 on iteration0
+     [java] #16.403813423921704 on iteration1
+     [java] #8.62435021315251 on iteration2
+     [java] #8.18316794001305 on iteration3
+     [java] #6.198193260583537 on iteration4
+     [java] #4.659191110394573 on iteration5
+     [java] #2.0142532772378132 on iteration6
+     [java] #1.3721616728358157 on iteration7
+     [java] #0.2609617833444986 on iteration8
+     [java] #0.19559649691808545 on iteration9
+     [java] #0.05547840904134205 on iteration10
+     [java] #0.05144784969084526 on iteration11
+     [java] #0.0447514816541954 on iteration12
+     [java] #0.03221201157047915 on iteration13
+     [java] #0.027163453462875964 on iteration14
+     [java] #0.025913425182864103 on iteration15
+     [java] #0.02432701361131251 on iteration16
+     [java] #0.0233634343475444 on iteration17
+     [java] #0.021327085132497814 on iteration18
+     [java] #0.019268359347265118 on iteration19
+     [java] #0.017343189368602907 on iteration20
+     [java] #0.013676323541687907 on iteration21
+     [java] #0.008498677551017408 on iteration22
+     [java] #0.0067658966540733445 on iteration23
+     [java] #0.004409929122360268 on iteration24
+     [java] #0.004042311754886896 on iteration25
+     [java] #0.0028324083666291244 on iteration26
+     [java] #0.001525117252583641 on iteration27
+     [java] #6.734901721472397E-4 on iteration28
+     [java] #2.9690697135720256E-4 on iteration29
+     [java] #1.10250013563018E-4 on iteration30
+     [java] #4.68836393423544E-5 on iteration31
+     [java] 
+     [java] Results: [103, 104, 198]
+     [java] Begin computation
+     [java] #7.415869319854224 on iteration0
+     [java] #3.8669567055419485 on iteration1
+     [java] #3.3566784539963805 on iteration2
+     [java] #0.4279423078065605 on iteration3
+     [java] #0.18038136841096275 on iteration4
+     [java] #0.1190617637305138 on iteration5
+     [java] #0.10731619755476629 on iteration6
+     [java] #0.09902255796605175 on iteration7
+     [java] #0.09006915787395542 on iteration8
+     [java] #0.07155150179070802 on iteration9
+     [java] #0.046906409571377594 on iteration10
+     [java] #0.042516514997728905 on iteration11
+     [java] #0.03504114047458984 on iteration12
+     [java] #0.022553232080369412 on iteration13
+     [java] #0.015358610615130885 on iteration14
+     [java] #0.014189391266157259 on iteration15
+     [java] #0.013015967302777653 on iteration16
+     [java] #0.012218846681051332 on iteration17
+     [java] #0.011340100785815821 on iteration18
+     [java] #0.010478762316409984 on iteration19
+     [java] #0.010037089165635393 on iteration20
+     [java] #0.007946619789436227 on iteration21
+     [java] #0.004923114194781419 on iteration22
+     [java] #0.003812855627742806 on iteration23
+     [java] #0.0031783911821321453 on iteration24
+     [java] #0.002984862946306066 on iteration25
+     [java] #0.0023962048742731668 on iteration26
+     [java] #0.0014470888496731504 on iteration27
+     [java] #6.859965031509319E-4 on iteration28
+     [java] #2.6270694424113117E-4 on iteration29
+     [java] #8.312393457288181E-5 on iteration30
+     [java] 
+     [java] Results: [103, 104, 198, 144]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 750
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] 550 [103, 500, 500, 500]
+     [java] 600 [102, 156, 156, 500]
+     [java] 650 [103, 113, 104, 105]
+     [java] 700 [102, 106, 106, 106]
+     [java] 750 [103, 104, 198, 144]
+     [java] Width: 0.03571428571428571
+     [java] Performing random walk.
+     [java] Reached end MtCar[0.502, 0.007] in 79565
+     [java] Reached end MtCar[0.507, 0.009] in 165787
+     [java] Reached end MtCar[0.510, 0.021] in 21153
+     [java] Reached end MtCar[0.509, 0.015] in 131135
+     [java] Reached end MtCar[0.501, 0.014] in 13977
+     [java] Reached end MtCar[0.514, 0.016] in 86070
+     [java] Reached end MtCar[0.505, 0.007] in 43087
+     [java] Reached end MtCar[0.501, 0.010] in 44534
+     [java] Reached end MtCar[0.502, 0.004] in 45418
+     [java] Reached end MtCar[0.507, 0.008] in 142762
+     [java] Reached end MtCar[0.505, 0.006] in 1655
+     [java] Reached end MtCar[0.506, 0.009] in 86174
+     [java] Reached end MtCar[0.513, 0.014] in 45648
+     [java] Reached end MtCar[0.502, 0.003] in 51002
+     [java] Reached end MtCar[0.504, 0.006] in 39264
+     [java] Reached end MtCar[0.513, 0.016] in 67518
+     [java] Reached end MtCar[0.507, 0.008] in 62131
+     [java] Reached end MtCar[0.511, 0.015] in 79365
+     [java] Reached end MtCar[0.503, 0.011] in 71391
+     [java] Reached end MtCar[0.505, 0.014] in 35723
+     [java] Reached end MtCar[0.506, 0.007] in 18004
+     [java] Reached end MtCar[0.505, 0.012] in 22879
+     [java] Reached end MtCar[0.502, 0.006] in 40990
+     [java] Reached end MtCar[0.510, 0.019] in 23274
+     [java] Reached end MtCar[0.501, 0.007] in 24958
+     [java] Reached end MtCar[0.509, 0.016] in 10073
+     [java] Fraction of state space reached: 506 / 784
+     [java] want 800
+     [java] Through bin 4 sizes 1
+     [java] 506
+     [java] Begin computation
+     [java] #14.796480383745905 on iteration0
+     [java] #11.066720060312631 on iteration1
+     [java] #8.219383895675634 on iteration2
+     [java] #7.132374249173818 on iteration3
+     [java] #6.248894128379931 on iteration4
+     [java] #5.776930315923053 on iteration5
+     [java] #5.3180652756761475 on iteration6
+     [java] #4.9582228719601105 on iteration7
+     [java] #4.816413524227226 on iteration8
+     [java] #4.781398943977642 on iteration9
+     [java] #4.739167825653595 on iteration10
+     [java] #4.654363674390687 on iteration11
+     [java] #4.596907218291641 on iteration12
+     [java] #4.580241032880728 on iteration13
+     [java] #4.559854075944436 on iteration14
+     [java] #4.538406472307095 on iteration15
+     [java] #4.511905491829474 on iteration16
+     [java] #4.472954476144835 on iteration17
+     [java] #4.426787103758123 on iteration18
+     [java] #4.407580656607436 on iteration19
+     [java] #4.387954311329466 on iteration20
+     [java] #3.835766968189006 on iteration21
+     [java] #3.5050476487265456 on iteration22
+     [java] #3.08613423679941 on iteration23
+     [java] #2.7982186082529097 on iteration24
+     [java] #2.5051666391060223 on iteration25
+     [java] #2.164387812455672 on iteration26
+     [java] #1.7271159920729247 on iteration27
+     [java] #1.3862349429006144 on iteration28
+     [java] #1.0494650398472487 on iteration29
+     [java] #0.7958275030687361 on iteration30
+     [java] #0.6156987843138211 on iteration31
+     [java] #0.46978773029331933 on iteration32
+     [java] #0.35952008324224494 on iteration33
+     [java] #0.2799866464738301 on iteration34
+     [java] #0.21269082447427934 on iteration35
+     [java] #0.17261793318249374 on iteration36
+     [java] #0.1360465999668321 on iteration37
+     [java] #0.10624767377676392 on iteration38
+     [java] #0.08181694508051862 on iteration39
+     [java] #0.06015973265735397 on iteration40
+     [java] #0.04140594967468303 on iteration41
+     [java] #0.03081558562607256 on iteration42
+     [java] #0.021758697304747443 on iteration43
+     [java] #0.016420692623057676 on iteration44
+     [java] #0.01254193432099271 on iteration45
+     [java] #0.009579809516210958 on iteration46
+     [java] #0.007253991350680167 on iteration47
+     [java] #0.005349276131894953 on iteration48
+     [java] #0.004022889789382589 on iteration49
+     [java] #0.0029907149050387716 on iteration50
+     [java] #0.002259764557479116 on iteration51
+     [java] #0.001731316631165214 on iteration52
+     [java] #0.0013091359779764389 on iteration53
+     [java] #0.0010180785421312066 on iteration54
+     [java] #7.527896860040073E-4 on iteration55
+     [java] #6.205973215571703E-4 on iteration56
+     [java] #4.991018404894021E-4 on iteration57
+     [java] #3.8363820978304375E-4 on iteration58
+     [java] #2.9446993428905444E-4 on iteration59
+     [java] #2.1187561610247485E-4 on iteration60
+     [java] #1.4933267675587558E-4 on iteration61
+     [java] #1.1121263156610439E-4 on iteration62
+     [java] #7.811447902383861E-5 on iteration63
+     [java] 
+     [java] Results: [104]
+     [java] Begin computation
+     [java] #36.63101663081662 on iteration0
+     [java] #25.45898145935032 on iteration1
+     [java] #17.652414858306898 on iteration2
+     [java] #16.039611461462805 on iteration3
+     [java] #14.983073021336423 on iteration4
+     [java] #10.847009134454737 on iteration5
+     [java] #9.766432107639538 on iteration6
+     [java] #7.055875937353122 on iteration7
+     [java] #4.765351229739352 on iteration8
+     [java] #4.269557796467268 on iteration9
+     [java] #4.041736262697199 on iteration10
+     [java] #3.08236557415961 on iteration11
+     [java] #2.2460091420371953 on iteration12
+     [java] #1.7858196759426903 on iteration13
+     [java] #1.389330863214667 on iteration14
+     [java] #1.1277973101693632 on iteration15
+     [java] #0.879921764102022 on iteration16
+     [java] #0.7365858710049622 on iteration17
+     [java] #0.6808164280596145 on iteration18
+     [java] #0.5462696064549704 on iteration19
+     [java] #0.3966675086144278 on iteration20
+     [java] #0.28413143880621305 on iteration21
+     [java] #0.20184750335599233 on iteration22
+     [java] #0.1491305488062693 on iteration23
+     [java] #0.11414223700050741 on iteration24
+     [java] #0.07856354461905823 on iteration25
+     [java] #0.04630153600088249 on iteration26
+     [java] #0.02285981846510765 on iteration27
+     [java] #0.013670798151181884 on iteration28
+     [java] #0.007032168992651577 on iteration29
+     [java] #0.003042547805051754 on iteration30
+     [java] #0.0011119445955358742 on iteration31
+     [java] #3.510065643723692E-4 on iteration32
+     [java] #1.2386153996146732E-4 on iteration33
+     [java] #6.266366145268876E-5 on iteration34
+     [java] 
+     [java] Results: [104, 153]
+     [java] Begin computation
+     [java] #34.05589911540244 on iteration0
+     [java] #17.707624065916534 on iteration1
+     [java] #13.029470741860308 on iteration2
+     [java] #11.278398062397372 on iteration3
+     [java] #8.966528774660887 on iteration4
+     [java] #4.580271483742422 on iteration5
+     [java] #1.275367344622083 on iteration6
+     [java] #0.3503815019920893 on iteration7
+     [java] #0.2511487125045875 on iteration8
+     [java] #0.09388997935062093 on iteration9
+     [java] #0.07732309214907218 on iteration10
+     [java] #0.05653139954574726 on iteration11
+     [java] #0.03667039211395462 on iteration12
+     [java] #0.03273591948165233 on iteration13
+     [java] #0.0303663821757425 on iteration14
+     [java] #0.029135066391567932 on iteration15
+     [java] #0.027711622309411155 on iteration16
+     [java] #0.026597788715434945 on iteration17
+     [java] #0.024521457347233877 on iteration18
+     [java] #0.01864615813845205 on iteration19
+     [java] #0.01607601660461455 on iteration20
+     [java] #0.014241435706509264 on iteration21
+     [java] #0.011703891887350437 on iteration22
+     [java] #0.00679126040526512 on iteration23
+     [java] #0.003679811558754409 on iteration24
+     [java] #0.0025769273701712336 on iteration25
+     [java] #0.002257262335518817 on iteration26
+     [java] #0.0013641794021168607 on iteration27
+     [java] #5.964611835764799E-4 on iteration28
+     [java] #2.1014418720710637E-4 on iteration29
+     [java] #6.122455100410207E-5 on iteration30
+     [java] 
+     [java] Results: [104, 153, 142]
+     [java] Begin computation
+     [java] #13.629642810112493 on iteration0
+     [java] #6.395925617339515 on iteration1
+     [java] #3.5620698730933427 on iteration2
+     [java] #0.84339913175031 on iteration3
+     [java] #0.24938138602865934 on iteration4
+     [java] #0.14652546652814635 on iteration5
+     [java] #0.10916943138143154 on iteration6
+     [java] #0.09354578212355591 on iteration7
+     [java] #0.0808650153654753 on iteration8
+     [java] #0.04435067860841713 on iteration9
+     [java] #0.04000189626593453 on iteration10
+     [java] #0.032313442800671055 on iteration11
+     [java] #0.028141547877609696 on iteration12
+     [java] #0.026555981621832814 on iteration13
+     [java] #0.02507467056095436 on iteration14
+     [java] #0.023214948457564333 on iteration15
+     [java] #0.02050113385774921 on iteration16
+     [java] #0.018629020591788503 on iteration17
+     [java] #0.017176593457094214 on iteration18
+     [java] #0.015279123358396873 on iteration19
+     [java] #0.012268381595262667 on iteration20
+     [java] #0.00971807854547535 on iteration21
+     [java] #0.007791775328570338 on iteration22
+     [java] #0.007381006160883885 on iteration23
+     [java] #0.006595392258631705 on iteration24
+     [java] #0.005004669598946521 on iteration25
+     [java] #0.0032179935840588314 on iteration26
+     [java] #0.0016728336845517333 on iteration27
+     [java] #7.050629913862849E-4 on iteration28
+     [java] #2.4376504991607817E-4 on iteration29
+     [java] #7.003944307371057E-5 on iteration30
+     [java] 
+     [java] Results: [104, 153, 142, 142]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 800
+     [java] 200 [140, 152, 164, 165]
+     [java] 250 [115, 166, 107, 162]
+     [java] 300 [105, 171, 153, 158]
+     [java] 350 [103, 103, 103, 103]
+     [java] 400 [137, 141, 141, 143]
+     [java] 450 [102, 103, 161, 180]
+     [java] 500 [103, 175, 177, 178]
+     [java] 550 [103, 500, 500, 500]
+     [java] 600 [102, 156, 156, 500]
+     [java] 650 [103, 113, 104, 105]
+     [java] 700 [102, 106, 106, 106]
+     [java] 750 [103, 104, 198, 144]
+     [java] 800 [104, 153, 142, 142]
+     [java] End computation. KBRL
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 3 minutes 4 seconds

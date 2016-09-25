@@ -1,0 +1,85 @@
+trial 0
+nnnOOOOOOOnOOOOOOOOOOOnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<O<OO<<OO<<OOO<<OO<<OOO<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>>>OOOnnOOOOOOOOOOOOOnnnnnnnnnnnnnnnnn>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>vOO>>>>OOOOOOOnO
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<<<<<O<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<<n<n<n<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<n<<n<n<n<<n<n<nnnnnnn<n<nnnnnn<<n<<n<n<n<<n<n<nnnnnn<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nn<<n<<n<n<n<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nn<<
+Steps: [500, 243, 500]
+Rewards: [-1874.717166708546, -829.6497792450315, -1798.2086515115773]
+-----
+
+trial 1
+nnnOOOOOOOOOOOOnOOOOOOOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<<nOOOOOOOOOOOOOOOOOOOO<<<<<O<OOO<<OO<<OOO<<OO<<OOO<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<<<O<<<<nnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<n<<nn<nn<<nn<<nnnn<<nn<<<<nnnnnn<<<<nnnn<<nn<<nnnn<<nn<<<<nnnnnn<<<<nnnnnn<nn<nnnnn<n<<nnnn<nnn<n<<nn<nn<<nn<<nnnn<<nn<<nnnn<<nn<<nnnn<<<<nn<<nnnn<<nn<<nnnn<<<<nnnnnn<<<<nn<<nnnn<<nn<<nnnn<<<<nn<<nnnn<<nn<<nnnn<<nn<<nnnn<nn<n<n<<nn<nnnn<<nnnn<<nnn<n<nnnn<<nn<<nnnn<<nn<<nnnn<<<<nn<<nnnn<<nn<<nnnn<<nn<<<<nnnnnn<nn<nnnnnnnn<<<<nnnn<<nn<<
+Steps: [500, 500, 500]
+Rewards: [-1893.0386491653296, -1813.1615693844058, -1798.1056085728258]
+-----
+
+trial 2
+nnnnOOOOOOOOOOOOOOOOnnnnnn>nnnnnnnnnnnOOOOOnOOOOnOOOnOOOnOOnOnnOnnOOnnOnnOOnnOnOOnOOOOOOOOOOOOOOO>>>>>>>>OO>>>>>>>OO>>>>>>>OO>>>>>>>OO>>>>>>O>>>>>>>OO>>>>>>>OO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOOO>>>>>>>OOO>>>>>>>OOOO>>>>>>>OOO>>>>>>>>OO>>>>>>>OOO>>>>>>>OO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO>>>>>>>OOO
+nn<<nOOOOOOOOOOOOOOOOOOOO<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<<<O<<<<<<<<<<<<O<<<<<<<<<nnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnnnn>>>>>>>>>>>>>>>>>>>>n>>>>>>>>>n>>>>>>>>>>>>>>n>>>>>>>n>>>>>>>>>>>n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<nnn<n<n<nnnnnnnnn<nnn<nnnnnnnnnnnnnnnnnnn<nnnnn<nnn<n<nnnnnnnnnnn<nnnnn<nnn<n<nnnnnnnnnnn<n<nnnnnnn<n<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<nnnnnnnnnnnnnnn<nnn<nnnnn<n<nnnnnnnnnnn<nnn<nnnnn<n<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnn<nnnnnnnnnnnnn<nnn<nnnnn<n<nnnnnnnnnnn<n<nnnnnnn<n<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<nnn
+Steps: [500, 500, 500]
+Rewards: [-1408.0339356436652, -1855.0693850328855, -1801.5241562625172]
+-----
+
+trial 3
+nnnOOOOOOOOOOOOOOOOOOOOOOOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<<nOOOOOOOOOOOOOOOOOOOO<<<<<O<OOO<<OO<<OOO<<OO<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<<<O<<<<<<<<Onnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<<n<n<n<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<n<<n<n<n<<n<<n<n<n<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<n<<n<n<n<<n<n<nnnnnn<<n<<n<n<n<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<n<<n<n<n<<n<n<nnnnnn<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nnnn<<nn<<nn<<
+Steps: [500, 356, 500]
+Rewards: [-1832.7942051751081, -1347.4507872518623, -1798.1056085728258]
+-----
+
+trial 4
+nnnOOOOOOOOOOOOnOOOOOOOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nnnOOOOOOOOOOOOOOOOOOOOOOOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<n<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnn<nnnnnnnnnnn<n<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<n<n<nnnnnnnnnnn<nnnnn<nnnnnnnnnnnnnnnnn<nnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnn<nnn<n<nnnnnnnnnnnnnnnnnnnnn<nnnnn<nnn<n<nnnnnnn<nnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnn<nnn<n<nnnnnnnn
+Results: [500, 500, 500] [-1893.0386491653296, -1832.7942051751081, -1798.1056085728258]
+-----
+
+trial 5
+nnnOOOOOOOOOnOOOOOOOOOOnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<nOOOOOOOOOOOOOOOOOOOOOOOOOOOnnnOOOn<OOOOOOOOO<<OOOOOOO<<OO<<OO<<<<<O<<<<O<<<<O<<<<<<O<<<<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>O>>>>>>nOOOOOOnn
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<<<<<O<<<<<<O<<<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<n<nn<nnnn<<nnnn<<n<n<nnnnnn<<n<<n<n<n<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nn<<n<<n<n<n<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<n<<n<n<n<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<n<<n<n<n<<nn<<nn<<nn<<nnnn<<nn<<
+Steps: [500, 294, 500]
+Rewards: [-1889.168770232806, -1040.7731633815597, -1805.5429295731399]
+-----
+
+trial 6
+nnnOOOOOOOOOOOOOOOOOOnOOOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<<nOOOOOOOOOOOOOOOOOOOO<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<nnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnnn>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>v>>>>>>>n>>>>>>>>>>>nnnn>OO>>>>OOOOOOnn
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<<<<<O<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<<n<n<n<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<n<<n<n<n<<n<n<nnnnnnn<n<nnnnnn<<n<<n<n<n<<n<n<nnnnnn<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nn<<n<<n<n<n<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nn<<
+Steps: [500, 377, 500]
+Rewards: [-1885.2009647861198, -1417.6955138281858, -1798.2086515115773]
+-----
+
+trial 7
+nnnOOOOOOOnOOOOOOOOOOOnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<O<OO<<OO<<OOO<<OO<<<<<O<<<<O<<<<O<<<<O<<<<nOOOOOOOOOOOnnnnn<nnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>>>>>>>>>>>>>>>>>>>>>>>v>>>>>>>>nn>>>>>>n>>>>>>>>>>>>>nn>>>>>OOOOOOO>>
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<<n<n<nnn<<nn<<nnnn<<nn<<<<nnnn<<nn<<nnnn<<nnn<n<nnnn<<nnnnnn<nn<nnnnnnnn<<nnnnnn<nn<nnnnn<n<nnnnnnnn<<nn<<nnnn<<nn<<nnnn<nn<n<<n<<n<n<n<<n<<<<n<n<n<nnn<nn<<nnn<n<nnnnnnnnnn<nn<nnnnn<n<nnnnnnnn<<nn<<nnnn<<nn<<<<nnnnnn<<<<nnnnnn<nn<nnnnn<<n<n<nnn<<nn<<<<nnnn<<nn<<nnnn<<nn<<<<nnnn<<nn<<nnnn<<nn<<<<nnnn<<nn<<nnnn<<nn<<<<nnnnnn<nn<nnnnn<<n
+Steps: [500, 238, 500]
+Rewards: [-1874.717166708546, -852.5906947746827, -1798.1056085728258]
+-----
+
+trial 8
+nnnOOOOOOOOOOOOOOOOOOOOOOOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<O<OO<<OO<<OOO<<O<<<O<<<<O<<<<O<<<<<<<<<<O<<<<<<<<<<O<<<<<<<<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnOnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>n>>>>>>>>>>>>>>>>>nn>>>>>>>>>nn>>>>>>>>>>nnnn>>n>>>>n>>n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>O>>>>>>OOOOOOOn
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<n<nnnnnnnnnnnnnnn<n<nnnn<<nnnnnn<nn<nnnnn<<n<n<nnn<<nn<<<<nnnn<<nn<<nnnn<<nn<<nnnn<<nn<<<<nnnn<<nn<<nnnn<<nnn<n<nnnn<<nnn<n<nnnnnnnnnn<nn<nnnnn<n<nnnnnnnnnn<nn<nnnnnnnn<<nnnn<nn<n<<n<<<<n<n<n<nnn<nn<<nnnnnn<<<<nnn<n<nnnnnnn<n<nnnnnnnn<nn<nnnnnnnn<<nn<<nnnn<<<<nnnnnn<nn<n<<n<<n<n<nnnnnnnn<<nnnnnn<nn<nnnnn<n<nnnnnnnn<<nn<<<<nnnnnn<nn<nnnnnnn
+Steps: [500, 429, 500]
+Rewards: [-1832.7942051751081, -1577.2723822903304, -1801.5241562625172]
+-----
+
+trial 9
+nnnOOOOOOOOOOnOOOOOOOOOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnOnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+nn<<nOOOOOOOOOOOOOOOOOOOO<<<<<O<OOO<<OO<<OOO<<OO<<OOO<<OOO<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnnnnnnnnnn>n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>n>>>>>>>
+<n<nOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<<<<<O<<<<<<O<<<<<<O<<<<O<<<<O<<<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<n<Onnn<<nn<n<nnnnnnnnnnn<n<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<n<n<nnnnnnnnnnn<n<nnnnnnn<n<nnnnnnnnnnnnnnnnnnnnn<nnnnn<nnnnnnnnnnnnnnnnn<nnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<n<n<nnnnnnnnnnn<nnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<n<n<nnnnnnnnnnn<nnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnn<n<n<nnnnnnnnnnn<nnnnn<nnn<n<nnnnnnnnnnn<n<nnnnn
+Steps: [500, 332, 500]
+Rewards: [-1874.7708092891228, -1243.375860113623, -1809.37507071688]
+-----
+
+trial 10
+nnn>>>>OOOnnnnnnOOOOOOOOOOOOOOOOOnnnnnnnnnnnnnOOOOOnOOOOOOOOOOOnOOO>>OOOOOOOOOOOOOOOnnnnn>n>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>nn>>>>>OOOOOOOO
+nn<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<<<<<O<<<<<<O<<<<<<<<<<O<<<<<<<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn<nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn>nnn>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>OO>>>nnOOOOOnO
+n<n<OOOOOOOOOOOOOOOOOOOOO<<<O<<<<<<O<<<<<<<<<<<<O<<<<<<<<<<O<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<O<<<<On<nnn<<n<n<n<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<n<<n<n<n<<n<n<nnnnnnn<n<nnnnnn<<n<<n<n<n<<n<n<nnnnnn<<n<<n<n<n<<n<<n<n<n<<nn<<nn<<nn<<n<<n<n<n<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nnnn<<nn<<nn<<nn<<nn<<nn<<
+Steps: [255, 382, 500]
+Rewards: [-894.4631216023204, -1444.7808641968372, -1798.2086515115773]

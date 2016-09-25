@@ -1,0 +1,5 @@
+# results
+
+This directory contains the log outputs used to generate the figures in the
+thesis and technical report. The code in ../scripts can be used to process
+these logs and reproduce the figures.

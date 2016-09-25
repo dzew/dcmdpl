@@ -1,0 +1,126 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+
+<head>
+  <title>Dawit's Continuous MDP Library Tutorial</title>
+  <meta NAME="Keywords" CONTENT="Dawit Zewdie MDP Reinforcement Learning">
+</head>
+
+<body>
+
+<h1> Getting Started with DCMDPL </h1>
+
+<p>This tutorial provides a guided tour of the contents of DCMDPL. It starts by describing the available examples then walks
+through the steps of implementing and solving an RL domain using the available code.</p>
+
+<p>The tutorial assumes: proficiency in Java, a solid RL background, and familiarity
+with the concepts and terminology presented in <a href="#References">[Dawit14] or [DK15]</a>. Consider using an IDE to do this tutorial.</p>
+
+<h2>Step 0: Orientation (25 mins)</h2>
+<p>Import the project into your IDE 
+<a href="http://help.eclipse.org/juno/index.jsp?topic=%2Forg.eclipse.platform.doc.user%2Ftasks%2Ftasks-importproject.htm">
+(instructions for eclipse).</a> Once you have done so, take a moment to skim the README; it give a concise summary
+of the project structure and available features. Flip through some of the code to get a feel for the coding style.</p>
+
+<p>Navigate towards the functional tests (<code>drl.tests.functional</code>) and run a few of them. The particularly enlightening tests are 
+<code>InteractiveFrameTest, LstdTest,  KbrlCallerTest</code> and
+<code>MdpRolloutTest</code>. Inspect the code for these tests closely. Read the javadocs for the methods and classes used in the tests.
+Try changing some lines and see what happens.</p>
+
+<p> <b>Check yourself:</b> How is an MDP defined? (look inside <code>drl.mdp.api.*</code>) How are the learners configured?
+(look inside <code>drl.solver.KbrlCaller</code> and <code>drl.solver.VfaBuilder</code>) </p>
+
+<h2>Step 1: Implementing MDPs (20 mins)</h2>
+<p>Now that we have seen how the project is structured, we will proceed to implement out first MDP: the Orbiter domain.
+Orbiter is a 4-dimensional MDP where the agent is a satellite in orbit around a planet. A state in this domain is <code>[x, y, xDot, yDot]</code>
+where <code>(x,y)</code> is the coordinate of the satellite, and <code>(xDot, yDot)</code> is the velocity vector.
+The agent has four thrusters; thruster-0 always points
+at the planet, thruster-1 always points away from the planet, thruster-2 and thruster-3 are perpendicular to the line connecting the 
+satellite to the planet. The agent starts in a stable orbit close to the planet. It's objective is to move to a higher orbit.
+The agent gets a reward of -1 for every transition that does not reach the goal.</p>
+
+<p> Scaffolding for the Orbiter domain is provided <code>drl.tutorial.</code></p>
+
+<p> <b>Task 1.1:</b> finish implementing <code>OrbiterMdp</code>. The physics has been taken care of. Find the remaining
+<code>TODO</code>s and fill them in. Use the MDP implementations in <code>drl.mdp.instance.*</code> as a reference.</p>
+
+<p> When you have finished filling in <code>OrbiterMdp</code>, simulate it by running <code>OrbiterSolver</code>.
+This opens up an <code>InteractiveFrame</code>.
+Click "Start", then control the satellite using WASD on the keyboard. Open up OrbiterAction to see how actions are mapped to keys.</p>
+
+<p> <b>Task 1.2:</b> Add a new action that corresponds to not firing any thrusters. Map this action to 'x' on the keyboard.
+Run <code>OrbiterSolver</code> again to make sure this action works as intended.</p>
+
+<p>Now look at the visualization. It has all the important information; it shows: the location of the satellite, the goal region, and the bounds of the universe.
+But the visualization leaves something to be desired.</p>
+
+<p> <b>Task 1.3: (optional)</b> Modify <code>OrbiterVisualizer</code> to make the visualization look like the picture below.
+(Mark the location of the planet, show the velocity of the satellite, fill in some colors).
+Note that you can do all of this fairly easily using only methods in <code>GraphicsUtils</code>.
+Use <code>drl.mdp.instance.acrobot.AcrobotVisualizer</code> as a reference.</p>
+
+<img src="orbitervis.png" alt="Flashy oribiter visualizaion. The goal is marked in grey.">
+
+
+<h2>Step 2: Solving MDPs (35 mins)</h2>
+Now that you have a working MDP instance, you are ready to solve it. <code>OrbiterSolver</code> comes with scaffolding for doing so.
+
+<p> <b>Task 2.1:</b> Solve <code>OrbiterMDP</code> using LSTDQ by replacing the call to <code>testVisualizer()</code> with
+a call to <code>testLstd()</code>. Play with the different configurations
+(basis functions, number of bases, number of samples ...). How well does this work? (Hint: not very well)</p>
+
+<p>The <code>testLstd()</code> method prints out cross sections of the value function. You can visualize these in python using
+<code>showSurface()</code> in <code>scripts/vfplotter.py</code> or you can use your own code.
+Visualize different cross sections of the value function.</p>
+
+<p>  <b>Task 2.2:</b> Solve <code>OrbiterMDP</code> using KBRL by replacing the call to <code>testLstd()</code> with a call to
+<code>testKbrl()</code>. Play with the different configurations
+(KBRL vs KBSF, bandwidth, number of samples ...). If you get an OutOfMemory exception or if it takes too long,
+reduce the number of samples. How well does this work? (Hint: not very well)</p>
+
+<p>  <b>Task 2.3:</b> Solve OrbiterMDP using sustained actions. <code>drl.tests.functional.KbrlCallerTest</code> shows how to generate sample transitions
+using sustained actions. This should work well.</p>
+
+
+<h2>Step 3: Changing representations (20 mins)</h2>
+
+<p>The Orbiter domain has rotational symmetry, which means it can be represented as a 3-dimensional MDP without any loss of information
+using the transform <code>[x, y, xDot, yDot] \to [r, rDot, r * thetaDot]</code> where <code>r = sqrt(x^2 + y^2)</code> and <code>theta = atan2(y, x)</code>.
+(Note that <code>(rDot, r * thetaDot)</code> is a rotation of the velocity vector <code>(xDot, yDot)</code>). </p>
+
+<p>If we do all calculation in terms of the 3-dimensional representation of the state space, the problem becomes considerably easier;
+however, we wouldn't want to go through the trouble of reimplementing OrbiterMdp.
+DCMDPL provides tools for performing computation in a transformed space.</p>
+
+<p>  <code>Task 3.1:</code> Complete the implementation of RadianTransform to produce the transform described above. When you are done, 
+verify the correctness of your implementation using <code>testRadianTransform()</code> in OrbiterSolver.</p>
+
+After implementing RadianTransform, go back to <code>testLstd()</code> and <code>testKbrl()</code> and see how working in the transformed space results in markedly better performance.
+
+<p>  <b>Task 3.2:</b> In <code>testLstd()</code>, create a basis in the transformed space using <code>drl.math.vfa.TransformLvfaFactory</code>.
+For example, to create a degree 4 polynomial basis in the transformed space use the code: 
+<code>new TransformLvfaFactory(new RadianTransform(mdp), LinearFAs.polynomialBasisFactory(cell, 4));</code>
+where <code>cell = Cell.of(new Interval(0,1), new Interval(-2,4), new Interval(-2,4));</code>.
+(Note that <code>cell</code> is what it is because <code>r</code> is in the range [0,1] and both <code>rDot</code> and
+<code>r * thetaDot</code> are in the range [-2, 2]). How well does this work (Hint: it should work well)</p>
+
+<p>  <b>Task 3.3:</b> In <code>testKbrl()</code>, use <code>drl.math.tfs.TransformDF</code> to create a
+DistanceFunction that corresponds to distances in the transformed space.
+Use this DistanceFunction in the KbrlCaller and see how good the resulting solution is. </p>
+
+<p>  <b>Task 3.4 (optional):</b> Use sustained actions in conjunction with RadianTransform to create even better solutions. </p>
+
+<p>  <b>Task 3.5 (advanced):</b> Try using DKBRL and see how well that works. <code>drl.solver.MdpSolver</code> has a method for solving MDPs using DKBRL.
+To use it, you should pass in the ActionDistanceFunction: 
+<code> ActionDistanceFn.of(mdp.getActions(), new TransformDF(new RadianTransform(mdp))); </code>. If you want to do more customization than
+is possible through <code>MdpSolver</code>, use your own implementation of DKBRL using the description in [cite paper]. </p>
+
+<h2>References</h2>
+<a name="References"></a> 
+<p>[Dawit14] <a href="http://hdl.handle.net/1721.1/91883">Dawit Zewdie. Representation discovery in non-parametric reinforcement learning. Master’s thesis, MIT,
+Cambridge MA, 2014.</a></p>
+
+<p>[DK14] <a href="http://hdl.handle.net/1721.1/100053">Dawit Zewdie and George Konidaris. Representation Discovery for Kernel-Based Reinforcement Learning.
+Technical Report, MIT, Cambridge MA, 2015.</a></p>
+</body>
+</html>

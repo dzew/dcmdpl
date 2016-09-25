@@ -1,0 +1,81 @@
+Buildfile: /home/dawit/workspace/thesis/build.xml
+
+clean:
+   [delete] Deleting directory /home/dawit/workspace/thesis/build
+
+compile:
+    [mkdir] Created dir: /home/dawit/workspace/thesis/build/classes
+    [javac] /home/dawit/workspace/thesis/build.xml:24: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 123 source files to /home/dawit/workspace/thesis/build/classes
+
+jar:
+    [mkdir] Created dir: /home/dawit/workspace/thesis/build/jar
+      [jar] Building jar: /home/dawit/workspace/thesis/build/jar/MdpSolver.jar
+
+run:
+     [java] [[0.708, 0.244, 0.401, 0.771], [0.195, 0.712, 0.235, 0.451], [0.392, 0.481, 0.711, 0.044], [0.238, 0.176, 0.847, 0.965], [0.650, 0.422, 0.767, 0.458], [0.301, 0.049, 0.445, 0.866], [0.798, 0.043, 0.953, 0.164], [0.515, 0.815, 0.517, 0.477], [0.241, 0.371, 0.861, 0.155], [0.462, 0.648, 0.660, 0.110], [0.529, 0.479, 0.262, 0.162], [0.686, 0.296, 0.945, 0.144], [0.577, 0.380, 0.163, 0.517], [0.639, 0.003, 0.576, 0.989], [0.761, 0.552, 0.123, 0.573], [0.478, 0.080, 0.218, 0.151], [0.006, 0.985, 0.670, 0.261], [0.932, 0.064, 0.699, 0.571], [0.755, 0.687, 0.157, 0.129], [0.232, 0.081, 0.968, 0.860], [0.069, 0.726, 0.978, 0.503], [0.543, 0.523, 0.527, 0.013], [0.410, 0.263, 0.827, 0.830], [0.027, 0.926, 0.239, 0.693], [0.583, 0.701, 0.732, 0.735], [0.419, 0.093, 0.034, 0.746], [0.662, 0.033, 0.329, 0.579], [0.270, 0.879, 0.262, 0.625], [0.428, 0.947, 0.288, 0.313], [0.538, 0.953, 0.284, 0.474], [0.505, 0.354, 0.169, 0.701], [0.330, 0.096, 0.413, 0.297], [0.880, 0.022, 0.039, 0.304], [0.197, 0.972, 0.509, 0.882], [0.166, 0.743, 0.995, 0.962], [0.452, 0.520, 0.321, 0.308], [0.396, 0.214, 0.165, 0.078], [0.506, 0.330, 0.663, 0.198], [0.298, 0.462, 0.070, 0.421], [0.350, 0.365, 0.205, 0.182], [0.376, 0.662, 0.404, 0.665], [0.484, 0.000, 0.704, 0.945], [0.570, 0.850, 0.782, 0.659], [0.956, 0.220, 0.951, 0.448], [0.987, 0.260, 0.174, 0.307], [0.268, 0.124, 0.620, 0.086], [0.632, 0.454, 0.760, 0.564], [0.728, 0.568, 0.385, 0.971], [0.321, 0.745, 0.208, 0.329], [0.024, 0.025, 0.914, 0.692]]
+     [java] Width: 0.14285714285714285
+     [java] Performing random walk.
+     [java] Re-filtering 365
+     [java] Width: 0.07142857142857142
+     [java] Fraction of state space reached: 2243 / 38416
+     [java] want 3000
+     [java] Through bin 275 sizes 1
+     [java] 2243
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000, 1000]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 0.01
+     [java] 0.01 [1000, 1000, 1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [237]
+     [java] Begin computation
+     [java] 
+     [java] Results: [237, 347]
+     [java] Begin computation
+     [java] 
+     [java] Results: [237, 347, 703]
+     [java] Begin computation
+     [java] 
+     [java] Results: [237, 347, 703, 535]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 0.04
+     [java] 0.01 [1000, 1000, 1000, 1000]
+     [java] 0.04 [237, 347, 703, 535]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000, 1000]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 0.07
+     [java] 0.01 [1000, 1000, 1000, 1000]
+     [java] 0.04 [237, 347, 703, 535]
+     [java] 0.07 [1000, 1000, 1000, 1000]
+     [java] End computation. KBRL
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 38 minutes 10 seconds

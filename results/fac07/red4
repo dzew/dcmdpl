@@ -1,0 +1,268 @@
+Buildfile: /home/dawit/workspace/thesis/build.xml
+
+clean:
+   [delete] Deleting directory /home/dawit/workspace/thesis/build
+
+compile:
+    [mkdir] Created dir: /home/dawit/workspace/thesis/build/classes
+    [javac] /home/dawit/workspace/thesis/build.xml:24: warning: 'includeantruntime' was not set, defaulting to build.sysclasspath=last; set to false for repeatable builds
+    [javac] Compiling 123 source files to /home/dawit/workspace/thesis/build/classes
+
+jar:
+    [mkdir] Created dir: /home/dawit/workspace/thesis/build/jar
+      [jar] Building jar: /home/dawit/workspace/thesis/build/jar/MdpSolver.jar
+
+run:
+     [java] Width: 0.25
+     [java] Performing random walk.
+     [java] Fraction of state space reached: 96 / 256
+     [java] want 300
+     [java] Through bin 12 sizes 3
+     [java] 282
+     [java] Begin computation
+     [java] 
+     [java] Results: [357]
+     [java] Begin computation
+     [java] 
+     [java] Results: [357, 995]
+     [java] Begin computation
+     [java] 
+     [java] Results: [357, 995, 847]
+     [java] Begin computation
+     [java] 
+     [java] Results: [357, 995, 847, 726]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 300
+     [java] 300 [357, 995, 847, 726]
+     [java] Width: 0.25
+     [java] Performing random walk.
+     [java] Re-filtering 92
+     [java] Width: 0.125
+     [java] Fraction of state space reached: 523 / 4096
+     [java] want 600
+     [java] Through bin 47 sizes 1
+     [java] 523
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000, 1000]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 600
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] Width: 0.2
+     [java] Performing random walk.
+     [java] Re-filtering 157
+     [java] Width: 0.1
+     [java] Fraction of state space reached: 917 / 10000
+     [java] Begin computation
+     [java] 
+     [java] Results: [291]
+     [java] Begin computation
+     [java] 
+     [java] Results: [291, 230]
+     [java] Begin computation
+     [java] 
+     [java] Results: [291, 230, 443]
+     [java] Begin computation
+     [java] 
+     [java] Results: [291, 230, 443, 340]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 900
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] Width: 0.2
+     [java] Performing random walk.
+     [java] Re-filtering 157
+     [java] Width: 0.1
+     [java] Fraction of state space reached: 934 / 10000
+     [java] want 1200
+     [java] Through bin 87 sizes 1
+     [java] 934
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [1000, 1000, 1000, 1000]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 1200
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] 1200 [1000, 1000, 1000, 1000]
+     [java] Width: 0.16666666666666666
+     [java] Performing random walk.
+     [java] Re-filtering 236
+     [java] Width: 0.08333333333333333
+     [java] Fraction of state space reached: 1458 / 20736
+     [java] want 1500
+     [java] Through bin 141 sizes 1
+     [java] 1458
+     [java] Begin computation
+     [java] 
+     [java] Results: [269]
+     [java] Begin computation
+     [java] 
+     [java] Results: [269, 198]
+     [java] Begin computation
+     [java] 
+     [java] Results: [269, 198, 192]
+     [java] Begin computation
+     [java] 
+     [java] Results: [269, 198, 192, 1000]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 1500
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] 1200 [1000, 1000, 1000, 1000]
+     [java] 1500 [269, 198, 192, 1000]
+     [java] Width: 0.16666666666666666
+     [java] Performing random walk.
+     [java] Re-filtering 250
+     [java] Width: 0.08333333333333333
+     [java] Fraction of state space reached: 1498 / 20736
+     [java] want 1800
+     [java] Through bin 168 sizes 1
+     [java] 1498
+     [java] Begin computation
+     [java] 
+     [java] Results: [317]
+     [java] Begin computation
+     [java] 
+     [java] Results: [317, 293]
+     [java] Begin computation
+     [java] 
+     [java] Results: [317, 293, 825]
+     [java] Begin computation
+     [java] 
+     [java] Results: [317, 293, 825, 169]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 1800
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] 1200 [1000, 1000, 1000, 1000]
+     [java] 1500 [269, 198, 192, 1000]
+     [java] 1800 [317, 293, 825, 169]
+     [java] Width: 0.16666666666666666
+     [java] Performing random walk.
+     [java] Re-filtering 245
+     [java] Width: 0.08333333333333333
+     [java] Fraction of state space reached: 1477 / 20736
+     [java] want 2100
+     [java] Through bin 166 sizes 1
+     [java] 1477
+     [java] Begin computation
+     [java] 
+     [java] Results: [425]
+     [java] Begin computation
+     [java] 
+     [java] Results: [425, 359]
+     [java] Begin computation
+     [java] 
+     [java] Results: [425, 359, 297]
+     [java] Begin computation
+     [java] 
+     [java] Results: [425, 359, 297, 297]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 2100
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] 1200 [1000, 1000, 1000, 1000]
+     [java] 1500 [269, 198, 192, 1000]
+     [java] 1800 [317, 293, 825, 169]
+     [java] 2100 [425, 359, 297, 297]
+     [java] Width: 0.14285714285714285
+     [java] Performing random walk.
+     [java] Re-filtering 368
+     [java] Width: 0.07142857142857142
+     [java] Fraction of state space reached: 2291 / 38416
+     [java] want 2500
+     [java] Through bin 314 sizes 1
+     [java] 2291
+     [java] Begin computation
+     [java] 
+     [java] Results: [280]
+     [java] Begin computation
+     [java] 
+     [java] Results: [280, 558]
+     [java] Begin computation
+     [java] 
+     [java] Results: [280, 558, 286]
+     [java] Begin computation
+     [java] 
+     [java] Results: [280, 558, 286, 181]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 2500
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] 1200 [1000, 1000, 1000, 1000]
+     [java] 1500 [269, 198, 192, 1000]
+     [java] 1800 [317, 293, 825, 169]
+     [java] 2100 [425, 359, 297, 297]
+     [java] 2500 [280, 558, 286, 181]
+     [java] Width: 0.14285714285714285
+     [java] Performing random walk.
+     [java] Re-filtering 365
+     [java] Width: 0.07142857142857142
+     [java] Fraction of state space reached: 2232 / 38416
+     [java] want 2700
+     [java] Through bin 298 sizes 1
+     [java] 2232
+     [java] Begin computation
+     [java] 
+     [java] Results: [515]
+     [java] Begin computation
+     [java] 
+     [java] Results: [515, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [515, 1000, 1000]
+     [java] Begin computation
+     [java] 
+     [java] Results: [515, 1000, 1000, 250]
+     [java] 
+     [java] 
+     [java] Processed bandwidth 2700
+     [java] 300 [357, 995, 847, 726]
+     [java] 600 [1000, 1000, 1000, 1000]
+     [java] 900 [291, 230, 443, 340]
+     [java] 1200 [1000, 1000, 1000, 1000]
+     [java] 1500 [269, 198, 192, 1000]
+     [java] 1800 [317, 293, 825, 169]
+     [java] 2100 [425, 359, 297, 297]
+     [java] 2500 [280, 558, 286, 181]
+     [java] 2700 [515, 1000, 1000, 250]
+     [java] End computation. KBRL
+
+main:
+
+BUILD SUCCESSFUL
+Total time: 37 minutes 49 seconds
